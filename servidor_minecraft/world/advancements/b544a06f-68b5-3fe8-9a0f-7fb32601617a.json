@@ -116,6 +116,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-08-17 05:46:38 +0000",
       "minecraft:beach": "2025-08-17 04:25:40 +0000",
       "minecraft:desert": "2025-08-17 03:36:33 +0000",
       "minecraft:forest": "2025-08-17 04:54:01 +0000",
@@ -345,6 +346,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-17 04:07:48 +0000",
+      "minecraft:skeleton": "2025-08-17 05:32:34 +0000",
       "minecraft:spider": "2025-08-17 03:37:42 +0000",
       "minecraft:husk": "2025-08-17 03:36:09 +0000"
     },
@@ -504,6 +506,12 @@
     },
     "done": false
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-08-17 05:37:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-08-17 05:10:32 +0000"
@@ -534,9 +542,21 @@
     },
     "done": true
   },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-08-17 05:37:10 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-08-17 04:56:39 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-08-17 05:44:36 +0000"
     },
     "done": true
   },

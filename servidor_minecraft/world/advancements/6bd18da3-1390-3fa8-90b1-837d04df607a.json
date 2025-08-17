@@ -116,13 +116,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-08-17 05:15:32 +0000",
+      "minecraft:cold_ocean": "2025-08-17 05:35:02 +0000",
       "minecraft:beach": "2025-08-17 04:22:35 +0000",
-      "minecraft:desert": "2025-08-17 03:32:14 +0000",
       "minecraft:forest": "2025-08-17 04:54:01 +0000",
       "minecraft:sparse_jungle": "2025-08-17 04:50:28 +0000",
       "minecraft:river": "2025-08-17 03:24:10 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 04:26:19 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-17 05:15:32 +0000",
+      "minecraft:desert": "2025-08-17 03:32:14 +0000",
+      "minecraft:ocean": "2025-08-17 05:30:20 +0000",
       "minecraft:savanna": "2025-08-17 04:11:53 +0000",
       "minecraft:windswept_savanna": "2025-08-17 03:20:49 +0000",
       "minecraft:plains": "2025-08-17 04:33:16 +0000",
@@ -343,7 +345,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-08-17 03:35:16 +0000"
+      "bread": "2025-08-17 03:35:16 +0000",
+      "cooked_beef": "2025-08-17 05:37:38 +0000"
     },
     "done": false
   },
@@ -481,6 +484,18 @@
     },
     "done": true
   },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-08-17 05:20:53 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-08-17 05:42:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-08-17 05:11:02 +0000"
@@ -505,11 +520,36 @@
     },
     "done": true
   },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-08-17 05:32:45 +0000"
+    },
+    "done": true
+  },
   "ars_additions:find_ruined_portal": {
     "criteria": {
       "find_ruined_portal": "2025-08-17 04:56:40 +0000"
     },
     "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-08-17 05:31:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_helm": "2025-08-17 05:34:35 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "kill_apothic_invader": "2025-08-17 05:32:18 +0000",
+      "uncommon_helm": "2025-08-17 05:32:26 +0000"
+    },
+    "done": false
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
@@ -534,6 +574,12 @@
       "diamond": "2025-08-17 04:52:11 +0000"
     },
     "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_helm": "2025-08-17 05:32:26 +0000"
+    },
+    "done": false
   },
   "betterdungeons:spider_dungeon": {
     "criteria": {
