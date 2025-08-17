@@ -9314,3 +9314,120 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [17Aug2025 03:12:33.005] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
 [17Aug2025 03:12:33.005] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
 [17Aug2025 03:12:33.005] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:check_enabled
+[17Aug2025 03:20:36.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rogerto[/127.236.71.96:53761] logged in with entity id 1676 at (0.5, 63.0, 36.5)
+[17Aug2025 03:20:36.594] [Server thread/INFO] [Modonomicon/]: Building books ...
+[17Aug2025 03:20:36.609] [Server thread/INFO] [Modonomicon/]: Books built.
+[17Aug2025 03:20:36.705] [Server thread/INFO] [ars_unification/]: AE2CircuitPrintingProcesser processed recipes in 65.18 ms
+[17Aug2025 03:20:36.771] [Server thread/INFO] [ars_unification/]: IntegratedDynamicsSqueezerProcessor processed recipes in 64.76 ms
+[17Aug2025 03:20:36.836] [Server thread/INFO] [ars_unification/]: OccultismCrusherProcessor processed recipes in 65.45 ms
+[17Aug2025 03:20:36.908] [Server thread/INFO] [ars_unification/]: EnderIOSAGMillProcessor processed recipes in 70.80 ms
+[17Aug2025 03:20:36.964] [Server thread/INFO] [ars_unification/]: ModernIndustrializationCompressorProcessor processed recipes in 54.98 ms
+[17Aug2025 03:20:37.061] [Server thread/INFO] [ars_unification/]: MekanismSawmillProcessor processed recipes in 96.66 ms
+[17Aug2025 03:20:37.122] [Server thread/INFO] [ars_unification/]: MekanismCrusherProcessor processed recipes in 60.86 ms
+[17Aug2025 03:20:37.182] [Server thread/INFO] [ars_unification/]: ModernIndustrializationMaceratorProcessor processed recipes in 59.23 ms
+[17Aug2025 03:20:37.240] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringCrusherProcessor processed recipes in 57.41 ms
+[17Aug2025 03:20:37.298] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringSawmillProcessor processed recipes in 57.75 ms
+[17Aug2025 03:20:37.353] [Server thread/INFO] [ars_unification/]: ActuallyAdditionsCrusherProcessor processed recipes in 54.46 ms
+[17Aug2025 03:20:37.409] [Server thread/INFO] [ars_unification/]: FarmersDelightCuttingBoardProcessor processed recipes in 55.50 ms
+[17Aug2025 03:20:37.464] [Server thread/INFO] [ars_unification/]: AE2InscriberProcesser processed recipes in 54.19 ms
+[17Aug2025 03:20:37.465] [Server thread/INFO] [ars_unification/]: Finished processing recipes in 824.6 ms
+[17Aug2025 03:20:37.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto joined the game
+[17Aug2025 03:20:38.256] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[17Aug2025 03:20:38.315] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Rogerto} with UUID b544a06f-68b5-3fe8-9a0f-7fb32601617a.
+[17Aug2025 03:20:38.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
+[17Aug2025 03:20:38.555] [Netty Epoll Server IO #6/INFO] [immersiveengineering/]: Recipes for potions: apothic_attributes:strong_sundering, apothic_attributes:strong_haste, apothic_attributes:long_resistance, eternal_starlight:strong_hunger, apothic_attributes:sundering, minecraft:long_night_vision, potionsmaster:coal, minecraft:swiftness, apothic_attributes:long_haste, apothic_attributes:strong_fatigue, undergarden:long_glowing, minecraft:wind_charged, ars_nouveau:freezing_potion, ars_nouveau:freezing_potion_strong, undergarden:strong_featherweight, apothic_attributes:strong_knowledge, apothic_attributes:vitality, potionsmaster:quartz, apothic_attributes:flying, potionsmaster:uranium, undergarden:glowing, minecraft:long_weakness, ars_elemental:shock_potion_long, potionsmaster:unobtainium, ars_nouveau:recovery_potion_long, minecraft:strength, ars_elemental:enderference_potion_long, ars_nouveau:blasting_potion, apothic_attributes:long_fatigue, apothic_attributes:long_grievous, minecraft:slowness, minecraft:infested, deeperdarker:sculk_affinity, apothic_attributes:fatigue, tombstone:spectral, undergarden:strong_brittleness, ars_elemental:enderference_potion, the_bumblezone:neurotoxin, potionsmaster:vibranium, minecraft:luck, ars_elemental:shock_potion, apothic_attributes:grievous, minecraft:long_swiftness, minecraft:strong_regeneration, apothic_attributes:strong_resistance, potionsmaster:diamond, minecraft:regeneration, minecraft:weakness, potionsmaster:netherite_scrap, irons_spellbooks:instant_mana_two, ars_nouveau:shielding_potion_strong, potionsmaster:silver, minecraft:fire_resistance, eternal_starlight:hunger, minecraft:awkward, potionsmaster:gold, potionsmaster:zinc, minecraft:long_regeneration, irons_spellbooks:instant_mana_four, undergarden:virulent_resistance, minecraft:long_leaping, potionsmaster:osmium, deeperdarker:long_sculk_affinity, ars_nouveau:blasting_potion_long, minecraft:long_slow_falling, minecraft:weaving, minecraft:strong_swiftness, apothic_attributes:wither, undergarden:brittleness, undergarden:long_featherweight, apothic_attributes:long_sundering, potionsmaster:allthemodium, minecraft:night_vision, minecraft:water_breathing, undergarden:featherweight, minecraft:strong_strength, minecraft:slow_falling, apothic_attributes:strong_absorption, apothic_attributes:haste, ars_nouveau:mana_regen_potion_strong, undergarden:long_brittleness, minecraft:long_strength, potionsmaster:nickel, ars_nouveau:spell_damage_potion_long, apothic_attributes:long_absorption, apothic_attributes:long_knowledge, apothic_attributes:strong_grievous, minecraft:strong_leaping, minecraft:long_turtle_master, apothic_attributes:strong_vitality, occultism:third_eye_potion, minecraft:strong_harming, minecraft:harming, potionsmaster:iron, undergarden:long_virulent_resistance, minecraft:poison, potionsmaster:copper, ars_nouveau:blasting_potion_strong, potionsmaster:emerald, minecraft:strong_poison, ars_nouveau:spell_damage_potion_strong, minecraft:strong_turtle_master, the_bumblezone:long_neurotoxin, apothic_attributes:long_vitality, potionsmaster:redstone, minecraft:long_poison, ars_nouveau:spell_damage_potion, ars_nouveau:freezing_potion_long, apothic_attributes:levitation, occultism:long_third_eye_potion, ars_nouveau:mana_regen_potion, minecraft:strong_slowness, minecraft:long_water_breathing, minecraft:invisibility, apothic_attributes:knowledge, minecraft:leaping, minecraft:healing, apothic_attributes:extra_long_flying, apothic_attributes:resistance, apothic_attributes:strong_wither, potionsmaster:lead, minecraft:strong_healing, irons_spellbooks:instant_mana_one, ars_nouveau:shielding_potion_long, eternal_starlight:long_hunger, apothic_attributes:long_flying, apothic_attributes:absorption, potionsmaster:tin, irons_spellbooks:instant_mana_three, minecraft:turtle_master, ars_nouveau:mana_regen_potion_long, ars_nouveau:recovery_potion, minecraft:oozing, minecraft:long_fire_resistance, apothic_attributes:long_wither, ars_nouveau:recovery_potion_strong, potionsmaster:aluminum, minecraft:long_slowness, minecraft:long_invisibility, potionsmaster:lapis, minecraft:water, potionsmaster:platinum, ars_nouveau:shielding_potion
+[17Aug2025 03:20:38.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Ice and Fire]
+[17Aug2025 03:20:45.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuLo7[/127.147.120.56:39029] logged in with entity id 1708 at (-5.5, 64.0, 22.5)
+[17Aug2025 03:20:46.048] [Server thread/INFO] [ars_unification/]: AE2CircuitPrintingProcesser processed recipes in 51.22 ms
+[17Aug2025 03:20:46.099] [Server thread/INFO] [ars_unification/]: IntegratedDynamicsSqueezerProcessor processed recipes in 50.22 ms
+[17Aug2025 03:20:46.256] [Server thread/INFO] [ars_unification/]: OccultismCrusherProcessor processed recipes in 156.7 ms
+[17Aug2025 03:20:46.392] [Server thread/INFO] [ars_unification/]: EnderIOSAGMillProcessor processed recipes in 133.2 ms
+[17Aug2025 03:20:46.514] [Server thread/INFO] [ars_unification/]: ModernIndustrializationCompressorProcessor processed recipes in 121.4 ms
+[17Aug2025 03:20:46.591] [Server thread/INFO] [ars_unification/]: MekanismSawmillProcessor processed recipes in 76.75 ms
+[17Aug2025 03:20:46.696] [Server thread/INFO] [ars_unification/]: MekanismCrusherProcessor processed recipes in 104.4 ms
+[17Aug2025 03:20:46.805] [Server thread/INFO] [ars_unification/]: ModernIndustrializationMaceratorProcessor processed recipes in 108.6 ms
+[17Aug2025 03:20:46.913] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringCrusherProcessor processed recipes in 105.7 ms
+[17Aug2025 03:20:47.000] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringSawmillProcessor processed recipes in 83.86 ms
+[17Aug2025 03:20:47.076] [Server thread/INFO] [ars_unification/]: ActuallyAdditionsCrusherProcessor processed recipes in 74.92 ms
+[17Aug2025 03:20:47.135] [Server thread/INFO] [ars_unification/]: FarmersDelightCuttingBoardProcessor processed recipes in 58.60 ms
+[17Aug2025 03:20:47.190] [Server thread/INFO] [ars_unification/]: AE2InscriberProcesser processed recipes in 54.70 ms
+[17Aug2025 03:20:47.190] [Server thread/INFO] [ars_unification/]: Finished processing recipes in 1.193 s
+[17Aug2025 03:20:47.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 joined the game
+[17Aug2025 03:20:47.815] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[17Aug2025 03:20:47.831] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{LuLo7} with UUID 6bd18da3-1390-3fa8-90b1-837d04df607a.
+[17Aug2025 03:20:47.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Ice and Fire]
+[17Aug2025 03:21:20.820] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:20.907] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:21.116] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:21.125] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:21.127] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:21.127] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:21.128] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:21.132] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:21.135] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:21.135] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:21.136] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:21.137] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.145] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.146] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.147] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.147] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.150] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.151] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.153] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.153] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.154] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.154] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.158] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.158] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.158] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.159] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.159] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.159] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.160] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.160] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.164] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.164] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.165] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.166] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.168] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.168] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.168] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.168] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.171] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:22.171] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:21:22.274] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[17Aug2025 03:21:52.438] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[17Aug2025 03:22:51.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[17Aug2025 03:22:51.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op roop rogerto<--[HERE]
+[17Aug2025 03:23:04.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made LuLo7 a server operator
+[17Aug2025 03:23:23.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 0
+[17Aug2025 03:23:52.589] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 24.25 ms. 41811/43473 recipes are parallelized.
+[17Aug2025 03:24:27.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Stone Age]
+[17Aug2025 03:24:29.053] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17Aug2025 03:24:29.054] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17Aug2025 03:24:29.054] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17Aug2025 03:24:29.054] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17Aug2025 03:24:36.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Getting an Upgrade]
+[17Aug2025 03:25:31.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Getting an Upgrade]
+[17Aug2025 03:26:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Stone Age]
+[17Aug2025 03:26:25.596] [pool-11-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest]] from pos BlockPos{x=69, y=67, z=-299}
+[17Aug2025 03:26:29.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[17Aug2025 03:27:11.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [I'm Sinking?]
+[17Aug2025 03:27:55.595] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 1.244 ms. 581/585 recipes are parallelized.
+[17Aug2025 03:28:38.364] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Rogerto#b544a06f to MonasChinas#eeb7859e
+[17Aug2025 03:28:38.365] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from b544a06f-68b5-3fe8-9a0f-7fb32601617a (Rogerto#b544a06f) to eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a (MonasChinas#eeb7859e)
+[17Aug2025 03:28:38.365] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for b544a06f-68b5-3fe8-9a0f-7fb32601617a (Rogerto#b544a06f) due to claim limits
+[17Aug2025 03:28:38.365] [Server thread/INFO] [FTB Chunks/]: Team MonasChinas#eeb7859e had 0 claimed chunks, now has 0
+[17Aug2025 03:28:55.494] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from LuLo7#6bd18da3 to MonasChinas#eeb7859e
+[17Aug2025 03:28:55.494] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 6bd18da3-1390-3fa8-90b1-837d04df607a (LuLo7#6bd18da3) to eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a (MonasChinas#eeb7859e)
+[17Aug2025 03:28:55.494] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 6bd18da3-1390-3fa8-90b1-837d04df607a (LuLo7#6bd18da3) due to claim limits
+[17Aug2025 03:28:55.494] [Server thread/INFO] [FTB Chunks/]: Team MonasChinas#eeb7859e had 0 claimed chunks, now has 0
+[17Aug2025 03:29:13.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Acquire Hardware]
+[17Aug2025 03:30:39.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Isn't It Iron Pick]
+[17Aug2025 03:30:45.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Diamonds!]
+[17Aug2025 03:32:27.971] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/bounty/desert
+[17Aug2025 03:32:29.875] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[17Aug2025 03:32:29.875] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[17Aug2025 03:32:48.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement ['X' Marks the Spot]
+[17Aug2025 03:33:44.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Barrel Booty]
