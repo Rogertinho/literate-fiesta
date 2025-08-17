@@ -618,6 +618,12 @@
     },
     "done": true
   },
+  "silentgear:blueprint_paper": {
+    "criteria": {
+      "get_item": "2025-08-17 06:56:20 +0000"
+    },
+    "done": true
+  },
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2025-08-17 05:37:10 +0000"
