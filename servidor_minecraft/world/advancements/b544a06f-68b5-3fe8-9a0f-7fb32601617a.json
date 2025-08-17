@@ -119,6 +119,7 @@
       "minecraft:cold_ocean": "2025-08-17 05:54:07 +0000",
       "minecraft:beach": "2025-08-17 04:25:40 +0000",
       "minecraft:forest": "2025-08-17 04:54:01 +0000",
+      "minecraft:taiga": "2025-08-17 07:17:55 +0000",
       "minecraft:sparse_jungle": "2025-08-17 04:50:31 +0000",
       "minecraft:river": "2025-08-17 03:24:21 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 04:26:25 +0000",
@@ -352,7 +353,9 @@
       "minecraft:skeleton": "2025-08-17 05:32:34 +0000",
       "minecraft:enderman": "2025-08-17 05:58:30 +0000",
       "minecraft:spider": "2025-08-17 03:37:42 +0000",
-      "minecraft:husk": "2025-08-17 03:36:09 +0000"
+      "minecraft:zombie_villager": "2025-08-17 07:13:09 +0000",
+      "minecraft:husk": "2025-08-17 03:36:09 +0000",
+      "minecraft:bogged": "2025-08-17 07:16:05 +0000"
     },
     "done": false
   },
@@ -440,7 +443,8 @@
   },
   "apotheosis:progression/ascent": {
     "criteria": {
-      "uncommon_legs": "2025-08-17 04:04:46 +0000"
+      "uncommon_legs": "2025-08-17 04:04:46 +0000",
+      "kill_apothic_invader": "2025-08-17 07:16:05 +0000"
     },
     "done": false
   },
@@ -509,6 +513,12 @@
       "in_village_oak": "2025-08-17 04:58:21 +0000"
     },
     "done": false
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-08-17 07:11:43 +0000"
+    },
+    "done": true
   },
   "evilcraft:evil_source": {
     "criteria": {
