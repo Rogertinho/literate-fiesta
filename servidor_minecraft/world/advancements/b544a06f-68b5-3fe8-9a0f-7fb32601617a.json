@@ -588,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-17 06:25:32 +0000"
+    },
+    "done": true
+  },
   "ars_additions:find_ruined_portal": {
     "criteria": {
       "find_ruined_portal": "2025-08-17 04:56:42 +0000"

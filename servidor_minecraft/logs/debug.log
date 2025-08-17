@@ -60454,3 +60454,18 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [17Aug2025 06:10:03.673] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Aug2025 06:15:03.675] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Aug2025 06:20:03.700] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:25:03.679] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:25:03.883] [Server thread/DEBUG] [pneumaticcraft/]: 28 active Amadron offers to sync to clients
+[17Aug2025 06:25:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Hot Stuff]
+[17Aug2025 06:25:39.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Hot Stuff]
+[17Aug2025 06:30:03.678] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:35:03.679] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:40:03.681] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:40:40.711] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-556, y=71, z=-2423} Block{productivebees:spruce_wood_nest}[axis=y,facing=north]
+[17Aug2025 06:45:03.679] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:45:03.936] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[17Aug2025 06:46:02.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-190, y=71, z=-2067} BlockPos{x=-193, y=73, z=-2067}
+[17Aug2025 06:50:03.681] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:51:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Knowledge of Death]
+[17Aug2025 06:51:47.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Ambush]
+[17Aug2025 06:52:33.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Knowledge raises the soul]
