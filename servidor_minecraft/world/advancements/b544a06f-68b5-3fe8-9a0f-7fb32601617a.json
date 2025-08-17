@@ -118,6 +118,8 @@
     "criteria": {
       "minecraft:beach": "2025-08-17 04:25:40 +0000",
       "minecraft:desert": "2025-08-17 03:36:33 +0000",
+      "minecraft:forest": "2025-08-17 04:54:01 +0000",
+      "minecraft:sparse_jungle": "2025-08-17 04:50:31 +0000",
       "minecraft:river": "2025-08-17 03:24:21 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 04:26:25 +0000",
       "minecraft:savanna": "2025-08-17 04:11:23 +0000",
@@ -230,8 +232,10 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:ironwood_gour": "2025-08-17 05:01:45 +0000",
       "biomeswevegone:rugged_badlands": "2025-08-17 03:24:37 +0000",
-      "biomeswevegone:windswept_desert": "2025-08-17 03:38:43 +0000"
+      "biomeswevegone:windswept_desert": "2025-08-17 03:38:43 +0000",
+      "biomeswevegone:allium_shrubland": "2025-08-17 05:04:18 +0000"
     },
     "done": false
   },
@@ -250,16 +254,24 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "baobab_savanna": "2025-08-17 03:26:02 +0000",
+      "grassy_beach": "2025-08-17 05:05:22 +0000",
       "tropical_river": "2025-08-17 03:39:27 +0000",
-      "saguaro_desert": "2025-08-17 03:39:51 +0000"
+      "bamboo_forest": "2025-08-17 04:59:38 +0000",
+      "magnolia_highlands": "2025-08-17 05:04:14 +0000",
+      "saguaro_desert": "2025-08-17 03:39:51 +0000",
+      "rocky_meadow": "2025-08-17 05:00:09 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "baobab_savanna": "2025-08-17 03:26:02 +0000",
+      "grassy_beach": "2025-08-17 05:05:22 +0000",
       "tropical_river": "2025-08-17 03:39:27 +0000",
-      "saguaro_desert": "2025-08-17 03:39:51 +0000"
+      "bamboo_forest": "2025-08-17 04:59:38 +0000",
+      "magnolia_highlands": "2025-08-17 05:04:14 +0000",
+      "saguaro_desert": "2025-08-17 03:39:51 +0000",
+      "rocky_meadow": "2025-08-17 05:00:09 +0000"
     },
     "done": false
   },
@@ -468,15 +480,63 @@
     },
     "done": true
   },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-08-17 04:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2025-08-17 05:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-17 04:50:55 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2025-08-17 04:58:21 +0000"
+    },
+    "done": false
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-08-17 05:10:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-08-17 04:55:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-08-17 04:46:41 +0000"
     },
     "done": true
   },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-08-17 04:56:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-08-17 04:45:01 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-08-17 04:56:39 +0000"
     },
     "done": true
   },
