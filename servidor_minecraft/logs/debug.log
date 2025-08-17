@@ -60440,3 +60440,17 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [17Aug2025 05:45:03.676] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [17Aug2025 05:45:03.785] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
 [17Aug2025 05:50:03.681] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 05:53:14.685] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[17Aug2025 05:53:14.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Half-Century]
+[17Aug2025 05:53:29.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[17Aug2025 05:55:03.687] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 05:55:28.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [A Strange Grave Dust]
+[17Aug2025 05:55:30.615] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-537, y=62, z=-2229} with deep BlockPos{x=-537, y=-61, z=-2229}
+[17Aug2025 05:55:34.456] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-542, y=77, z=-2406} Block{productivebees:spruce_wood_nest}[axis=y,facing=south]
+[17Aug2025 06:00:03.678] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:02:55.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [A Seedy Place]
+[17Aug2025 06:05:03.679] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:05:03.839] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
+[17Aug2025 06:10:03.673] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:15:03.675] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[17Aug2025 06:20:03.700] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
