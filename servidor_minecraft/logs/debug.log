@@ -68150,3 +68150,12 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [18Aug2025 02:31:45.251] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
 [18Aug2025 02:35:38.837] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 900.3 μs. 581/585 recipes are parallelized.
 [18Aug2025 02:36:45.037] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 02:41:45.051] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 02:42:12.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Unbreaking X]
+[18Aug2025 02:46:04.872] [Server thread/DEBUG] [mixin/]: Mixing jei.MixinRecipeTransferUtil from polymorph-compatibility.mixins.json into mezz.jei.common.transfer.RecipeTransferUtil
+[18Aug2025 02:46:04.872] [Server thread/DEBUG] [mixin/]: polymorph-compatibility.mixins.json:jei.MixinRecipeTransferUtil from mod polymorph: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[18Aug2025 02:46:04.880] [Server thread/DEBUG] [mixin/]: polymorph-compatibility.mixins.json:jei.MixinRecipeTransferUtil from mod polymorph->@Inject::polymorph$transferRecipe(Lmezz/jei/api/recipe/transfer/IRecipeTransferManager;Lnet/minecraft/world/inventory/AbstractContainerMenu;Lmezz/jei/api/gui/IRecipeLayoutDrawable;Lnet/minecraft/world/entity/player/Player;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V doesn't use it's CallbackInfoReturnable
+[18Aug2025 02:46:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Imbued]
+[18Aug2025 02:46:45.057] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 02:46:55.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Not a Fluid!]
+[18Aug2025 02:49:34.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Not a Fluid!]

@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-08-18 02:46:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-08-18 01:02:48 +0000"
@@ -776,6 +782,12 @@
   "lootr:100loot": {
     "criteria": {
       "opened_100": "2025-08-18 02:05:20 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-08-18 02:42:12 +0000"
     },
     "done": true
   },

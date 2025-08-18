@@ -9557,3 +9557,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [18Aug2025 02:18:11.818] [Server thread/WARN] [dan200.computercraft.shared.peripheral.monitor.MonitorBlockEntity/]: Monitor is malformed, resetting to 1x1.
 [18Aug2025 02:30:00.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Sea? Not a Problem]
 [18Aug2025 02:35:38.837] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 900.3 μs. 581/585 recipes are parallelized.
+[18Aug2025 02:42:12.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Unbreaking X]
+[18Aug2025 02:46:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Imbued]
+[18Aug2025 02:46:55.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Not a Fluid!]
+[18Aug2025 02:49:34.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Not a Fluid!]
