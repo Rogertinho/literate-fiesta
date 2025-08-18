@@ -127,6 +127,7 @@
       "minecraft:old_growth_birch_forest": "2025-08-17 05:46:38 +0000",
       "minecraft:desert": "2025-08-17 03:36:33 +0000",
       "minecraft:ocean": "2025-08-17 05:52:51 +0000",
+      "minecraft:sunflower_plains": "2025-08-18 01:45:29 +0000",
       "minecraft:savanna": "2025-08-17 04:11:23 +0000",
       "minecraft:windswept_savanna": "2025-08-17 03:20:44 +0000",
       "minecraft:plains": "2025-08-17 04:32:33 +0000",
@@ -238,10 +239,14 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:ironwood_gour": "2025-08-17 05:01:45 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-08-18 02:10:06 +0000",
       "biomeswevegone:rugged_badlands": "2025-08-17 03:24:37 +0000",
       "biomeswevegone:windswept_desert": "2025-08-17 03:38:43 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-08-18 02:19:58 +0000",
+      "biomeswevegone:skyrise_vale": "2025-08-18 02:12:55 +0000",
       "biomeswevegone:zelkova_forest": "2025-08-17 06:01:42 +0000",
-      "biomeswevegone:allium_shrubland": "2025-08-17 05:04:18 +0000"
+      "biomeswevegone:allium_shrubland": "2025-08-17 05:04:18 +0000",
+      "biomeswevegone:forgotten_forest": "2025-08-18 02:14:48 +0000"
     },
     "done": false
   },
@@ -259,25 +264,39 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "temperate_grove": "2025-08-18 02:27:18 +0000",
+      "cold_river": "2025-08-18 02:15:12 +0000",
       "baobab_savanna": "2025-08-17 03:26:02 +0000",
       "grassy_beach": "2025-08-17 05:05:22 +0000",
+      "rocky_meadow": "2025-08-17 05:00:09 +0000",
+      "blackwood_taiga": "2025-08-18 02:19:59 +0000",
+      "pine_taiga": "2025-08-18 02:19:57 +0000",
+      "highland_fields": "2025-08-18 02:19:39 +0000",
+      "maple_forest": "2025-08-18 02:14:54 +0000",
       "tropical_river": "2025-08-17 03:39:27 +0000",
       "bamboo_forest": "2025-08-17 04:59:38 +0000",
       "magnolia_highlands": "2025-08-17 05:04:14 +0000",
       "saguaro_desert": "2025-08-17 03:39:51 +0000",
-      "rocky_meadow": "2025-08-17 05:00:09 +0000"
+      "lupine_plains": "2025-08-18 02:15:25 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "temperate_grove": "2025-08-18 02:27:18 +0000",
+      "cold_river": "2025-08-18 02:15:12 +0000",
       "baobab_savanna": "2025-08-17 03:26:02 +0000",
       "grassy_beach": "2025-08-17 05:05:22 +0000",
+      "rocky_meadow": "2025-08-17 05:00:09 +0000",
+      "blackwood_taiga": "2025-08-18 02:19:59 +0000",
+      "pine_taiga": "2025-08-18 02:19:57 +0000",
+      "highland_fields": "2025-08-18 02:19:39 +0000",
+      "maple_forest": "2025-08-18 02:14:54 +0000",
       "tropical_river": "2025-08-17 03:39:27 +0000",
       "bamboo_forest": "2025-08-17 04:59:38 +0000",
       "magnolia_highlands": "2025-08-17 05:04:14 +0000",
       "saguaro_desert": "2025-08-17 03:39:51 +0000",
-      "rocky_meadow": "2025-08-17 05:00:09 +0000"
+      "lupine_plains": "2025-08-18 02:15:25 +0000"
     },
     "done": false
   },
@@ -449,7 +468,8 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-08-17 04:04:46 +0000",
-      "kill_apothic_invader": "2025-08-17 07:16:05 +0000"
+      "kill_apothic_invader": "2025-08-17 07:16:05 +0000",
+      "uncommon_feet": "2025-08-18 01:43:11 +0000"
     },
     "done": false
   },
@@ -699,6 +719,12 @@
     },
     "done": true
   },
+  "railcraft:tracks/regular_track": {
+    "criteria": {
+      "inv_changed": "2025-08-18 01:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-08-18 01:02:48 +0000"
@@ -714,6 +740,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-08-18 01:07:09 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-08-18 01:36:45 +0000"
     },
     "done": true
   },
@@ -738,6 +770,12 @@
   "apothic_enchanting:bookshelf": {
     "criteria": {
       "bookshelf": "2025-08-18 01:02:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-08-18 02:05:20 +0000"
     },
     "done": true
   },
