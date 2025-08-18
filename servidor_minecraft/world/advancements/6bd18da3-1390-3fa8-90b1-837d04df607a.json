@@ -888,6 +888,12 @@
     },
     "done": true
   },
+  "minecraft:oritech/resource_node": {
+    "criteria": {
+      "found_resource_node": "2025-08-18 04:16:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/impregnated_diamond": {
     "criteria": {
       "has_ingredient": "2025-08-18 01:24:31 +0000"

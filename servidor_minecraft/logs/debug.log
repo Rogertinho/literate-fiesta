@@ -68211,3 +68211,7 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [18Aug2025 03:56:45.042] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [18Aug2025 04:01:45.058] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [18Aug2025 04:06:45.056] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:11:45.051] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:11:45.496] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[18Aug2025 04:16:28.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has completed the challenge [Glittering Prizes]
+[18Aug2025 04:16:45.057] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
