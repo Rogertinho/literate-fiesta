@@ -68215,3 +68215,8 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [18Aug2025 04:11:45.496] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
 [18Aug2025 04:16:28.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has completed the challenge [Glittering Prizes]
 [18Aug2025 04:16:45.057] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:21:45.059] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:22:12.859] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-496, y=65, z=-1466} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 04:24:11.657] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-441, y=62, z=-1433} with deep BlockPos{x=-441, y=-59, z=-1433}
+[18Aug2025 04:26:45.068] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:31:31.688] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-494, y=70, z=-1393} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
