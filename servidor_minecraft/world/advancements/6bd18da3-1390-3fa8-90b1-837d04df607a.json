@@ -119,9 +119,11 @@
       "minecraft:cold_ocean": "2025-08-17 05:35:02 +0000",
       "minecraft:beach": "2025-08-17 04:22:35 +0000",
       "minecraft:forest": "2025-08-17 04:54:01 +0000",
+      "minecraft:taiga": "2025-08-18 01:06:38 +0000",
       "minecraft:sparse_jungle": "2025-08-17 04:50:28 +0000",
       "minecraft:river": "2025-08-17 03:24:10 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 04:26:19 +0000",
+      "minecraft:deep_cold_ocean": "2025-08-18 01:23:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 05:15:32 +0000",
       "minecraft:desert": "2025-08-17 03:32:14 +0000",
       "minecraft:ocean": "2025-08-17 05:30:20 +0000",
@@ -354,6 +356,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-18 01:24:26 +0000",
+      "minecraft:stray": "2025-08-18 01:24:24 +0000",
       "minecraft:witch": "2025-08-17 06:51:47 +0000",
       "minecraft:spider": "2025-08-17 06:51:52 +0000",
       "minecraft:zombie": "2025-08-17 04:54:30 +0000",
@@ -630,6 +634,156 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-08-17 06:52:33 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-08-18 00:57:04 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2025-08-18 01:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-18 01:25:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-08-18 01:24:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dust_of_frost": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_marble": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-18 01:12:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/bone_needle": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "mffs:smelt_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-08-18 01:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-18 01:01:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/smoke_ball": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:template_angel": {
+    "criteria": {
+      "template_angel": "2025-08-18 01:12:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_marble": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_marble": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_marble": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/fishing_rod_of_misadventure": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/grave_plate": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-18 01:16:21 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-08-18 01:03:41 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-08-18 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/ankh_of_prayer": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dust_of_vanishing": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 01:25:51 +0000"
     },
     "done": true
   },

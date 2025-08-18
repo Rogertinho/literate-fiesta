@@ -9365,3 +9365,62 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [18Aug2025 00:52:09.704] [Server thread/INFO] [STDERR/]: [dev.latvian.mods.rhino.CachedClassInfo:getDeclaredMethods:204]: [Rhino] Failed to get declared methods for it.hurts.octostudios.octolib.modules.particles.RenderProvider again: java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
 [18Aug2025 00:55:09.921] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 23.20 ms. 41811/43473 recipes are parallelized.
 [18Aug2025 00:57:04.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Secrets of Enchanting]
+[18Aug2025 01:01:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Local Librarian]
+[18Aug2025 01:01:59.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Basics]
+[18Aug2025 01:01:59.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Enchanter]
+[18Aug2025 01:02:48.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Local Librarian]
+[18Aug2025 01:02:48.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Into Fire]
+[18Aug2025 01:02:48.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Sticky Situation]
+[18Aug2025 01:02:57.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Angel Stick Template]
+[18Aug2025 01:03:41.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Sticky Situation]
+[18Aug2025 01:06:42.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[18Aug2025 01:07:09.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [The Basics]
+[18Aug2025 01:07:09.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Enchanter]
+[18Aug2025 01:07:31.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Cover Me with Diamonds]
+[18Aug2025 01:12:52.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Angel Stick Template]
+[18Aug2025 01:12:52.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Into Fire]
+[18Aug2025 01:14:44.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:15:35.088] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:16:21.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Spooky Scary Skeleton]
+[18Aug2025 01:16:22.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:16:50.461] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:17:11.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:17:36.756] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:18:40.349] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:19:07.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Harder than Iron]
+[18Aug2025 01:23:07.146] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:08.596] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:08.597] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:16.795] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:19.794] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:25.545] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:34.697] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:37.644] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:37.645] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:54.301] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:57.444] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:57.446] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:06.845] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:14.747] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:26.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [A Strange Grave Dust]
+[18Aug2025 01:24:27.200] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:28.497] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:36.395] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:42.703] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:46.996] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:56.045] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Ashes 'n Bones]
+[18Aug2025 01:25:08.445] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:15.246] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:25.648] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:33.746] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Not Today, Thank You]
+[18Aug2025 01:25:44.155] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:45.248] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:51.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Ashes 'n Bones]
+[18Aug2025 01:25:53.595] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:03.195] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:08.546] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:16.047] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:19.346] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:27.648] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'

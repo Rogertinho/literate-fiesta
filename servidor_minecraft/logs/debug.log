@@ -57610,3 +57610,203 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [18Aug2025 00:57:04.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Secrets of Enchanting]
 [18Aug2025 00:57:15.651] [Server thread/DEBUG] [mixin/]: Mixing DeployerHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.kinetics.deployer.DeployerHandler
 [18Aug2025 00:57:15.651] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:DeployerHandlerMixin from mod create_enchantment_industry: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[18Aug2025 00:59:51.462] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 00:59:51.499] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[18Aug2025 00:59:51.501] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 00:59:51.501] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[18Aug2025 00:59:51.501] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 00:59:51.501] [Worker-Main-2/DEBUG] [mixin/]: cataclysm.mixins.json:accessor.BeardifierAccessor from mod cataclysm: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[18Aug2025 00:59:51.502] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from irons_spellbooks.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 00:59:51.502] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.neoforge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Aug2025 00:59:51.503] [Worker-Main-2/DEBUG] [mixin/]: lithostitched.neoforge.mixins.json:common.BeardifierMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[18Aug2025 00:59:51.513] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_supportCustomTerrainAdaptations(Lnet/minecraft/world/level/StructureManager;Lnet/minecraft/world/level/ChunkPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[18Aug2025 00:59:51.513] [Worker-Main-2/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_calculateDensity(Lnet/minecraft/world/level/levelgen/DensityFunction$FunctionContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[18Aug2025 00:59:51.513] [Worker-Main-2/DEBUG] [mixin/]: irons_spellbooks.mixins.json:BeardifierMixin from mod irons_spellbooks->@Inject::irons_spellbooks$injectCustomTerrainAdaptation(Lnet/minecraft/world/level/ChunkPos;Lit/unimi/dsi/fastutil/objects/ObjectList;IILit/unimi/dsi/fastutil/objects/ObjectList;Lnet/minecraft/world/level/levelgen/structure/StructureStart;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[18Aug2025 00:59:51.516] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[18Aug2025 00:59:51.516] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[18Aug2025 01:00:50.014] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 01:01:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Local Librarian]
+[18Aug2025 01:01:59.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Basics]
+[18Aug2025 01:01:59.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Enchanter]
+[18Aug2025 01:02:48.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Local Librarian]
+[18Aug2025 01:02:48.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Into Fire]
+[18Aug2025 01:02:48.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Sticky Situation]
+[18Aug2025 01:02:57.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Angel Stick Template]
+[18Aug2025 01:03:41.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Sticky Situation]
+[18Aug2025 01:05:50.010] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 01:06:01.477] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[18Aug2025 01:06:01.477] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:gameplay.CooldownInstanceAccessor from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[18Aug2025 01:06:07.047] [Worker-Main-3/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[18Aug2025 01:06:07.047] [Worker-Main-3/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[18Aug2025 01:06:42.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[18Aug2025 01:06:46.913] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-730, y=76, z=-2431} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[18Aug2025 01:06:51.361] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-767, y=53, z=-2050} with deep BlockPos{x=-767, y=-62, z=-2050}
+[18Aug2025 01:06:57.430] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-736, y=86, z=-2443} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[18Aug2025 01:06:57.569] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-783, y=81, z=-2443} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:07:09.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [The Basics]
+[18Aug2025 01:07:09.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Enchanter]
+[18Aug2025 01:07:10.298] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-836, y=49, z=-2055} with deep BlockPos{x=-836, y=-60, z=-2055}
+[18Aug2025 01:07:13.985] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-822, y=62, z=-2407} Block{productivebees:sand_nest}[facing=up]
+[18Aug2025 01:07:17.502] [Worker-Main-3/DEBUG] [oritech/]: placing resource node at BlockPos{x=-883, y=44, z=-2049} with deep BlockPos{x=-883, y=-60, z=-2049}
+[18Aug2025 01:07:19.642] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-860, y=72, z=-2423} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:07:19.732] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-894, y=70, z=-2432} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[18Aug2025 01:07:20.119] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-797, y=73, z=-2440} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[18Aug2025 01:07:21.079] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-863, y=76, z=-2459} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:07:21.132] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-819, y=87, z=-2458} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:07:25.072] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-816, y=105, z=-2474} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[18Aug2025 01:07:25.238] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-783, y=104, z=-2472} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[18Aug2025 01:07:25.887] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-914, y=66, z=-2433} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:07:26.523] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-914, y=48, z=-2132} with deep BlockPos{x=-914, y=-60, z=-2132}
+[18Aug2025 01:07:28.247] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-830, y=104, z=-2495} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:07:28.422] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-781, y=114, z=-2496} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:07:31.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Cover Me with Diamonds]
+[18Aug2025 01:08:02.333] [Worker-Main-3/DEBUG] [oritech/]: placing resource node at BlockPos{x=-930, y=47, z=-2051} with deep BlockPos{x=-930, y=-60, z=-2051}
+[18Aug2025 01:08:06.293] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-948, y=39, z=-2218} with deep BlockPos{x=-948, y=-62, z=-2218}
+[18Aug2025 01:08:18.978] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-988, y=51, z=-2492} with deep BlockPos{x=-988, y=-61, z=-2492}
+[18Aug2025 01:10:11.152] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-655, y=75, z=-2558} Block{productivebees:spruce_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:10:11.643] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-795, y=71, z=-2557} Block{productivebees:stone_nest}[facing=south]
+[18Aug2025 01:10:11.714] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-808, y=63, z=-2548} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 01:10:16.533] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-758, y=89, z=-2570} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 01:10:18.829] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-696, y=62, z=-2581} Block{productivebees:stone_nest}[facing=south]
+[18Aug2025 01:10:20.689] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-641, y=70, z=-2577} Block{productivebees:spruce_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:10:21.355] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-796, y=78, z=-2585} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 01:10:22.657] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-796 | 58 | -2844).
+[18Aug2025 01:10:22.659] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[18Aug2025 01:10:22.661] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 3(0) Rooms
+[18Aug2025 01:10:22.661] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[18Aug2025 01:10:22.662] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[18Aug2025 01:10:22.662] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[18Aug2025 01:10:22.662] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(4) Nodes and 5(0) Rooms
+[18Aug2025 01:10:22.662] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[18Aug2025 01:10:22.662] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 2(9) Nodes and 5(0) Rooms
+[18Aug2025 01:10:22.662] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[18Aug2025 01:10:22.663] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[18Aug2025 01:10:24.249] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-734, y=83, z=-2596} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 01:10:24.268] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-701, y=112, z=-2597} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 01:10:24.958] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-828, y=90, z=-2598} with deep BlockPos{x=-828, y=-60, z=-2598}
+[18Aug2025 01:10:26.155] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-888, y=82, z=-2518} Block{productivebees:bumble_bee_nest}[facing=west]
+[18Aug2025 01:10:27.944] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-358, y=39, z=-2614} with deep BlockPos{x=-358, y=-62, z=-2614}
+[18Aug2025 01:10:29.142] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-861, y=72, z=-2618} Block{productivebees:bumble_bee_nest}[facing=up]
+[18Aug2025 01:10:29.434] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Aug2025 01:10:29.434] [Worker-Main-3/DEBUG] [mixin/]: waystones.mixins.json:JigsawPlacementPlacerMixin from mod waystones: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[18Aug2025 01:10:29.724] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-600, y=51, z=-2614} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 01:10:29.804] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-727, y=90, z=-2623} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 01:10:35.471] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-482, y=81, z=-2631} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:10:36.398] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-991, y=64, z=-2554} Block{productivebees:sand_nest}[facing=south]
+[18Aug2025 01:10:43.496] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1023, y=48, z=-2189} with deep BlockPos{x=-1023, y=-61, z=-2189}
+[18Aug2025 01:10:43.558] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1021, y=63, z=-2539} Block{productivebees:sand_nest}[facing=up]
+[18Aug2025 01:10:52.197] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 01:10:52.242] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
+[18Aug2025 01:12:52.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Angel Stick Template]
+[18Aug2025 01:12:52.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Into Fire]
+[18Aug2025 01:13:42.511] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1037, y=70, z=-2006} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 01:13:42.592] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1030, y=59, z=-1932} with deep BlockPos{x=-1030, y=-60, z=-1932}
+[18Aug2025 01:13:54.660] [Worker-Main-3/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1057, y=46, z=-1909} with deep BlockPos{x=-1057, y=-59, z=-1909}
+[18Aug2025 01:14:44.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:14:44.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:14:55.529] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:15:35.086] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:15:35.088] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:15:52.074] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 01:16:21.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Spooky Scary Skeleton]
+[18Aug2025 01:16:22.835] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:16:22.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:16:24.536] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:16:50.460] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:16:50.461] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:17:11.082] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:17:11.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:17:36.756] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:17:36.756] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:18:40.348] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:18:40.349] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 01:19:07.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Harder than Iron]
+[18Aug2025 01:20:16.067] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1149, y=42, z=-2080} with deep BlockPos{x=-1149, y=-62, z=-2080}
+[18Aug2025 01:20:16.828] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1009, y=59, z=-1885} with deep BlockPos{x=-1009, y=-62, z=-1885}
+[18Aug2025 01:20:52.069] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 01:21:15.273] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:21:17.847] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[18Aug2025 01:21:17.847] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[18Aug2025 01:21:17.861] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::initializeDirty(Lnet/minecraft/world/level/saveddata/maps/MapItemSavedData;Lnet/minecraft/world/entity/player/Player;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[18Aug2025 01:21:17.861] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::initializeDirty(Lnet/minecraft/world/level/saveddata/maps/MapItemSavedData;Lnet/minecraft/world/entity/player/Player;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[18Aug2025 01:21:17.861] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::initializeDirty(Lnet/minecraft/world/level/saveddata/maps/MapItemSavedData;Lnet/minecraft/world/entity/player/Player;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[18Aug2025 01:21:17.861] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::checkLocked(Lnet/minecraft/world/level/saveddata/maps/MapId;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[18Aug2025 01:21:17.862] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::lockData(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[18Aug2025 01:21:17.862] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::lockData(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[18Aug2025 01:21:17.862] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::lockData(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[18Aug2025 01:21:17.862] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::sanityCheck(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[18Aug2025 01:21:17.862] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::sanityCheck(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[18Aug2025 01:21:17.862] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::sanityCheck(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[18Aug2025 01:21:20.875] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 01:23:07.146] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:08.596] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:08.597] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:16.795] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:19.794] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:24.749] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1106, y=47, z=-2622} with deep BlockPos{x=-1106, y=-60, z=-2622}
+[18Aug2025 01:23:25.545] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:34.697] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:37.644] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:37.645] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:44.723] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:23:44.724] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:23:54.301] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:57.444] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:23:57.446] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:06.845] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:14.747] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:24.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:24:24.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:24:26.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [A Strange Grave Dust]
+[18Aug2025 01:24:27.200] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:28.497] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:30.251] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:24:30.253] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:24:36.395] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:42.703] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:46.996] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:56.045] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:24:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Ashes 'n Bones]
+[18Aug2025 01:24:57.030] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:24:57.031] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:25:00.657] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:25:00.658] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:25:08.445] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:15.246] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:25.648] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:33.746] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:34.404] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:25:34.405] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:25:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Not Today, Thank You]
+[18Aug2025 01:25:44.155] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:45.248] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:25:51.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Ashes 'n Bones]
+[18Aug2025 01:25:51.807] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:25:51.808] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:25:52.075] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 01:25:52.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:25:52.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:25:53.595] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:03.195] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:07.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:26:07.752] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:26:08.546] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:13.636] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:26:13.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:26:16.047] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:19.346] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:21.149] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:26:21.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:26:27.648] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:26:59.822] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:26:59.823] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:03.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:03.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:09.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:09.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:10.122] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:10.123] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:11.548] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:11.550] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:13.220] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Aug2025 01:27:13.221] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
