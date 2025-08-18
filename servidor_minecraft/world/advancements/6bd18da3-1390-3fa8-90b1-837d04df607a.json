@@ -272,6 +272,7 @@
       "biomeswevegone:ironwood_gour": "2025-08-17 05:01:50 +0000",
       "biomeswevegone:rugged_badlands": "2025-08-17 03:25:10 +0000",
       "biomeswevegone:windswept_desert": "2025-08-17 03:39:56 +0000",
+      "biomeswevegone:prairie": "2025-08-18 03:27:32 +0000",
       "biomeswevegone:zelkova_forest": "2025-08-18 02:14:11 +0000",
       "biomeswevegone:allium_shrubland": "2025-08-17 05:04:52 +0000",
       "biomeswevegone:coconino_meadow": "2025-08-18 02:13:46 +0000"
@@ -378,6 +379,7 @@
       "minecraft:spider": "2025-08-17 06:51:52 +0000",
       "minecraft:zombie": "2025-08-17 04:54:30 +0000",
       "minecraft:drowned": "2025-08-18 01:43:10 +0000",
+      "minecraft:zombie_villager": "2025-08-18 03:24:11 +0000",
       "minecraft:husk": "2025-08-17 03:37:01 +0000"
     },
     "done": false
@@ -668,6 +670,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-18 03:26:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-08-18 01:31:09 +0000"
@@ -689,6 +697,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-08-18 01:24:26 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-08-18 03:27:45 +0000"
     },
     "done": true
   },
@@ -803,6 +817,12 @@
   "tombstone:recipe/grave_plate": {
     "criteria": {
       "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 03:26:27 +0000"
     },
     "done": true
   },

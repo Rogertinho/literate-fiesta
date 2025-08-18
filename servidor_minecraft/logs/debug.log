@@ -68171,3 +68171,36 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [18Aug2025 03:11:45.052] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [18Aug2025 03:11:45.350] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
 [18Aug2025 03:16:45.048] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 03:21:45.048] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 03:22:09.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Brazen]
+[18Aug2025 03:26:27.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has reached the goal [Bone Crusher]
+[18Aug2025 03:26:45.071] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 03:26:54.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Chest Slayer]
+[18Aug2025 03:31:31.061] [Server thread/DEBUG] [Silent Gear/]: [Diamond Shovel]: properties updated
+[18Aug2025 03:31:31.061] [Server thread/DEBUG] [Silent Gear/]:  - Additive: null -> null -- base: null, bonuses: [[]]
+[18Aug2025 03:31:31.061] [Server thread/DEBUG] [Silent Gear/]:  - Traits: null -> [translation{key='trait.silentgear.brittle', args=[]}[siblings=[literal{ }, translation{key='enchantment.level.2', args=[]}]], translation{key='trait.silentgear.lustrous', args=[]}[siblings=[literal{ }, translation{key='enchantment.level.1', args=[]}, literal{*}]], translation{key='trait.silentgear.flexible', args=[]}[siblings=[literal{ }, translation{key='enchantment.level.2', args=[]}]]] -- base: [translation{key='trait.silentgear.brittle', args=[]}[siblings=[literal{ }, translation{key='enchantment.level.2', args=[]}]], translation{key='trait.silentgear.lustrous', args=[]}[siblings=[literal{ }, translation{key='enchantment.level.1', args=[]}, literal{*}]], translation{key='trait.silentgear.flexible', args=[]}[siblings=[literal{ }, translation{key='enchantment.level.2', args=[]}]]], bonuses: [[]]
+[18Aug2025 03:31:31.061] [Server thread/DEBUG] [Silent Gear/]:  - Durability: null -> AVERAGE 1561.0 -- base: AVERAGE 1561.0, bonuses: [[]]
+[18Aug2025 03:31:31.061] [Server thread/DEBUG] [Silent Gear/]:  - Armor Durability: null -> AVERAGE 33.0 -- base: AVERAGE 33.0, bonuses: [[]]
+[18Aug2025 03:31:31.061] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: null -> AVERAGE 2.0 -- base: AVERAGE 2.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Repair Bonus: null -> AVERAGE 0.0 -- base: AVERAGE 0.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: null -> AVERAGE 10.0 -- base: AVERAGE 10.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: null -> AVERAGE 0.8 -- base: AVERAGE 0.8, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: null -> AVERAGE 70.0 -- base: AVERAGE 70.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Tier: null -> diamond -- base: diamond, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: null -> AVERAGE 8.0 -- base: AVERAGE 8.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Block Reach: null -> AVERAGE 0.0 -- base: AVERAGE 0.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: null -> AVERAGE 4.5 -- base: AVERAGE 4.5, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: null -> AVERAGE 1.0 -- base: AVERAGE 1.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Attack Reach: null -> AVERAGE 6.0 -- base: AVERAGE 3.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: null -> AVERAGE 1.0 -- base: AVERAGE 1.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Ranged Damage: null -> AVERAGE 2.0 -- base: AVERAGE 2.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Draw Speed: null -> AVERAGE -0.2 -- base: AVERAGE -0.2, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Projectile Speed: null -> AVERAGE 0.9 -- base: AVERAGE 0.9, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Projectile Accuracy: null -> AVERAGE 1.1 -- base: AVERAGE 1.1, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Armor: null -> AVERAGE 20.0 -- base: AVERAGE 20.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Armor Toughness: null -> AVERAGE 8.0 -- base: AVERAGE 8.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Knockback Resistance: null -> AVERAGE 0.0 -- base: AVERAGE 0.0, bonuses: [[]]
+[18Aug2025 03:31:31.062] [Server thread/DEBUG] [Silent Gear/]:  - Magic Armor: null -> AVERAGE 4.0 -- base: AVERAGE 4.0, bonuses: [[]]
+[18Aug2025 03:31:45.048] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 03:31:45.398] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[18Aug2025 03:36:45.049] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

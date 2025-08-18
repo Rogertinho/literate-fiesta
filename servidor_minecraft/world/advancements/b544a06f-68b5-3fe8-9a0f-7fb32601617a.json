@@ -720,6 +720,12 @@
     },
     "done": true
   },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-08-18 03:22:09 +0000"
+    },
+    "done": true
+  },
   "railcraft:tracks/regular_track": {
     "criteria": {
       "inv_changed": "2025-08-18 01:59:50 +0000"
