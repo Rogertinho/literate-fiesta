@@ -357,7 +357,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-18 01:24:26 +0000",
+      "minecraft:silverfish": "2025-08-18 01:32:40 +0000",
       "minecraft:stray": "2025-08-18 01:24:24 +0000",
+      "minecraft:magma_cube": "2025-08-18 01:34:18 +0000",
       "minecraft:witch": "2025-08-17 06:51:47 +0000",
       "minecraft:spider": "2025-08-17 06:51:52 +0000",
       "minecraft:zombie": "2025-08-17 04:54:30 +0000",
@@ -567,6 +569,7 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "kill_apothic_invader": "2025-08-17 05:32:18 +0000",
+      "uncommon_hand": "2025-08-18 01:31:14 +0000",
       "uncommon_helm": "2025-08-17 05:32:26 +0000"
     },
     "done": false
@@ -586,6 +589,7 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
+      "rare_hand": "2025-08-18 01:31:14 +0000",
       "rare_helm": "2025-08-17 05:34:35 +0000"
     },
     "done": false
@@ -646,6 +650,18 @@
   "apothic_enchanting:30ench": {
     "criteria": {
       "enchanted_item": "2025-08-18 01:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-18 01:31:09 +0000"
+    },
+    "done": true
+  },
+  "railcraft:tracks/regular_track": {
+    "criteria": {
+      "inv_changed": "2025-08-18 01:27:58 +0000"
     },
     "done": true
   },
@@ -730,6 +746,12 @@
   "tombstone:recipe/fishing_rod_of_misadventure": {
     "criteria": {
       "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:programming_puzzle": {
+    "criteria": {
+      "0": "2025-08-18 01:33:13 +0000"
     },
     "done": true
   },

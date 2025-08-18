@@ -353,8 +353,11 @@
       "minecraft:pillager": "2025-08-17 04:07:48 +0000",
       "minecraft:skeleton": "2025-08-17 05:32:34 +0000",
       "minecraft:enderman": "2025-08-17 05:58:30 +0000",
+      "minecraft:silverfish": "2025-08-18 01:32:49 +0000",
       "minecraft:stray": "2025-08-18 01:23:44 +0000",
+      "minecraft:magma_cube": "2025-08-18 01:34:34 +0000",
       "minecraft:spider": "2025-08-17 03:37:42 +0000",
+      "minecraft:zombie": "2025-08-18 01:27:04 +0000",
       "minecraft:zombie_villager": "2025-08-17 07:13:09 +0000",
       "minecraft:husk": "2025-08-17 03:36:09 +0000",
       "minecraft:bogged": "2025-08-17 07:16:05 +0000"
@@ -720,6 +723,12 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "golden_apple": "2025-08-18 01:28:52 +0000"
+    },
+    "done": false
+  },
   "constructionstick:iron_stick": {
     "criteria": {
       "iron_stick": "2025-08-18 01:02:48 +0000"
@@ -729,6 +738,12 @@
   "apothic_enchanting:bookshelf": {
     "criteria": {
       "bookshelf": "2025-08-18 01:02:48 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-08-18 01:27:14 +0000"
     },
     "done": true
   },

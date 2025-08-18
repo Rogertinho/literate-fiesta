@@ -9424,3 +9424,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [18Aug2025 01:26:16.047] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
 [18Aug2025 01:26:19.346] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
 [18Aug2025 01:26:27.648] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring malformed attribute 'generic.movementSpeed'
+[18Aug2025 01:31:09.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Suit Up]
+[18Aug2025 01:33:13.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Not a Jigsaw]
+[18Aug2025 01:36:15.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has completed the challenge [Centennial]
+[18Aug2025 01:36:45.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Warped]
