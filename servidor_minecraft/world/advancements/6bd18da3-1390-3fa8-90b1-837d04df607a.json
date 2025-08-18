@@ -124,12 +124,15 @@
       "minecraft:river": "2025-08-17 03:24:10 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 04:26:19 +0000",
       "minecraft:stony_shore": "2025-08-18 02:59:53 +0000",
+      "minecraft:dripstone_caves": "2025-08-18 04:39:19 +0000",
       "minecraft:deep_cold_ocean": "2025-08-18 01:23:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 05:15:32 +0000",
       "minecraft:desert": "2025-08-17 03:32:14 +0000",
+      "minecraft:deep_dark": "2025-08-18 05:07:48 +0000",
       "minecraft:ocean": "2025-08-17 05:30:20 +0000",
       "minecraft:cherry_grove": "2025-08-18 04:02:36 +0000",
       "minecraft:sunflower_plains": "2025-08-18 04:01:57 +0000",
+      "minecraft:meadow": "2025-08-18 04:52:55 +0000",
       "minecraft:savanna": "2025-08-17 04:11:53 +0000",
       "minecraft:windswept_savanna": "2025-08-17 03:20:49 +0000",
       "minecraft:plains": "2025-08-17 04:33:16 +0000",
@@ -274,6 +277,7 @@
       "biomeswevegone:ironwood_gour": "2025-08-17 05:01:50 +0000",
       "biomeswevegone:rugged_badlands": "2025-08-17 03:25:10 +0000",
       "biomeswevegone:windswept_desert": "2025-08-17 03:39:56 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-08-18 04:33:58 +0000",
       "biomeswevegone:prairie": "2025-08-18 03:27:32 +0000",
       "biomeswevegone:zelkova_forest": "2025-08-18 02:14:11 +0000",
       "biomeswevegone:allium_shrubland": "2025-08-17 05:04:52 +0000",
@@ -383,7 +387,8 @@
       "minecraft:zombie": "2025-08-17 04:54:30 +0000",
       "minecraft:drowned": "2025-08-18 01:43:10 +0000",
       "minecraft:zombie_villager": "2025-08-18 03:24:11 +0000",
-      "minecraft:husk": "2025-08-17 03:37:01 +0000"
+      "minecraft:husk": "2025-08-17 03:37:01 +0000",
+      "minecraft:bogged": "2025-08-18 04:54:34 +0000"
     },
     "done": false
   },
@@ -588,18 +593,24 @@
   },
   "apotheosis:progression/ascent": {
     "criteria": {
+      "uncommon_legs": "2025-08-18 04:49:26 +0000",
+      "uncommon_chest": "2025-08-18 04:49:49 +0000",
       "kill_apothic_invader": "2025-08-17 05:32:18 +0000",
       "uncommon_hand": "2025-08-18 01:31:14 +0000",
-      "uncommon_helm": "2025-08-17 05:32:26 +0000"
+      "uncommon_helm": "2025-08-17 05:32:26 +0000",
+      "uncommon_feet": "2025-08-18 04:43:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "apotheosis:progression/frontier": {
     "criteria": {
       "common_helm": "2025-08-17 05:32:26 +0000",
-      "common_hand": "2025-08-17 05:54:10 +0000"
+      "common_hand": "2025-08-17 05:54:10 +0000",
+      "common_chest": "2025-08-18 04:49:49 +0000",
+      "common_legs": "2025-08-18 04:49:26 +0000",
+      "common_feet": "2025-08-18 04:43:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "pneumaticcraft:pressure_tube": {
     "criteria": {
@@ -673,6 +684,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-08-18 05:07:48 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-08-18 03:26:54 +0000"
@@ -739,6 +756,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-18 04:59:06 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:main/make_steel": {
     "criteria": {
       "has_item": "2025-08-18 01:51:53 +0000"
@@ -750,6 +773,18 @@
       "enchanted_item": "2025-08-18 01:01:59 +0000"
     },
     "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-08-18 04:38:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_hand": "2025-08-18 04:56:17 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
@@ -787,6 +822,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-08-18 04:54:54 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/multiblocks_root": {
     "criteria": {
       "has_item": "2025-08-18 01:51:53 +0000"
@@ -799,9 +840,28 @@
     },
     "done": true
   },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-08-18 05:16:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_helmet": "2025-08-18 05:02:38 +0000",
+      "fiery_sword": "2025-08-18 04:52:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/fishing_rod_of_misadventure": {
     "criteria": {
       "has_ingredient": "2025-08-18 01:24:31 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-08-18 04:55:23 +0000"
     },
     "done": true
   },
@@ -850,6 +910,12 @@
   "apothic_enchanting:bookshelf": {
     "criteria": {
       "bookshelf": "2025-08-18 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-18 05:14:53 +0000"
     },
     "done": true
   },

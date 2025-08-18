@@ -123,11 +123,14 @@
       "minecraft:sparse_jungle": "2025-08-17 04:50:31 +0000",
       "minecraft:river": "2025-08-17 03:24:21 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 04:26:25 +0000",
+      "minecraft:dripstone_caves": "2025-08-18 04:39:58 +0000",
       "minecraft:deep_cold_ocean": "2025-08-18 01:23:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 05:46:38 +0000",
       "minecraft:desert": "2025-08-17 03:36:33 +0000",
+      "minecraft:deep_dark": "2025-08-18 05:07:52 +0000",
       "minecraft:ocean": "2025-08-17 05:52:51 +0000",
       "minecraft:sunflower_plains": "2025-08-18 01:45:29 +0000",
+      "minecraft:meadow": "2025-08-18 04:53:29 +0000",
       "minecraft:savanna": "2025-08-17 04:11:23 +0000",
       "minecraft:windswept_savanna": "2025-08-17 03:20:44 +0000",
       "minecraft:plains": "2025-08-17 04:32:33 +0000",
@@ -412,10 +415,11 @@
     "criteria": {
       "common_helm": "2025-08-17 03:37:58 +0000",
       "common_hand": "2025-08-17 03:37:57 +0000",
+      "common_chest": "2025-08-18 04:51:27 +0000",
       "common_legs": "2025-08-17 04:04:46 +0000",
       "common_feet": "2025-08-17 04:03:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {
@@ -469,11 +473,13 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-08-17 04:04:46 +0000",
+      "uncommon_chest": "2025-08-18 04:51:27 +0000",
       "kill_apothic_invader": "2025-08-17 07:16:05 +0000",
       "uncommon_hand": "2025-08-18 04:03:35 +0000",
+      "uncommon_helm": "2025-08-18 05:00:43 +0000",
       "uncommon_feet": "2025-08-18 01:43:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "repurposed_structures:outposts": {
     "criteria": {
@@ -721,6 +727,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-08-18 05:07:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:ritual_brazier": {
     "criteria": {
       "has_ritual_brazier": "2025-08-18 03:22:09 +0000"
@@ -745,6 +757,12 @@
     },
     "done": true
   },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2025-08-18 04:53:34 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
       "has_imbuement_chamber": "2025-08-18 02:46:06 +0000"
@@ -763,6 +781,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-08-18 05:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-08-18 01:07:09 +0000"
@@ -775,15 +799,47 @@
     },
     "done": true
   },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_hand": "2025-08-18 04:56:21 +0000"
+    },
+    "done": false
+  },
   "constructionstick:template_angel": {
     "criteria": {
       "template_angel": "2025-08-18 01:02:57 +0000"
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-08-18 05:13:56 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-08-18 05:16:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_helmet": "2025-08-18 05:10:49 +0000",
+      "fiery_sword": "2025-08-18 04:52:43 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
       "golden_apple": "2025-08-18 01:28:52 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_legs": "2025-08-18 05:04:54 +0000",
+      "rare_hand": "2025-08-18 04:56:21 +0000"
     },
     "done": false
   },
@@ -796,6 +852,12 @@
   "apothic_enchanting:bookshelf": {
     "criteria": {
       "bookshelf": "2025-08-18 01:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-18 05:15:14 +0000"
     },
     "done": true
   },

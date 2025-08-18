@@ -68220,3 +68220,183 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [18Aug2025 04:24:11.657] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-441, y=62, z=-1433} with deep BlockPos{x=-441, y=-59, z=-1433}
 [18Aug2025 04:26:45.068] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [18Aug2025 04:31:31.688] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-494, y=70, z=-1393} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 04:31:45.093] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:31:45.567] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[18Aug2025 04:32:27.293] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-508, y=68, z=-1387} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[18Aug2025 04:33:24.489] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-464, y=73, z=-1343} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 04:33:45.703] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-432, y=64, z=-1320} Block{productivebees:sugar_cane_nest}[facing=north]
+[18Aug2025 04:33:45.781] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-469, y=73, z=-1317} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 04:34:04.641] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-461, y=70, z=-1304} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 04:35:17.477] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-428, y=65, z=-1251} with deep BlockPos{x=-428, y=-59, z=-1251}
+[18Aug2025 04:35:17.621] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-444, y=67, z=-1258} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 04:35:22.652] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-472, y=66, z=-1236} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 04:35:49.949] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-474, y=70, z=-1212} Block{productivebees:oak_wood_nest}[axis=y,facing=down]
+[18Aug2025 04:36:23.104] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-475, y=68, z=-1194} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[18Aug2025 04:36:45.061] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:38:44.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Warped]
+[18Aug2025 04:40:59.053] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1435, y=65, z=-1284} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 04:40:59.323] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1181, y=96, z=-1281} Block{productivebees:acacia_wood_nest}[axis=y,facing=north]
+[18Aug2025 04:41:15.162] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1269, y=101, z=-1277} Block{productivebees:stone_nest}[facing=west]
+[18Aug2025 04:41:15.350] [Worker-Main-7/DEBUG] [oritech/]: placing resource node at BlockPos{x=1305, y=172, z=-1276} with deep BlockPos{x=1305, y=-61, z=-1276}
+[18Aug2025 04:41:15.798] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1341, y=126, z=-1270} Block{productivebees:stone_nest}[facing=north]
+[18Aug2025 04:41:45.082] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:46:45.069] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:49:49.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [World Tier: Frontier]
+[18Aug2025 04:49:49.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has reached the goal [World Tier: Ascent]
+[18Aug2025 04:51:27.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [World Tier: Frontier]
+[18Aug2025 04:51:45.067] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:51:45.602] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[18Aug2025 04:53:34.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Luscious Surroundings]
+[18Aug2025 04:54:34.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bogged['Sampson the Airport Technician'/1896423, l='ServerLevel[world]', x=1181.48, y=65.00, z=-1655.42] died: Sampson the Airport Technician was killed by magic while trying to escape LuLo7
+[18Aug2025 04:54:45.612] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 04:54:45.614] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 04:54:54.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Where Is The Stone Pen?]
+[18Aug2025 04:55:11.262] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 04:55:11.264] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 04:56:45.066] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 04:56:54.056] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 04:57:14.204] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 04:57:14.205] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 04:59:06.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Cover Me with Diamonds]
+[18Aug2025 05:00:43.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [World Tier: Ascent]
+[18Aug2025 05:01:36.865] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:01:41.912] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:01:45.074] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 05:02:38.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has completed the challenge [Gallons of Blood and Tears]
+[18Aug2025 05:06:14.761] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1458, y=214, z=-1258} Block{productivebees:stone_nest}[facing=west]
+[18Aug2025 05:06:31.849] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1305, y=116, z=-1220} Block{productivebees:stone_nest}[facing=south]
+[18Aug2025 05:06:33.123] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=1462, y=180, z=-1227} with deep BlockPos{x=1462, y=-61, z=-1227}
+[18Aug2025 05:06:33.269] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1510, y=176, z=-1222} Block{productivebees:stone_nest}[facing=east]
+[18Aug2025 05:06:45.077] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 05:07:32.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1208, y=92, z=-1601} BlockPos{x=1219, y=75, z=-1532}
+[18Aug2025 05:08:46.369] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:08:46.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 05:08:47.210] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:09:08.505] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:09:08.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 05:09:09.167] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:09:09.167] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 05:09:30.363] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:09:30.364] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 05:09:31.302] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:09:31.303] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 05:10:46.410] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:10:47.013] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:10:47.014] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 05:10:49.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has completed the challenge [Gallons of Blood and Tears]
+[18Aug2025 05:11:07.460] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:11:07.461] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 05:11:10.769] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:11:45.079] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 05:11:45.653] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[18Aug2025 05:12:18.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bogged['Discount Branshadeglow'/1967661, l='ServerLevel[world]', x=1195.47, y=-40.00, z=-1630.36] died: Discount Branshadeglow was killed by magic while trying to escape LuLo7
+[18Aug2025 05:12:41.750] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:12:41.751] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 05:12:42.412] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:12:56.354] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:12:58.418] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:13:27.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Dr. Michael Ashdarkflame'/1974185, l='ServerLevel[world]', x=1194.48, y=-40.00, z=-1602.51] died: Dr. Michael Ashdarkflame was killed by magic while trying to escape LuLo7
+[18Aug2025 05:13:33.262] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:13:43.800] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Aug2025 05:13:43.802] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Aug2025 05:13:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [The Upgrade]
+[18Aug2025 05:14:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Sneak 100]
+[18Aug2025 05:15:03.133] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1561, y=100, z=-1260} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[18Aug2025 05:15:14.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Sneak 100]
+[18Aug2025 05:16:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Captured!]
+[18Aug2025 05:16:37.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Captured!]
+[18Aug2025 05:16:45.064] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 05:17:07.845] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=883, y=108, z=-1189} Block{productivebees:acacia_wood_nest}[axis=y,facing=north]
+[18Aug2025 05:17:10.413] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1446, y=211, z=-1198} Block{productivebees:stone_nest}[facing=north]
+[18Aug2025 05:17:31.664] [Worker-Main-7/DEBUG] [oritech/]: placing resource node at BlockPos{x=1023, y=92, z=-1177} with deep BlockPos{x=1023, y=-59, z=-1177}
+[18Aug2025 05:17:32.095] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1364, y=79, z=-1172} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 05:17:32.270] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1430, y=180, z=-1183} Block{productivebees:stone_nest}[facing=west]
+[18Aug2025 05:17:38.995] [Worker-Main-7/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1410, y=149, z=-1160} Block{productivebees:stone_nest}[facing=up]
+[18Aug2025 05:21:45.060] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 05:24:20.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rogerto lost connection: Disconnected
+[18Aug2025 05:24:20.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto left the game
+[18Aug2025 05:24:45.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
+[18Aug2025 05:24:45.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
+[18Aug2025 05:25:02.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Aug2025 05:25:02.607] [Server thread/INFO] [com.github.jarva.arsadditions.ArsAdditions/]: Shutting down locating executor service
+[18Aug2025 05:25:02.608] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[18Aug2025 05:25:02.608] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[18Aug2025 05:25:02.650] [Server thread/DEBUG] [lain.mods.cos.init.neoforge.NeoForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[18Aug2025 05:25:02.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Aug2025 05:25:02.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Aug2025 05:25:02.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Aug2025 05:25:02.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Aug2025 05:25:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[18Aug2025 05:25:02.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[18Aug2025 05:25:02.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_starlight:starlight
+[18Aug2025 05:25:02.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[18Aug2025 05:25:02.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[18Aug2025 05:25:02.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18Aug2025 05:25:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Aug2025 05:25:02.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[18Aug2025 05:25:02.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[18Aug2025 05:25:02.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[18Aug2025 05:25:02.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[18Aug2025 05:25:02.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[18Aug2025 05:25:02.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[18Aug2025 05:25:02.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Aug2025 05:25:02.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[18Aug2025 05:25:02.879] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[18Aug2025 05:25:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Aug2025 05:25:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[18Aug2025 05:25:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[18Aug2025 05:25:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[18Aug2025 05:25:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Aug2025 05:25:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[18Aug2025 05:25:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Aug2025 05:25:02.886] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[18Aug2025 05:25:02.886] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[18Aug2025 05:25:03.092] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for iceandfire:dread_land
+[18Aug2025 05:25:03.092] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for iceandfire:dread_land
+[18Aug2025 05:25:03.093] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for undergarden:undergarden
+[18Aug2025 05:25:03.093] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for undergarden:undergarden
+[18Aug2025 05:25:03.093] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for eternal_starlight:starlight
+[18Aug2025 05:25:03.093] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for eternal_starlight:starlight
+[18Aug2025 05:25:03.094] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_bumblezone:the_bumblezone
+[18Aug2025 05:25:03.094] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_bumblezone:the_bumblezone
+[18Aug2025 05:25:03.094] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for allthemodium:the_other
+[18Aug2025 05:25:03.094] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for allthemodium:the_other
+[18Aug2025 05:25:03.095] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for deeperdarker:otherside
+[18Aug2025 05:25:03.095] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for deeperdarker:otherside
+[18Aug2025 05:25:03.095] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[18Aug2025 05:25:03.095] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[18Aug2025 05:25:03.095] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for mahoutsukai:reality_marble
+[18Aug2025 05:25:03.095] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for mahoutsukai:reality_marble
+[18Aug2025 05:25:03.096] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for irons_spellbooks:pocket_dimension_type
+[18Aug2025 05:25:03.096] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for irons_spellbooks:pocket_dimension_type
+[18Aug2025 05:25:03.096] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[18Aug2025 05:25:03.096] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[18Aug2025 05:25:03.097] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for allthemodium:mining
+[18Aug2025 05:25:03.097] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for allthemodium:mining
+[18Aug2025 05:25:03.097] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for allthemodium:the_beyond
+[18Aug2025 05:25:03.097] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for allthemodium:the_beyond
+[18Aug2025 05:25:03.097] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for compactmachines:compact_world
+[18Aug2025 05:25:03.097] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for compactmachines:compact_world
+[18Aug2025 05:25:03.098] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[18Aug2025 05:25:03.098] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[18Aug2025 05:25:03.098] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ae2:spatial_storage
+[18Aug2025 05:25:03.098] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ae2:spatial_storage
+[18Aug2025 05:25:03.101] [Server thread/DEBUG] [com.refinedmods.refinedstorage.common.util.ServerListener/]: Stopping autocrafting pool
+[18Aug2025 05:25:03.102] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Aug2025 05:25:03.103] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/literate-fiesta/servidor_minecraft/config/refurbished_furniture.server.toml
+[18Aug2025 05:25:03.103] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[18Aug2025 05:25:03.105] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Aug2025 05:25:03.105] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[18Aug2025 05:25:03.105] [Server thread/DEBUG] [FluxNetworks/]: FluxNetworkData has been unloaded
+[18Aug2025 05:25:03.531] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[18Aug2025 05:25:03.536] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
