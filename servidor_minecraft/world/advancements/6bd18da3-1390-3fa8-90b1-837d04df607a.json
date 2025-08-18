@@ -464,21 +464,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/froglights": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "froglights": "2025-08-17 05:10:30 +0000"
+      "iron_knife": "2025-08-17 04:50:11 +0000"
     },
     "done": true
   },
-  "repurposed_structures:villages": {
+  "apotheosis:progression/haven": {
     "criteria": {
-      "in_village_oak": "2025-08-17 04:58:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-08-17 05:14:58 +0000"
+      "affixed": "2025-08-17 04:50:11 +0000"
     },
     "done": true
   },
@@ -488,21 +482,9 @@
     },
     "done": true
   },
-  "evilcraft:root": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "criteria_0": "2025-08-17 05:20:53 +0000"
-    },
-    "done": true
-  },
-  "evilcraft:evil_source": {
-    "criteria": {
-      "criteria_0": "2025-08-17 05:42:46 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:root": {
-    "criteria": {
-      "ars_nouveau:worn_notebook": "2025-08-17 05:11:02 +0000"
+      "diamond": "2025-08-17 04:52:11 +0000"
     },
     "done": true
   },
@@ -518,17 +500,79 @@
     },
     "done": true
   },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-08-17 04:56:40 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-17 04:57:48 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-17 04:57:48 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2025-08-17 04:58:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2025-08-17 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-08-17 05:11:02 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-08-17 05:11:02 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "coded_trigger": "2025-08-17 06:52:33 +0000"
+      "iron_pickaxe": "2025-08-17 05:14:58 +0000"
     },
     "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-08-17 05:20:53 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-08-17 05:31:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "kill_apothic_invader": "2025-08-17 05:32:18 +0000",
+      "uncommon_helm": "2025-08-17 05:32:26 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_helm": "2025-08-17 05:32:26 +0000",
+      "common_hand": "2025-08-17 05:54:10 +0000"
+    },
+    "done": false
   },
   "pneumaticcraft:pressure_tube": {
     "criteria": {
@@ -536,9 +580,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
+  "apotheosis:progression/summit": {
     "criteria": {
-      "coded_trigger": "2025-08-17 06:51:47 +0000"
+      "rare_helm": "2025-08-17 05:34:35 +0000"
+    },
+    "done": false
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-08-17 05:42:46 +0000"
     },
     "done": true
   },
@@ -553,15 +603,21 @@
     },
     "done": false
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-17 06:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-17 06:25:39 +0000"
     },
     "done": true
   },
-  "ars_additions:find_ruined_portal": {
+  "tombstone:adventure/first_knowledge": {
     "criteria": {
-      "find_ruined_portal": "2025-08-17 04:56:40 +0000"
+      "coded_trigger": "2025-08-17 06:51:47 +0000"
     },
     "done": true
   },
@@ -571,65 +627,9 @@
     },
     "done": true
   },
-  "evilcraft:first_age": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "criteria_0": "2025-08-17 05:31:01 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/summit": {
-    "criteria": {
-      "rare_helm": "2025-08-17 05:34:35 +0000"
-    },
-    "done": false
-  },
-  "apotheosis:progression/ascent": {
-    "criteria": {
-      "kill_apothic_invader": "2025-08-17 05:32:18 +0000",
-      "uncommon_helm": "2025-08-17 05:32:26 +0000"
-    },
-    "done": false
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-08-17 04:57:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-08-17 06:02:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-08-17 04:50:11 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/haven": {
-    "criteria": {
-      "affixed": "2025-08-17 04:50:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-08-17 04:52:11 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/frontier": {
-    "criteria": {
-      "common_helm": "2025-08-17 05:32:26 +0000",
-      "common_hand": "2025-08-17 05:54:10 +0000"
-    },
-    "done": false
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-08-17 04:57:48 +0000"
+      "coded_trigger": "2025-08-17 06:52:33 +0000"
     },
     "done": true
   },
