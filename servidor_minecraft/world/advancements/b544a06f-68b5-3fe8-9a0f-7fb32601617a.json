@@ -377,6 +377,7 @@
       "minecraft:magma_cube": "2025-08-18 01:34:34 +0000",
       "minecraft:spider": "2025-08-17 03:37:42 +0000",
       "minecraft:zombie": "2025-08-18 01:27:04 +0000",
+      "minecraft:drowned": "2025-08-18 03:07:35 +0000",
       "minecraft:zombie_villager": "2025-08-17 07:13:09 +0000",
       "minecraft:husk": "2025-08-17 03:36:09 +0000",
       "minecraft:bogged": "2025-08-17 07:16:05 +0000"
@@ -725,6 +726,18 @@
     },
     "done": true
   },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-08-18 02:50:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 03:07:25 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
       "has_imbuement_chamber": "2025-08-18 02:46:06 +0000"
@@ -776,6 +789,12 @@
   "apothic_enchanting:bookshelf": {
     "criteria": {
       "bookshelf": "2025-08-18 01:02:48 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-08-18 02:46:55 +0000"
     },
     "done": true
   },
