@@ -68204,3 +68204,8 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [18Aug2025 03:31:45.048] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [18Aug2025 03:31:45.398] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
 [18Aug2025 03:36:45.049] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 03:41:45.049] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 03:46:45.051] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 03:51:45.054] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Aug2025 03:51:45.446] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[18Aug2025 03:56:45.042] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
