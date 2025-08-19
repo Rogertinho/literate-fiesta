@@ -57826,3 +57826,6 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [19Aug2025 05:14:23.791] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [19Aug2025 05:14:23.898] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
 [19Aug2025 05:19:23.753] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 05:24:23.748] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 05:29:23.760] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 05:32:11.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Is This A Forge Mod?]
