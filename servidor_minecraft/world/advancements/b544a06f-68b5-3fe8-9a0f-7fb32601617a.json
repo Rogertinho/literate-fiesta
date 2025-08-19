@@ -918,9 +918,21 @@
     },
     "done": true
   },
+  "modern_industrialization:forge_hammer": {
+    "criteria": {
+      "checkInv": "2025-08-19 05:32:11 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:honey_bucket/obtain_honey_bucket": {
     "criteria": {
       "obtain_honey_bucket": "2025-08-19 05:09:26 +0000"
+    },
+    "done": true
+  },
+  "modern_industrialization:steam_mining_drill": {
+    "criteria": {
+      "checkInv": "2025-08-19 05:34:05 +0000"
     },
     "done": true
   },
