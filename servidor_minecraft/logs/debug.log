@@ -57809,3 +57809,15 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [19Aug2025 04:44:23.763] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [19Aug2025 04:46:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Unbreaking X]
 [19Aug2025 04:49:23.764] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 04:54:23.759] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 04:54:23.804] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[19Aug2025 04:55:39.514] [Server thread/DEBUG] [mixin/]: Mixing ConnectivityHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.api.connectivity.ConnectivityHandler
+[19Aug2025 04:55:39.514] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[19Aug2025 04:55:39.551] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidSingle(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[19Aug2025 04:55:39.552] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidMulti(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[19Aug2025 04:56:40.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Where did it go?]
+[19Aug2025 04:58:10.904] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-615, y=68, z=-1435} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[19Aug2025 04:58:27.142] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-514, y=66, z=-1407} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[19Aug2025 04:58:54.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [The Andesite Age]
+[19Aug2025 04:59:23.781] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 05:00:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Cutest Hopper]

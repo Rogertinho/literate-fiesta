@@ -299,7 +299,9 @@
       "boreal_forest": "2025-08-18 01:46:35 +0000",
       "glistering_meadow": "2025-08-19 04:28:18 +0000",
       "rocky_meadow": "2025-08-17 05:00:40 +0000",
+      "flower_fields": "2025-08-19 04:57:10 +0000",
       "gravel_beach": "2025-08-18 02:02:05 +0000",
+      "highland_fields": "2025-08-19 04:57:59 +0000",
       "maple_forest": "2025-08-18 01:53:25 +0000",
       "muddy_river": "2025-08-18 02:01:22 +0000",
       "autumnal_maple_forest": "2025-08-18 02:01:44 +0000",
@@ -311,17 +313,19 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "baobab_savanna": "2025-08-17 03:25:19 +0000",
+      "grassy_beach": "2025-08-17 05:05:17 +0000",
+      "boreal_forest": "2025-08-18 01:46:35 +0000",
+      "rocky_meadow": "2025-08-17 05:00:40 +0000",
+      "flower_fields": "2025-08-19 04:57:10 +0000",
       "gravel_beach": "2025-08-18 02:02:05 +0000",
+      "highland_fields": "2025-08-19 04:57:59 +0000",
       "maple_forest": "2025-08-18 01:53:25 +0000",
       "muddy_river": "2025-08-18 02:01:22 +0000",
       "autumnal_maple_forest": "2025-08-18 02:01:44 +0000",
-      "baobab_savanna": "2025-08-17 03:25:19 +0000",
-      "grassy_beach": "2025-08-17 05:05:17 +0000",
       "bamboo_forest": "2025-08-17 05:00:23 +0000",
       "magnolia_highlands": "2025-08-17 05:03:29 +0000",
-      "boreal_forest": "2025-08-18 01:46:35 +0000",
-      "saguaro_desert": "2025-08-17 03:40:12 +0000",
-      "rocky_meadow": "2025-08-17 05:00:40 +0000"
+      "saguaro_desert": "2025-08-17 03:40:12 +0000"
     },
     "done": false
   },
@@ -1036,6 +1040,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-19 04:27:26 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-08-19 04:56:40 +0000"
     },
     "done": true
   },

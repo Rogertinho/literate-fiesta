@@ -9431,3 +9431,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [19Aug2025 04:40:42.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=74, z=-220} BlockPos{x=-75, y=73, z=-220}
 [19Aug2025 04:43:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Ice Bucket Challenge]
 [19Aug2025 04:46:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Unbreaking X]
+[19Aug2025 04:56:40.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Where did it go?]
+[19Aug2025 04:58:54.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [The Andesite Age]
+[19Aug2025 05:00:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Cutest Hopper]
