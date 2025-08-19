@@ -721,127 +721,11 @@
     },
     "done": true
   },
-  "apothic_enchanting:30ench": {
-    "criteria": {
-      "enchanted_item": "2025-08-18 01:07:09 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-08-18 05:07:52 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:ritual_brazier": {
-    "criteria": {
-      "has_ritual_brazier": "2025-08-18 03:22:09 +0000"
-    },
-    "done": true
-  },
-  "railcraft:tracks/regular_track": {
-    "criteria": {
-      "inv_changed": "2025-08-18 01:59:50 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:enchanting_apparatus": {
-    "criteria": {
-      "has_enchanting_apparatus": "2025-08-18 02:50:01 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/stolen_magic": {
-    "criteria": {
-      "coded_trigger": "2025-08-18 03:07:25 +0000"
-    },
-    "done": true
-  },
-  "naturesaura:positive_imbalance": {
-    "criteria": {
-      "triggered_in_code": "2025-08-18 04:53:34 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:imbuement_chamber": {
-    "criteria": {
-      "has_imbuement_chamber": "2025-08-18 02:46:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-08-18 01:02:48 +0000"
     },
     "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-08-18 01:07:31 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/make_steel": {
-    "criteria": {
-      "has_item": "2025-08-18 05:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-08-18 01:07:09 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-08-18 01:36:45 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/pinnacle": {
-    "criteria": {
-      "epic_hand": "2025-08-18 04:56:21 +0000"
-    },
-    "done": false
-  },
-  "constructionstick:template_angel": {
-    "criteria": {
-      "template_angel": "2025-08-18 01:02:57 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:multiblocks/multiblocks_root": {
-    "criteria": {
-      "has_item": "2025-08-18 05:13:56 +0000"
-    },
-    "done": true
-  },
-  "apothic_spawners:capturing": {
-    "criteria": {
-      "egg": "2025-08-18 05:16:37 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:fiery_set": {
-    "criteria": {
-      "fiery_helmet": "2025-08-18 05:10:49 +0000",
-      "fiery_sword": "2025-08-18 04:52:43 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
-    "criteria": {
-      "golden_apple": "2025-08-18 01:28:52 +0000"
-    },
-    "done": false
-  },
-  "apotheosis:progression/summit": {
-    "criteria": {
-      "rare_legs": "2025-08-18 05:04:54 +0000",
-      "rare_hand": "2025-08-18 04:56:21 +0000"
-    },
-    "done": false
   },
   "constructionstick:iron_stick": {
     "criteria": {
@@ -855,15 +739,57 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "constructionstick:template_angel": {
     "criteria": {
-      "avoid_vibration": "2025-08-18 05:15:14 +0000"
+      "template_angel": "2025-08-18 01:02:57 +0000"
     },
     "done": true
   },
-  "ars_nouveau:source_jar": {
+  "apothic_enchanting:30ench": {
     "criteria": {
-      "has_source_jar": "2025-08-18 02:46:55 +0000"
+      "enchanted_item": "2025-08-18 01:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-18 01:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-18 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 01:24:57 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-08-18 01:27:14 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "golden_apple": "2025-08-18 01:28:52 +0000"
+    },
+    "done": false
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-08-18 01:36:45 +0000"
+    },
+    "done": true
+  },
+  "railcraft:tracks/regular_track": {
+    "criteria": {
+      "inv_changed": "2025-08-18 01:59:50 +0000"
     },
     "done": true
   },
@@ -879,15 +805,89 @@
     },
     "done": true
   },
-  "mekanismtools:alternate_tools": {
+  "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "tools": "2025-08-18 01:27:14 +0000"
+      "has_imbuement_chamber": "2025-08-18 02:46:06 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "ars_nouveau:source_jar": {
     "criteria": {
-      "coded_trigger": "2025-08-18 01:24:57 +0000"
+      "has_source_jar": "2025-08-18 02:46:55 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-08-18 02:50:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-08-18 03:07:25 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-08-18 03:22:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_helmet": "2025-08-18 05:10:49 +0000",
+      "fiery_sword": "2025-08-18 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2025-08-18 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_hand": "2025-08-18 04:56:21 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_legs": "2025-08-18 05:04:54 +0000",
+      "rare_hand": "2025-08-18 04:56:21 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-08-18 05:07:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-08-18 05:13:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-08-18 05:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-18 05:15:14 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-08-18 05:16:37 +0000"
     },
     "done": true
   },
