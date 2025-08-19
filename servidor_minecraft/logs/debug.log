@@ -58357,3 +58357,88 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [19Aug2025 06:19:23.758] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [19Aug2025 06:23:24.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
 [19Aug2025 06:23:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
+[19Aug2025 06:23:58.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rogerto lost connection: Disconnected
+[19Aug2025 06:23:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto left the game
+[19Aug2025 06:24:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Aug2025 06:24:09.208] [Server thread/INFO] [com.github.jarva.arsadditions.ArsAdditions/]: Shutting down locating executor service
+[19Aug2025 06:24:09.209] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[19Aug2025 06:24:09.209] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[19Aug2025 06:24:09.262] [Server thread/DEBUG] [lain.mods.cos.init.neoforge.NeoForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[19Aug2025 06:24:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Aug2025 06:24:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Aug2025 06:24:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Aug2025 06:24:09.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Aug2025 06:24:09.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Aug2025 06:24:09.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[19Aug2025 06:24:09.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[19Aug2025 06:24:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[19Aug2025 06:24:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[19Aug2025 06:24:09.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Aug2025 06:24:09.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[19Aug2025 06:24:09.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[19Aug2025 06:24:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[19Aug2025 06:24:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[19Aug2025 06:24:09.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_starlight:starlight
+[19Aug2025 06:24:09.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[19Aug2025 06:24:09.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[19Aug2025 06:24:09.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[19Aug2025 06:24:09.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[19Aug2025 06:24:09.934] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 06:24:09.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Aug2025 06:24:09.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Aug2025 06:24:09.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[19Aug2025 06:24:09.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19Aug2025 06:24:09.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[19Aug2025 06:24:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[19Aug2025 06:24:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Aug2025 06:24:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[19Aug2025 06:24:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[19Aug2025 06:24:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[19Aug2025 06:24:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[19Aug2025 06:24:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[19Aug2025 06:24:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[19Aug2025 06:24:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[19Aug2025 06:24:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[19Aug2025 06:24:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[19Aug2025 06:24:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Aug2025 06:24:09.942] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[19Aug2025 06:24:09.942] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[19Aug2025 06:24:09.974] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[19Aug2025 06:24:09.974] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[19Aug2025 06:24:10.108] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for deeperdarker:otherside
+[19Aug2025 06:24:10.108] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for deeperdarker:otherside
+[19Aug2025 06:24:10.109] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[19Aug2025 06:24:10.109] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[19Aug2025 06:24:10.109] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_bumblezone:the_bumblezone
+[19Aug2025 06:24:10.109] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_bumblezone:the_bumblezone
+[19Aug2025 06:24:10.110] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for allthemodium:the_other
+[19Aug2025 06:24:10.110] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for allthemodium:the_other
+[19Aug2025 06:24:10.110] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[19Aug2025 06:24:10.110] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[19Aug2025 06:24:10.111] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for iceandfire:dread_land
+[19Aug2025 06:24:10.111] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for iceandfire:dread_land
+[19Aug2025 06:24:10.111] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for irons_spellbooks:pocket_dimension_type
+[19Aug2025 06:24:10.111] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for irons_spellbooks:pocket_dimension_type
+[19Aug2025 06:24:10.112] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for compactmachines:compact_world
+[19Aug2025 06:24:10.112] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for compactmachines:compact_world
+[19Aug2025 06:24:10.112] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for undergarden:undergarden
+[19Aug2025 06:24:10.112] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for undergarden:undergarden
+[19Aug2025 06:24:10.112] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for eternal_starlight:starlight
+[19Aug2025 06:24:10.112] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for eternal_starlight:starlight
+[19Aug2025 06:24:10.113] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for allthemodium:mining
+[19Aug2025 06:24:10.113] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for allthemodium:mining
+[19Aug2025 06:24:10.113] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for allthemodium:the_beyond
+[19Aug2025 06:24:10.113] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for allthemodium:the_beyond
+[19Aug2025 06:24:10.114] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for mahoutsukai:reality_marble
+[19Aug2025 06:24:10.114] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for mahoutsukai:reality_marble
+[19Aug2025 06:24:10.114] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ae2:spatial_storage
+[19Aug2025 06:24:10.114] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ae2:spatial_storage
+[19Aug2025 06:24:10.117] [Server thread/DEBUG] [com.refinedmods.refinedstorage.common.util.ServerListener/]: Stopping autocrafting pool
+[19Aug2025 06:24:10.119] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Aug2025 06:24:10.119] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/literate-fiesta/servidor_minecraft/config/refurbished_furniture.server.toml
+[19Aug2025 06:24:10.120] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[19Aug2025 06:24:10.122] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[19Aug2025 06:24:10.123] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[19Aug2025 06:24:10.123] [Server thread/DEBUG] [FluxNetworks/]: FluxNetworkData has been unloaded
+[19Aug2025 06:24:10.131] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[19Aug2025 06:24:10.138] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
