@@ -57821,3 +57821,8 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [19Aug2025 04:58:54.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [The Andesite Age]
 [19Aug2025 04:59:23.781] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [19Aug2025 05:00:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Cutest Hopper]
+[19Aug2025 05:04:23.761] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 05:09:23.750] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 05:14:23.791] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 05:14:23.898] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[19Aug2025 05:19:23.753] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
