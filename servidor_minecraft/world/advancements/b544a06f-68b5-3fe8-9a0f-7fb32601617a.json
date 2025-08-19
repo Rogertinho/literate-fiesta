@@ -860,6 +860,8 @@
     "criteria": {
       "rare_legs": "2025-08-18 05:04:54 +0000",
       "rare_hand": "2025-08-18 04:56:21 +0000",
+      "rare_chest": "2025-08-19 05:52:02 +0000",
+      "rare_helm": "2025-08-19 05:56:54 +0000",
       "rare_feet": "2025-08-19 04:38:37 +0000"
     },
     "done": false
@@ -930,6 +932,12 @@
     },
     "done": true
   },
+  "silentgear:salvager": {
+    "criteria": {
+      "get_item": "2025-08-19 05:55:03 +0000"
+    },
+    "done": true
+  },
   "modern_industrialization:steam_mining_drill": {
     "criteria": {
       "checkInv": "2025-08-19 05:34:05 +0000"
@@ -951,6 +959,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-19 04:43:23 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:copiable_mystery": {
+    "criteria": {
+      "0": "2025-08-19 05:52:22 +0000"
     },
     "done": true
   },

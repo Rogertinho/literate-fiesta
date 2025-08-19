@@ -9439,3 +9439,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [19Aug2025 05:39:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Construction Paper]
 [19Aug2025 05:41:52.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Better Than Villagers]
 [19Aug2025 05:48:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Configure Everything]
+[19Aug2025 05:55:03.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Salvager]
+[19Aug2025 05:55:16.055] [Server thread/INFO] [fastsuite/]: Constructed recipe list for silentgear:salvaging in 193.8 μs. 0/106 recipes are parallelized.
+[19Aug2025 06:23:24.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
+[19Aug2025 06:23:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
