@@ -293,18 +293,19 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "baobab_savanna": "2025-08-17 03:25:19 +0000",
+      "grassy_beach": "2025-08-17 05:05:17 +0000",
+      "scorching_caves": "2025-08-18 04:19:08 +0000",
+      "boreal_forest": "2025-08-18 01:46:35 +0000",
+      "glistering_meadow": "2025-08-19 04:28:18 +0000",
+      "rocky_meadow": "2025-08-17 05:00:40 +0000",
       "gravel_beach": "2025-08-18 02:02:05 +0000",
       "maple_forest": "2025-08-18 01:53:25 +0000",
       "muddy_river": "2025-08-18 02:01:22 +0000",
       "autumnal_maple_forest": "2025-08-18 02:01:44 +0000",
-      "baobab_savanna": "2025-08-17 03:25:19 +0000",
-      "grassy_beach": "2025-08-17 05:05:17 +0000",
-      "scorching_caves": "2025-08-18 04:19:08 +0000",
       "bamboo_forest": "2025-08-17 05:00:23 +0000",
       "magnolia_highlands": "2025-08-17 05:03:29 +0000",
-      "boreal_forest": "2025-08-18 01:46:35 +0000",
-      "saguaro_desert": "2025-08-17 03:40:12 +0000",
-      "rocky_meadow": "2025-08-17 05:00:40 +0000"
+      "saguaro_desert": "2025-08-17 03:40:12 +0000"
     },
     "done": false
   },
@@ -378,17 +379,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-08-19 04:30:39 +0000",
       "minecraft:skeleton": "2025-08-18 01:24:26 +0000",
+      "minecraft:witch": "2025-08-17 06:51:47 +0000",
+      "minecraft:wither_skeleton": "2025-08-19 04:33:08 +0000",
+      "minecraft:husk": "2025-08-17 03:37:01 +0000",
+      "minecraft:bogged": "2025-08-18 04:54:34 +0000",
+      "minecraft:hoglin": "2025-08-19 04:36:46 +0000",
       "minecraft:silverfish": "2025-08-18 01:32:40 +0000",
       "minecraft:stray": "2025-08-18 01:24:24 +0000",
+      "minecraft:enderman": "2025-08-19 04:37:04 +0000",
       "minecraft:magma_cube": "2025-08-18 01:34:18 +0000",
-      "minecraft:witch": "2025-08-17 06:51:47 +0000",
       "minecraft:spider": "2025-08-17 06:51:52 +0000",
       "minecraft:zombie": "2025-08-17 04:54:30 +0000",
       "minecraft:drowned": "2025-08-18 01:43:10 +0000",
-      "minecraft:zombie_villager": "2025-08-18 03:24:11 +0000",
-      "minecraft:husk": "2025-08-17 03:37:01 +0000",
-      "minecraft:bogged": "2025-08-18 04:54:34 +0000"
+      "minecraft:zombie_villager": "2025-08-18 03:24:11 +0000"
     },
     "done": false
   },
@@ -988,6 +993,73 @@
   "apothic_spawners:capturing": {
     "criteria": {
       "egg": "2025-08-18 05:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-19 04:32:22 +0000",
+      "minecraft:basalt_deltas": "2025-08-19 04:31:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-19 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2025-08-19 04:33:45 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "glistering_meadow": "2025-08-19 04:28:18 +0000"
+    },
+    "done": false
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-08-19 04:32:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-19 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-19 04:27:26 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-08-19 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2025-08-19 04:34:46 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-08-19 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-08-19 04:30:28 +0000"
     },
     "done": true
   },

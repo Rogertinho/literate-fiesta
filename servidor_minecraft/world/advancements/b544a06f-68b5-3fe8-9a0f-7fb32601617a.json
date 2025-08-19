@@ -850,6 +850,7 @@
   },
   "apotheosis:progression/pinnacle": {
     "criteria": {
+      "epic_feet": "2025-08-19 04:38:37 +0000",
       "epic_hand": "2025-08-18 04:56:21 +0000"
     },
     "done": false
@@ -857,7 +858,8 @@
   "apotheosis:progression/summit": {
     "criteria": {
       "rare_legs": "2025-08-18 05:04:54 +0000",
-      "rare_hand": "2025-08-18 04:56:21 +0000"
+      "rare_hand": "2025-08-18 04:56:21 +0000",
+      "rare_feet": "2025-08-19 04:38:37 +0000"
     },
     "done": false
   },
@@ -888,6 +890,30 @@
   "apothic_spawners:capturing": {
     "criteria": {
       "egg": "2025-08-18 05:16:37 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-08-19 04:26:48 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-08-19 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-08-19 04:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-19 04:43:23 +0000"
     },
     "done": true
   },

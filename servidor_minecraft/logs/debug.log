@@ -57611,3 +57611,201 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [19Aug2025 04:19:02.956] [Server thread/DEBUG] [mixin/]: Mixing DeployerHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.kinetics.deployer.DeployerHandler
 [19Aug2025 04:19:02.956] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:DeployerHandlerMixin from mod create_enchantment_industry: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [19Aug2025 04:19:12.753] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 04:24:12.512] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 04:27:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Ice Bucket Challenge]
+[19Aug2025 04:28:06.765] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[19Aug2025 04:28:08.555] [Worker-Main-5/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Aug2025 04:28:08.555] [Worker-Main-5/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19Aug2025 04:28:08.562] [Worker-Main-5/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Aug2025 04:28:08.563] [Worker-Main-5/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19Aug2025 04:28:08.563] [Worker-Main-5/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Aug2025 04:28:08.563] [Worker-Main-5/DEBUG] [mixin/]: cataclysm.mixins.json:accessor.BeardifierAccessor from mod cataclysm: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19Aug2025 04:28:08.564] [Worker-Main-5/DEBUG] [mixin/]: Mixing BeardifierMixin from irons_spellbooks.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Aug2025 04:28:08.569] [Worker-Main-5/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.neoforge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[19Aug2025 04:28:08.569] [Worker-Main-5/DEBUG] [mixin/]: lithostitched.neoforge.mixins.json:common.BeardifierMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19Aug2025 04:28:08.591] [Worker-Main-5/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_supportCustomTerrainAdaptations(Lnet/minecraft/world/level/StructureManager;Lnet/minecraft/world/level/ChunkPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19Aug2025 04:28:08.591] [Worker-Main-5/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_calculateDensity(Lnet/minecraft/world/level/levelgen/DensityFunction$FunctionContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19Aug2025 04:28:08.592] [Worker-Main-5/DEBUG] [mixin/]: irons_spellbooks.mixins.json:BeardifierMixin from mod irons_spellbooks->@Inject::irons_spellbooks$injectCustomTerrainAdaptation(Lnet/minecraft/world/level/ChunkPos;Lit/unimi/dsi/fastutil/objects/ObjectList;IILit/unimi/dsi/fastutil/objects/ObjectList;Lnet/minecraft/world/level/levelgen/structure/StructureStart;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[19Aug2025 04:28:08.592] [Worker-Main-5/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[19Aug2025 04:28:08.592] [Worker-Main-5/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[19Aug2025 04:28:12.695] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[19Aug2025 04:28:12.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [We Need to Go Deeper]
+[19Aug2025 04:28:13.095] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-612, y=64, z=-1802} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[19Aug2025 04:28:13.144] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[19Aug2025 04:28:13.144] [Worker-Main-1/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19Aug2025 04:28:14.361] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-29, y=92, z=-168} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:15.104] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-139, y=20, z=-184} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:15.596] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-128, y=26, z=-158} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:16.982] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-23, y=30, z=-285} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:18.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11373ms or 227 ticks behind
+[19Aug2025 04:28:18.857] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-112, y=48, z=-301} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:19.062] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-124, y=20, z=-144} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:21.677] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-42, y=30, z=-320} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:21.722] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-111, y=14, z=-121} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:24.668] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-205, y=84, z=-336} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:26.992] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-213, y=90, z=-112} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:27.466] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-218, y=96, z=-95} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:28.857] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-48, y=50, z=-365} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:30.889] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[19Aug2025 04:28:30.900] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[19Aug2025 04:28:30.901] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[19Aug2025 04:28:30.909] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[19Aug2025 04:28:34.583] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-192, y=94, z=-36} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:35.131] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=41, y=46, z=-371} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:39.632] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-205, y=98, z=-408} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:41.034] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=102, y=22, z=-206} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:42.063] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.064] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.092] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.119] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[19Aug2025 04:28:42.119] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:gameplay.CooldownInstanceAccessor from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19Aug2025 04:28:42.162] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.163] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.163] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.445] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-128, y=80, z=-427} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:42.732] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:43.298] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=115, y=78, z=-266} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:44.913] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:44.937] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:44.938] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:44.941] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:45.048] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:45.388] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-93, y=60, z=-443} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:28:46.945] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=75, y=86, z=-27} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:47.245] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=141, y=68, z=-318} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:47.512] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:47.513] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:48.299] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/104107, l='ServerLevel[world]', x=-291.00, y=31.00, z=-93.00] as it would cause deadlock
+[19Aug2025 04:28:48.495] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=133, y=86, z=-200} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:49.434] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-92, y=56, z=-461} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:28:49.579] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-160, y=58, z=-463} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:49.848] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:49.848] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:49.856] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:49.856] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:49.864] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-47, y=58, z=-452} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:28:50.688] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=93, y=100, z=-12} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:55.310] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/104826, l='ServerLevel[world]', x=-215.00, y=31.00, z=-456.00] as it would cause deadlock
+[19Aug2025 04:28:55.405] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-40, y=81, z=-471} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:28:55.675] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-234, y=18, z=7} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:56.935] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=187, y=76, z=-300} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:28:58.534] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-84, y=69, z=-496} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:29:00.285] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.339] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.377] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.422] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.438] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.462] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.492] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.506] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.575] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.596] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atMutableBlockPos{x=304, y=61, z=144}
+[19Aug2025 04:29:00.706] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:00.765] [Worker-Main-4/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=328, y=128, z=168}
+[19Aug2025 04:29:01.109] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105525, l='ServerLevel[world]', x=163.00, y=31.00, z=-6.00] as it would cause deadlock
+[19Aug2025 04:29:01.726] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-215, y=22, z=-507} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:02.018] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105618, l='ServerLevel[world]', x=147.00, y=75.00, z=-495.10] as it would cause deadlock
+[19Aug2025 04:29:02.457] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-323, y=58, z=-473} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:29:02.636] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-326, y=57, z=-419} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:29:04.018] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=6, y=54, z=28} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:05.818] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=114, y=62, z=37} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:06.668] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-302, y=58, z=39} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:07.533] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:07.535] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:07.547] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-343, y=66, z=-378} Block{productivebees:nether_brick_nest}[facing=south]
+[19Aug2025 04:29:08.191] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-351, y=73, z=-437} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:29:09.262] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-3, y=72, z=-524} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:29:10.341] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=168, y=16, z=54} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:10.428] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/106488, l='ServerLevel[world]', x=-215.00, y=31.00, z=33.00] as it would cause deadlock
+[19Aug2025 04:29:10.753] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-364, y=22, z=-43} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:11.453] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:11.454] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:12.536] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5, y=100, z=68} Block{productivebees:nether_quartz_nest}[facing=down]
+[19Aug2025 04:29:13.338] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=230, y=76, z=61} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:14.347] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=234, y=18, z=-479} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:15.112] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-378, y=68, z=-323} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:16.201] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-20, y=52, z=-524} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:29:16.337] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:16.397] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:16.400] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-59, y=55, z=-524} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:29:17.255] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-252, y=96, z=93} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:17.850] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=195, y=26, z=86} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:22.180] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:22.182] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-68, y=72, z=-533} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:29:22.209] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:22.210] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:22.221] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:22.222] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-48, y=60, z=-543} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:29:23.859] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 04:29:26.783] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=253, y=64, z=37} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:29.349] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/108488, l='ServerLevel[world]', x=-87.00, y=31.00, z=-537.00] as it would cause deadlock
+[19Aug2025 04:29:29.523] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/108528, l='ServerLevel[world]', x=-317.00, y=31.00, z=-533.00] as it would cause deadlock
+[19Aug2025 04:29:42.150] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=263, y=88, z=-468} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:49.057] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=280, y=90, z=-522} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:49.383] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=274, y=14, z=-248} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:29:56.632] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=218, y=56, z=-588} Block{productivebees:nether_quartz_nest}[facing=north]
+[19Aug2025 04:29:57.467] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=101, y=18, z=-585} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:30:05.709] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:30:11.096] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=102, y=94, z=-637} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:30:11.528] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=65, y=92, z=-633} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:30:14.336] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-171, y=92, z=-649} Block{productivebees:nether_quartz_nest}[facing=down]
+[19Aug2025 04:30:28.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [A Terrible Fortress]
+[19Aug2025 04:30:33.704] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/115390, l='ServerLevel[world]', x=297.00, y=31.00, z=-516.00] as it would cause deadlock
+[19Aug2025 04:30:39.923] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[19Aug2025 04:30:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Drying like a boss]
+[19Aug2025 04:30:45.856] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[19Aug2025 04:30:50.520] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[19Aug2025 04:30:53.613] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[19Aug2025 04:30:56.508] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[19Aug2025 04:30:59.583] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[19Aug2025 04:31:09.315] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-11, y=96, z=-720} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:31:50.070] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[19Aug2025 04:32:14.950] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-259, y=86, z=-731} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:32:20.692] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:20.693] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:20.698] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-396, y=79, z=-480} Block{productivebees:nether_brick_nest}[facing=north]
+[19Aug2025 04:32:20.802] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:23.307] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:23.318] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-403, y=59, z=-481} Block{productivebees:nether_brick_nest}[facing=south]
+[19Aug2025 04:32:23.330] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:23.331] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:23.336] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-405, y=77, z=-479} Block{productivebees:nether_brick_nest}[facing=up]
+[19Aug2025 04:32:25.017] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-425, y=42, z=-510} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:32:25.119] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.120] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.120] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.139] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.140] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.156] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-430, y=12, z=-452} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:32:25.205] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-428, y=88, z=-572} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:33:06.665] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-41, y=88, z=-768} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:33:58.016] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[19Aug2025 04:34:23.832] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 04:34:23.906] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[19Aug2025 04:34:34.064] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[19Aug2025 04:34:46.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [That Strong Enough For You?]
+[19Aug2025 04:35:02.962] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[19Aug2025 04:36:46.772] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:36:50.366] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:36:59.161] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:37:05.915] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:37:58.566] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:38:28.717] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:38:45.366] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:38:55.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:38:56.856] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[19Aug2025 04:39:23.804] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 04:40:02.181] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/182812, l='ServerLevel[world]', x=-59.00, y=75.00, z=90.00] as it would cause deadlock
+[19Aug2025 04:40:02.404] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=170, y=12, z=107} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:40:08.088] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-121, y=18, z=121} Block{productivebees:nether_quartz_nest}[facing=up]
+[19Aug2025 04:40:41.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=74, z=-220} BlockPos{x=-75, y=73, z=-220}
+[19Aug2025 04:40:41.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=74, z=-220} BlockPos{x=-75, y=73, z=-220}
+[19Aug2025 04:40:42.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=74, z=-220} BlockPos{x=-75, y=73, z=-220}
+[19Aug2025 04:40:42.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=74, z=-220} BlockPos{x=-75, y=73, z=-220}
+[19Aug2025 04:40:56.853] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[19Aug2025 04:40:56.854] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[19Aug2025 04:40:56.888] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-80, y=60, z=-223} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[19Aug2025 04:43:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Ice Bucket Challenge]
+[19Aug2025 04:44:23.763] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[19Aug2025 04:46:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Unbreaking X]
+[19Aug2025 04:49:23.764] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

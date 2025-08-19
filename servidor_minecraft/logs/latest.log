@@ -9366,3 +9366,68 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [19Aug2025 04:16:29.705] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Rogerto} with UUID b544a06f-68b5-3fe8-9a0f-7fb32601617a.
 [19Aug2025 04:17:27.527] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 22.98 ms. 41811/43473 recipes are parallelized.
 [19Aug2025 04:18:48.237] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 468.4 μs. 581/585 recipes are parallelized.
+[19Aug2025 04:27:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Ice Bucket Challenge]
+[19Aug2025 04:28:06.765] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[19Aug2025 04:28:12.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [We Need to Go Deeper]
+[19Aug2025 04:28:18.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11373ms or 227 ticks behind
+[19Aug2025 04:28:30.889] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[19Aug2025 04:28:30.900] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[19Aug2025 04:28:30.901] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[19Aug2025 04:28:30.909] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[19Aug2025 04:28:42.063] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.064] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.092] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.162] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.163] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.163] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:42.732] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:44.913] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:44.937] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:44.938] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:44.941] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:45.048] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:47.512] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:47.513] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:48.299] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/104107, l='ServerLevel[world]', x=-291.00, y=31.00, z=-93.00] as it would cause deadlock
+[19Aug2025 04:28:49.848] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:49.848] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:49.856] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:49.856] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:28:55.310] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/104826, l='ServerLevel[world]', x=-215.00, y=31.00, z=-456.00] as it would cause deadlock
+[19Aug2025 04:29:01.109] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105525, l='ServerLevel[world]', x=163.00, y=31.00, z=-6.00] as it would cause deadlock
+[19Aug2025 04:29:02.018] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105618, l='ServerLevel[world]', x=147.00, y=75.00, z=-495.10] as it would cause deadlock
+[19Aug2025 04:29:07.533] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:07.535] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:10.428] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/106488, l='ServerLevel[world]', x=-215.00, y=31.00, z=33.00] as it would cause deadlock
+[19Aug2025 04:29:11.453] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:11.454] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:16.337] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:16.397] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:22.180] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:22.209] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:22.210] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:22.221] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:29:29.349] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/108488, l='ServerLevel[world]', x=-87.00, y=31.00, z=-537.00] as it would cause deadlock
+[19Aug2025 04:29:29.523] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/108528, l='ServerLevel[world]', x=-317.00, y=31.00, z=-533.00] as it would cause deadlock
+[19Aug2025 04:30:28.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [A Terrible Fortress]
+[19Aug2025 04:30:33.704] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/115390, l='ServerLevel[world]', x=297.00, y=31.00, z=-516.00] as it would cause deadlock
+[19Aug2025 04:30:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Drying like a boss]
+[19Aug2025 04:32:20.692] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:20.693] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:20.802] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:23.307] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:23.330] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:23.331] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.119] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.120] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.120] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.139] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:32:25.140] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[19Aug2025 04:34:46.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [That Strong Enough For You?]
+[19Aug2025 04:40:02.181] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/182812, l='ServerLevel[world]', x=-59.00, y=75.00, z=90.00] as it would cause deadlock
+[19Aug2025 04:40:41.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=74, z=-220} BlockPos{x=-75, y=73, z=-220}
+[19Aug2025 04:40:41.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=74, z=-220} BlockPos{x=-75, y=73, z=-220}
+[19Aug2025 04:40:42.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=74, z=-220} BlockPos{x=-75, y=73, z=-220}
+[19Aug2025 04:40:42.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=74, z=-220} BlockPos{x=-75, y=73, z=-220}
+[19Aug2025 04:43:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Ice Bucket Challenge]
+[19Aug2025 04:46:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Unbreaking X]
