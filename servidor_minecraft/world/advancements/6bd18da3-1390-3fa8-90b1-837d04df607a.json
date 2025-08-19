@@ -1044,6 +1044,12 @@
     },
     "done": true
   },
+  "silentgear:blueprint_paper": {
+    "criteria": {
+      "get_item": "2025-08-19 05:39:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-19 04:27:26 +0000"
@@ -1083,6 +1089,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_fortress": "2025-08-19 04:30:28 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:amadron_tablet": {
+    "criteria": {
+      "0": "2025-08-19 05:41:52 +0000"
     },
     "done": true
   },

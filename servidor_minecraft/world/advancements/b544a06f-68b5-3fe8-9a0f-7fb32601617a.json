@@ -936,6 +936,12 @@
     },
     "done": true
   },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-08-19 05:48:09 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:root": {
     "criteria": {
       "criteria_0": "2025-08-19 04:30:42 +0000"
