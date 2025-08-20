@@ -57768,3 +57768,6 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [20Aug2025 05:16:50.911] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
 [20Aug2025 05:16:55.674] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
 [20Aug2025 05:16:55.700] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[20Aug2025 05:20:27.257] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:22:19.334] [Server thread/INFO] [fastsuite/]: Constructed recipe list for productivebees:centrifuge in 255.4 μs. 0/200 recipes are parallelized.
+[20Aug2025 05:25:27.253] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
