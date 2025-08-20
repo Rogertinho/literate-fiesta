@@ -1006,9 +1006,39 @@
     },
     "done": true
   },
-  "create:andesite_alloy": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "0": "2025-08-19 05:38:53 +0000"
+      "obsidian": "2025-08-19 04:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-19 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-19 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-08-19 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "glistering_meadow": "2025-08-19 04:28:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-08-19 04:30:28 +0000"
     },
     "done": true
   },
@@ -1019,11 +1049,11 @@
     },
     "done": false
   },
-  "minecraft:story/enter_the_nether": {
+  "silentgear:crimson_iron": {
     "criteria": {
-      "entered_nether": "2025-08-19 04:28:12 +0000"
+      "get_ingot": "2025-08-19 04:32:01 +0000"
     },
-    "done": true
+    "done": false
   },
   "repurposed_structures:temples": {
     "criteria": {
@@ -1031,39 +1061,15 @@
     },
     "done": false
   },
-  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+  "silentgear:crimson_steel": {
     "criteria": {
-      "obtain_honey_bucket": "2025-08-19 05:49:28 +0000"
+      "get_item": "2025-08-19 04:34:46 +0000"
     },
     "done": true
   },
-  "regions_unexplored:eternal_expedition": {
+  "ars_nouveau:novice_spell_book": {
     "criteria": {
-      "glistering_meadow": "2025-08-19 04:28:18 +0000"
-    },
-    "done": false
-  },
-  "silentgear:crimson_iron": {
-    "criteria": {
-      "get_ingot": "2025-08-19 04:32:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-08-19 04:28:12 +0000"
-    },
-    "done": true
-  },
-  "silentgear:blueprint_paper": {
-    "criteria": {
-      "get_item": "2025-08-19 05:39:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-08-19 04:27:26 +0000"
+      "has_novice_spell_book": "2025-08-19 04:46:06 +0000"
     },
     "done": true
   },
@@ -1079,33 +1085,27 @@
     },
     "done": true
   },
-  "silentgear:nether": {
+  "create:andesite_alloy": {
     "criteria": {
-      "entered_nether": "2025-08-19 04:28:12 +0000"
+      "0": "2025-08-19 05:38:53 +0000"
     },
     "done": true
   },
-  "silentgear:crimson_steel": {
+  "silentgear:blueprint_paper": {
     "criteria": {
-      "get_item": "2025-08-19 04:34:46 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2025-08-19 04:46:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_fortress": "2025-08-19 04:30:28 +0000"
+      "get_item": "2025-08-19 05:39:36 +0000"
     },
     "done": true
   },
   "pneumaticcraft:amadron_tablet": {
     "criteria": {
       "0": "2025-08-19 05:41:52 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-08-19 05:49:28 +0000"
     },
     "done": true
   },
