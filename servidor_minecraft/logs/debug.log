@@ -57771,3 +57771,10 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [20Aug2025 05:20:27.257] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [20Aug2025 05:22:19.334] [Server thread/INFO] [fastsuite/]: Constructed recipe list for productivebees:centrifuge in 255.4 μs. 0/200 recipes are parallelized.
 [20Aug2025 05:25:27.253] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:30:27.256] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:31:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Choosing Wisely]
+[20Aug2025 05:35:00.643] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[20Aug2025 05:35:00.667] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
+[20Aug2025 05:35:27.274] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:35:27.656] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[20Aug2025 05:36:02.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Choosing Wisely]

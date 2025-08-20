@@ -1146,6 +1146,12 @@
     },
     "done": true
   },
+  "the_bumblezone:crystalline_flower/grow_crystalline_flower": {
+    "criteria": {
+      "grow_crystalline_flower": "2025-08-20 05:30:34 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
     "criteria": {
       "bee_hit_wrath_of_the_hive": "2025-08-20 04:12:48 +0000"
@@ -1227,6 +1233,12 @@
   "the_bumblezone:armor/warrior_bee": {
     "criteria": {
       "warrior_bee": "2025-08-20 04:16:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:crystalline_flower/enchant_crystalline_flower": {
+    "criteria": {
+      "enchant_crystalline_flower": "2025-08-20 05:31:05 +0000"
     },
     "done": true
   },
