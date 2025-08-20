@@ -57714,3 +57714,10 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [20Aug2025 04:12:16.444] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
 [20Aug2025 04:12:16.446] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
 [20Aug2025 04:12:16.461] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
+[20Aug2025 04:15:20.303] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 04:15:20.529] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[20Aug2025 04:16:47.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has completed the challenge [The Bee Warrior Rises!]
+[20Aug2025 04:19:45.537] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-37, y=69, z=-1201}
+[20Aug2025 04:20:20.228] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 04:20:50.100] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=286, y=105, z=-1357}
+[20Aug2025 04:25:20.229] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
