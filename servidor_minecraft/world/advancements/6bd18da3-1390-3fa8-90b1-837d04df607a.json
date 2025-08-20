@@ -111,6 +111,7 @@
     "criteria": {
       "in_hanging_garden": "2025-08-20 03:55:17 +0000",
       "in_goliath_honey_fountain": "2025-08-17 03:20:49 +0000",
+      "in_ancient_shrine": "2025-08-20 04:06:14 +0000",
       "in_mite_fortress": "2025-08-17 03:20:49 +0000"
     },
     "done": false
@@ -1114,6 +1115,18 @@
   "the_bumblezone:tools/honey_compass_use": {
     "criteria": {
       "honey_compass": "2025-08-20 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-08-20 04:06:18 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_ancient_wax": {
+    "criteria": {
+      "ancient_wax_slab": "2025-08-20 04:07:43 +0000"
     },
     "done": true
   },
