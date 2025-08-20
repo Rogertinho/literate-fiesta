@@ -9397,3 +9397,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [20Aug2025 05:22:19.334] [Server thread/INFO] [fastsuite/]: Constructed recipe list for productivebees:centrifuge in 255.4 μs. 0/200 recipes are parallelized.
 [20Aug2025 05:31:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Choosing Wisely]
 [20Aug2025 05:36:02.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Choosing Wisely]
+[20Aug2025 05:39:44.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VariantBeeEntity['Tiombe the Shy Bee'/868773, l='ServerLevel[world]', x=654.43, y=68.99, z=136.02] died: Tiombe the Shy Bee drowned

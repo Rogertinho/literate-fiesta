@@ -57778,3 +57778,9 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [20Aug2025 05:35:27.274] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [20Aug2025 05:35:27.656] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
 [20Aug2025 05:36:02.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Choosing Wisely]
+[20Aug2025 05:39:44.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VariantBeeEntity['Tiombe the Shy Bee'/868773, l='ServerLevel[world]', x=654.43, y=68.99, z=136.02] died: Tiombe the Shy Bee drowned
+[20Aug2025 05:40:27.266] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:44:44.797] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[20Aug2025 05:44:44.799] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[20Aug2025 05:44:44.830] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[20Aug2025 05:45:27.253] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
