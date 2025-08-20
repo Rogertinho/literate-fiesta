@@ -57784,3 +57784,13 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [20Aug2025 05:44:44.799] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
 [20Aug2025 05:44:44.830] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
 [20Aug2025 05:45:27.253] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:50:27.260] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:55:05.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-214, y=72, z=-2053} BlockPos{x=-213, y=70, z=-2053}
+[20Aug2025 05:55:27.253] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:55:27.697] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[20Aug2025 05:57:37.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=63, z=-2030} BlockPos{x=-283, y=62, z=-2029}
+[20Aug2025 05:57:37.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=63, z=-2031} BlockPos{x=-284, y=62, z=-2030}
+[20Aug2025 05:57:37.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=63, z=-2031} BlockPos{x=-284, y=62, z=-2030}
+[20Aug2025 05:57:38.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=64, z=-2031} BlockPos{x=-287, y=62, z=-2030}
+[20Aug2025 05:57:54.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-258, y=64, z=-2047} BlockPos{x=-258, y=63, z=-2047}
+[20Aug2025 05:57:54.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=64, z=-2047} BlockPos{x=-258, y=63, z=-2047}

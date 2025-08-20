@@ -9398,3 +9398,10 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [20Aug2025 05:31:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Choosing Wisely]
 [20Aug2025 05:36:02.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Choosing Wisely]
 [20Aug2025 05:39:44.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VariantBeeEntity['Tiombe the Shy Bee'/868773, l='ServerLevel[world]', x=654.43, y=68.99, z=136.02] died: Tiombe the Shy Bee drowned
+[20Aug2025 05:55:05.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-214, y=72, z=-2053} BlockPos{x=-213, y=70, z=-2053}
+[20Aug2025 05:57:37.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=63, z=-2030} BlockPos{x=-283, y=62, z=-2029}
+[20Aug2025 05:57:37.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=63, z=-2031} BlockPos{x=-284, y=62, z=-2030}
+[20Aug2025 05:57:37.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=63, z=-2031} BlockPos{x=-284, y=62, z=-2030}
+[20Aug2025 05:57:38.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=64, z=-2031} BlockPos{x=-287, y=62, z=-2030}
+[20Aug2025 05:57:54.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-258, y=64, z=-2047} BlockPos{x=-258, y=63, z=-2047}
+[20Aug2025 05:57:54.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=64, z=-2047} BlockPos{x=-258, y=63, z=-2047}
