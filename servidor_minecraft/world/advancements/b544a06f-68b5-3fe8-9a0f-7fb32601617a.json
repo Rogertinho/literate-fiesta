@@ -109,6 +109,7 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
+      "in_hanging_garden": "2025-08-20 03:55:27 +0000",
       "in_goliath_honey_fountain": "2025-08-17 03:20:44 +0000",
       "in_mite_fortress": "2025-08-17 03:20:44 +0000"
     },
@@ -988,6 +989,18 @@
     },
     "done": false
   },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2025-08-20 03:48:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2025-08-20 03:55:27 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "0": "2025-08-20 03:24:53 +0000"
@@ -997,6 +1010,12 @@
   "the_bumblezone:teleportation/teleport_to_bumblezone_piston": {
     "criteria": {
       "teleport_to_bumblezone_piston": "2025-08-20 03:37:41 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_sticky_honey_residue": {
+    "criteria": {
+      "obtain_sticky_honey_redstone": "2025-08-20 03:46:52 +0000"
     },
     "done": true
   },
@@ -1018,12 +1037,26 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-08-20 03:46:42 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "crystal_canyon": "2025-08-20 03:48:47 +0000",
+      "sugar_water_floor": "2025-08-20 03:52:09 +0000",
       "hive_wall": "2025-08-20 03:39:15 +0000",
       "hive_pillar": "2025-08-20 03:37:47 +0000"
     },
     "done": false
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2025-08-20 03:46:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

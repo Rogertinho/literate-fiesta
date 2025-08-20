@@ -9382,3 +9382,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [20Aug2025 03:37:47.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4475ms or 89 ticks behind
 [20Aug2025 03:39:38.836] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smoking in 322.6 μs. 124/124 recipes are parallelized.
 [20Aug2025 03:43:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Sticky Situation]
+[20Aug2025 03:55:17.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Gardener and the Bees]
+[20Aug2025 03:55:27.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [The Gardener and the Bees]

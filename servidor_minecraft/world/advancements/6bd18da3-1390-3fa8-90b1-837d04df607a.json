@@ -109,6 +109,7 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
+      "in_hanging_garden": "2025-08-20 03:55:17 +0000",
       "in_goliath_honey_fountain": "2025-08-17 03:20:49 +0000",
       "in_mite_fortress": "2025-08-17 03:20:49 +0000"
     },
@@ -1110,6 +1111,24 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2025-08-20 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-08-20 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2025-08-20 03:55:17 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/teleport_to_bumblezone_piston": {
     "criteria": {
       "teleport_to_bumblezone_piston": "2025-08-20 03:39:38 +0000"
@@ -1128,8 +1147,17 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-08-20 03:46:34 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "crystal_canyon": "2025-08-20 03:50:39 +0000",
+      "sugar_water_floor": "2025-08-20 03:54:09 +0000",
+      "hive_wall": "2025-08-20 03:40:43 +0000",
       "hive_pillar": "2025-08-20 03:39:39 +0000"
     },
     "done": false
