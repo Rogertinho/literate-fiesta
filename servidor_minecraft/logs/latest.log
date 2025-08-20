@@ -9378,3 +9378,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [20Aug2025 03:00:23.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=72, z=-2114} BlockPos{x=-210, y=70, z=-2113}
 [20Aug2025 03:00:27.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=72, z=-2107} BlockPos{x=-212, y=70, z=-2107}
 [20Aug2025 03:06:10.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Dawnshine the Crying'/219089, l='ServerLevel[world]', x=-279.57, y=64.60, z=-2079.74] died: Dawnshine the Crying was killed by magic while trying to escape LuLo7
+[20Aug2025 03:34:08.493] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/437950, l='ServerLevel[world]', x=195.00, y=31.00, z=267.00] as it would cause deadlock
+[20Aug2025 03:37:47.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4475ms or 89 ticks behind
+[20Aug2025 03:39:38.836] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smoking in 322.6 μs. 124/124 recipes are parallelized.
+[20Aug2025 03:43:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Sticky Situation]

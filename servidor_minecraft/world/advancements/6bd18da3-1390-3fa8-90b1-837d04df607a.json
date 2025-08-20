@@ -1110,6 +1110,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_piston": {
+    "criteria": {
+      "teleport_to_bumblezone_piston": "2025-08-20 03:39:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2025-08-20 03:24:48 +0000"
@@ -1121,6 +1127,12 @@
       "0": "2025-08-20 02:45:43 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "hive_pillar": "2025-08-20 03:39:39 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
