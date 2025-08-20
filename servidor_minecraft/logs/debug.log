@@ -57736,3 +57736,12 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [20Aug2025 04:54:31.377] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
 [20Aug2025 04:55:20.233] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [20Aug2025 04:55:20.535] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[20Aug2025 05:00:20.222] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:04:10.617] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[20Aug2025 05:04:10.633] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[20Aug2025 05:04:17.633] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=253, y=49, z=456} with deep BlockPos{x=253, y=-59, z=456}
+[20Aug2025 05:04:17.709] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=265, y=46, z=458} with deep BlockPos{x=265, y=-61, z=458}
+[20Aug2025 05:04:17.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7096ms or 141 ticks behind
+[20Aug2025 05:05:17.370] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[20Aug2025 05:05:17.389] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
+[20Aug2025 05:05:27.273] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
