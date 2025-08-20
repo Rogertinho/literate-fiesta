@@ -375,6 +375,9 @@
     "criteria": {
       "minecraft:pillager": "2025-08-17 04:07:48 +0000",
       "minecraft:skeleton": "2025-08-17 05:32:34 +0000",
+      "minecraft:witch": "2025-08-20 02:55:45 +0000",
+      "minecraft:husk": "2025-08-17 03:36:09 +0000",
+      "minecraft:bogged": "2025-08-17 07:16:05 +0000",
       "minecraft:enderman": "2025-08-17 05:58:30 +0000",
       "minecraft:silverfish": "2025-08-18 01:32:49 +0000",
       "minecraft:stray": "2025-08-18 01:23:44 +0000",
@@ -382,9 +385,7 @@
       "minecraft:spider": "2025-08-17 03:37:42 +0000",
       "minecraft:zombie": "2025-08-18 01:27:04 +0000",
       "minecraft:drowned": "2025-08-18 03:07:35 +0000",
-      "minecraft:zombie_villager": "2025-08-17 07:13:09 +0000",
-      "minecraft:husk": "2025-08-17 03:36:09 +0000",
-      "minecraft:bogged": "2025-08-17 07:16:05 +0000"
+      "minecraft:zombie_villager": "2025-08-17 07:13:09 +0000"
     },
     "done": false
   },
@@ -851,6 +852,7 @@
   },
   "apotheosis:progression/pinnacle": {
     "criteria": {
+      "epic_legs": "2025-08-20 02:56:21 +0000",
       "epic_feet": "2025-08-19 04:38:37 +0000",
       "epic_hand": "2025-08-18 04:56:21 +0000"
     },
@@ -985,6 +987,12 @@
       "get_ingot": "2025-08-19 06:23:26 +0000"
     },
     "done": false
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-08-20 02:44:39 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

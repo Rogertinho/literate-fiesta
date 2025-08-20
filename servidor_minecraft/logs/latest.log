@@ -9366,3 +9366,14 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [20Aug2025 02:36:59.871] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
 [20Aug2025 02:36:59.872] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{LuLo7} with UUID 6bd18da3-1390-3fa8-90b1-837d04df607a.
 [20Aug2025 02:40:15.737] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 18.71 ms. 41811/43473 recipes are parallelized.
+[20Aug2025 02:55:41.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bogged['Ferdinand the Special'/125652, l='ServerLevel[world]', x=-255.49, y=69.00, z=-1946.36] died: Ferdinand the Special was killed by magic while trying to escape LuLo7
+[20Aug2025 02:57:02.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[20Aug2025 02:59:56.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-196, y=72, z=-2108} BlockPos{x=-196, y=70, z=-2109}
+[20Aug2025 02:59:56.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-196, y=72, z=-2108} BlockPos{x=-196, y=70, z=-2109}
+[20Aug2025 03:00:02.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=72, z=-2108} BlockPos{x=-200, y=70, z=-2109}
+[20Aug2025 03:00:02.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=72, z=-2108} BlockPos{x=-200, y=70, z=-2109}
+[20Aug2025 03:00:02.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=72, z=-2108} BlockPos{x=-200, y=70, z=-2109}
+[20Aug2025 03:00:02.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=72, z=-2109} BlockPos{x=-200, y=70, z=-2109}
+[20Aug2025 03:00:23.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=72, z=-2114} BlockPos{x=-210, y=70, z=-2113}
+[20Aug2025 03:00:23.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=72, z=-2114} BlockPos{x=-210, y=70, z=-2113}
+[20Aug2025 03:00:27.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=72, z=-2107} BlockPos{x=-212, y=70, z=-2107}
