@@ -57632,3 +57632,6 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [20Aug2025 03:00:23.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=72, z=-2114} BlockPos{x=-210, y=70, z=-2113}
 [20Aug2025 03:00:23.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=72, z=-2114} BlockPos{x=-210, y=70, z=-2113}
 [20Aug2025 03:00:27.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=72, z=-2107} BlockPos{x=-212, y=70, z=-2107}
+[20Aug2025 03:05:16.004] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 03:06:10.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Dawnshine the Crying'/219089, l='ServerLevel[world]', x=-279.57, y=64.60, z=-2079.74] died: Dawnshine the Crying was killed by magic while trying to escape LuLo7
+[20Aug2025 03:10:15.935] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
