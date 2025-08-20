@@ -1127,6 +1127,12 @@
     },
     "done": true
   },
+  "the_bumblezone:beehemoth/tamed_beehemoth": {
+    "criteria": {
+      "tamed_beehemoth": "2025-08-20 04:28:09 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:combs_and_wax/carve_ancient_wax": {
     "criteria": {
       "ancient_wax_slab": "2025-08-20 04:07:43 +0000"
@@ -1163,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-20 04:28:09 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
     "criteria": {
       "obtain_honey_crystal_shield": "2025-08-20 04:16:54 +0000"
@@ -1184,6 +1196,12 @@
   "create_enchantment_industry:spirit_taking": {
     "criteria": {
       "0": "2025-08-20 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2025-08-20 04:28:34 +0000"
     },
     "done": true
   },
