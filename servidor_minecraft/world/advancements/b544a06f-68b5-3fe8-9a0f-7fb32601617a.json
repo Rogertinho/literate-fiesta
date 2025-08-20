@@ -126,9 +126,11 @@
       "minecraft:sparse_jungle": "2025-08-17 04:50:31 +0000",
       "minecraft:river": "2025-08-17 03:24:21 +0000",
       "minecraft:lukewarm_ocean": "2025-08-17 04:26:25 +0000",
+      "minecraft:stony_shore": "2025-08-20 06:15:39 +0000",
       "minecraft:dripstone_caves": "2025-08-18 04:39:58 +0000",
       "minecraft:deep_cold_ocean": "2025-08-18 01:23:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 05:46:38 +0000",
+      "minecraft:frozen_ocean": "2025-08-20 06:27:17 +0000",
       "minecraft:desert": "2025-08-17 03:36:33 +0000",
       "minecraft:deep_dark": "2025-08-18 05:07:52 +0000",
       "minecraft:ocean": "2025-08-17 05:52:51 +0000",
@@ -275,6 +277,7 @@
       "cold_river": "2025-08-18 02:15:12 +0000",
       "baobab_savanna": "2025-08-17 03:26:02 +0000",
       "grassy_beach": "2025-08-17 05:05:22 +0000",
+      "boreal_forest": "2025-08-20 06:26:55 +0000",
       "rocky_meadow": "2025-08-17 05:00:09 +0000",
       "blackwood_taiga": "2025-08-18 02:19:59 +0000",
       "pine_taiga": "2025-08-18 02:19:57 +0000",
@@ -283,6 +286,7 @@
       "tropical_river": "2025-08-17 03:39:27 +0000",
       "bamboo_forest": "2025-08-17 04:59:38 +0000",
       "magnolia_highlands": "2025-08-17 05:04:14 +0000",
+      "cold_boreal_taiga": "2025-08-20 06:27:04 +0000",
       "saguaro_desert": "2025-08-17 03:39:51 +0000",
       "lupine_plains": "2025-08-18 02:15:25 +0000"
     },
@@ -294,6 +298,7 @@
       "cold_river": "2025-08-18 02:15:12 +0000",
       "baobab_savanna": "2025-08-17 03:26:02 +0000",
       "grassy_beach": "2025-08-17 05:05:22 +0000",
+      "boreal_forest": "2025-08-20 06:26:55 +0000",
       "rocky_meadow": "2025-08-17 05:00:09 +0000",
       "blackwood_taiga": "2025-08-18 02:19:59 +0000",
       "pine_taiga": "2025-08-18 02:19:57 +0000",
@@ -302,6 +307,7 @@
       "tropical_river": "2025-08-17 03:39:27 +0000",
       "bamboo_forest": "2025-08-17 04:59:38 +0000",
       "magnolia_highlands": "2025-08-17 05:04:14 +0000",
+      "cold_boreal_taiga": "2025-08-20 06:27:04 +0000",
       "saguaro_desert": "2025-08-17 03:39:51 +0000",
       "lupine_plains": "2025-08-18 02:15:25 +0000"
     },
@@ -1010,6 +1016,18 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-08-20 06:21:25 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-08-20 06:21:25 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_garden": {
     "criteria": {
       "in_hanging_garden": "2025-08-20 03:55:27 +0000"
@@ -1118,6 +1136,12 @@
   "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
     "criteria": {
       "obtain_honey_crystal_block": "2025-08-20 03:46:42 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-08-20 06:21:25 +0000"
     },
     "done": true
   },

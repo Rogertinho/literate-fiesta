@@ -131,6 +131,7 @@
       "minecraft:dripstone_caves": "2025-08-18 04:39:19 +0000",
       "minecraft:deep_cold_ocean": "2025-08-18 01:23:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 05:15:32 +0000",
+      "minecraft:frozen_ocean": "2025-08-20 06:27:13 +0000",
       "minecraft:desert": "2025-08-17 03:32:14 +0000",
       "minecraft:deep_dark": "2025-08-18 05:07:48 +0000",
       "minecraft:ocean": "2025-08-17 05:30:20 +0000",
@@ -313,6 +314,7 @@
       "autumnal_maple_forest": "2025-08-18 02:01:44 +0000",
       "bamboo_forest": "2025-08-17 05:00:23 +0000",
       "magnolia_highlands": "2025-08-17 05:03:29 +0000",
+      "cold_boreal_taiga": "2025-08-20 06:27:03 +0000",
       "saguaro_desert": "2025-08-17 03:40:12 +0000"
     },
     "done": false
@@ -331,6 +333,7 @@
       "autumnal_maple_forest": "2025-08-18 02:01:44 +0000",
       "bamboo_forest": "2025-08-17 05:00:23 +0000",
       "magnolia_highlands": "2025-08-17 05:03:29 +0000",
+      "cold_boreal_taiga": "2025-08-20 06:27:03 +0000",
       "saguaro_desert": "2025-08-17 03:40:12 +0000"
     },
     "done": false
@@ -1191,6 +1194,12 @@
   "the_bumblezone:teleportation/teleport_to_bumblezone_piston": {
     "criteria": {
       "teleport_to_bumblezone_piston": "2025-08-20 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-08-20 06:18:27 +0000"
     },
     "done": true
   },
