@@ -57745,3 +57745,26 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [20Aug2025 05:05:17.370] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
 [20Aug2025 05:05:17.389] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
 [20Aug2025 05:05:27.273] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:07:44.917] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[20Aug2025 05:07:44.940] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[20Aug2025 05:07:55.539] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[20Aug2025 05:07:55.569] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
+[20Aug2025 05:09:03.844] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[20Aug2025 05:09:03.859] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[20Aug2025 05:09:32.473] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[20Aug2025 05:09:32.489] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
+[20Aug2025 05:10:27.249] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:11:50.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Best Friends Forever]
+[20Aug2025 05:12:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Winning Favors]
+[20Aug2025 05:15:27.253] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 05:15:27.601] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[20Aug2025 05:16:12.200] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[20Aug2025 05:16:12.203] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[20Aug2025 05:16:12.232] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[20Aug2025 05:16:19.511] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[20Aug2025 05:16:19.514] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[20Aug2025 05:16:19.527] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[20Aug2025 05:16:50.887] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[20Aug2025 05:16:50.911] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
+[20Aug2025 05:16:55.674] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[20Aug2025 05:16:55.700] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]

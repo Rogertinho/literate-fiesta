@@ -9392,3 +9392,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [20Aug2025 04:28:34.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Winning Favors]
 [20Aug2025 04:53:47.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has completed the challenge [Regal Friends Till The Very End!]
 [20Aug2025 05:04:17.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7096ms or 141 ticks behind
+[20Aug2025 05:11:50.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Best Friends Forever]
+[20Aug2025 05:12:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Winning Favors]
