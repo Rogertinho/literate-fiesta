@@ -383,6 +383,7 @@
       "apple": "2025-08-19 05:14:26 +0000",
       "bread": "2025-08-17 03:35:16 +0000",
       "golden_apple": "2025-08-17 05:54:27 +0000",
+      "honey_bottle": "2025-08-20 04:36:53 +0000",
       "cooked_beef": "2025-08-17 05:37:38 +0000",
       "beetroot": "2025-08-17 06:08:20 +0000"
     },
@@ -1196,6 +1197,12 @@
   "create_enchantment_industry:spirit_taking": {
     "criteria": {
       "0": "2025-08-20 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:beehemoth/queen_beehemoth": {
+    "criteria": {
+      "created_queen_beehemoth": "2025-08-20 04:53:47 +0000"
     },
     "done": true
   },

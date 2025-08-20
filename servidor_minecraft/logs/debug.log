@@ -57728,3 +57728,11 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [20Aug2025 04:30:20.249] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [20Aug2025 04:35:20.222] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [20Aug2025 04:35:20.466] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[20Aug2025 04:40:20.215] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 04:45:20.226] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 04:50:20.207] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 04:53:47.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has completed the challenge [Regal Friends Till The Very End!]
+[20Aug2025 04:54:31.360] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[20Aug2025 04:54:31.377] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]
+[20Aug2025 04:55:20.233] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[20Aug2025 04:55:20.535] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
