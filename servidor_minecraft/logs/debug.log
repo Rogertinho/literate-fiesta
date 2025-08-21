@@ -61360,3 +61360,74 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [21Aug2025 03:33:52.351] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [21Aug2025 03:35:01.107] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [21Aug2025 03:35:09.085] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:37:57.172] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:38:37.997] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 03:38:38.129] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
+[21Aug2025 03:38:41.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:39:29.185] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2191, y=48, z=-3931} with deep BlockPos{x=-2191, y=-60, z=-3931}
+[21Aug2025 03:39:33.416] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2029, y=53, z=-3947} with deep BlockPos{x=-2029, y=-59, z=-3947}
+[21Aug2025 03:40:12.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:40:15.156] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:40:33.676] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:40:42.326] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:40:52.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:41:15.002] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:43:01.307] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2111, y=54, z=-3976} with deep BlockPos{x=-2111, y=-61, z=-3976}
+[21Aug2025 03:43:06.713] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2185, y=44, z=-4003} with deep BlockPos{x=-2185, y=-60, z=-4003}
+[21Aug2025 03:43:11.324] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1845, y=64, z=-4032} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:43:31.605] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1736, y=66, z=-4080} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:43:33.132] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1966, y=51, z=-4127} with deep BlockPos{x=-1966, y=-59, z=-4127}
+[21Aug2025 03:43:38.018] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 03:43:52.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:43:52.129] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[21Aug2025 03:44:03.431] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1941, y=64, z=-4143} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:44:05.028] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:44:05.715] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2096, y=49, z=-4147} with deep BlockPos{x=-2096, y=-61, z=-4147}
+[21Aug2025 03:44:13.183] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:13.183] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:13.184] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:13.184] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:13.184] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:13.184] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:13.185] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:13.186] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:13.186] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:13.186] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:13.186] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:13.186] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:13.192] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2089, y=51, z=-4178} with deep BlockPos{x=-2089, y=-59, z=-4178}
+[21Aug2025 03:44:13.206] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2075, y=50, z=-4188} with deep BlockPos{x=-2075, y=-61, z=-4188}
+[21Aug2025 03:44:13.794] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1761, y=65, z=-4183} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:44:13.839] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1760, y=64, z=-4185} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:44:39.089] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.090] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.090] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.091] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.091] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.091] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.091] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.091] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.092] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.092] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.092] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.092] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.092] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.093] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.093] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.093] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.093] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.094] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.094] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.094] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.094] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.094] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.095] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.095] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.095] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.095] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.113] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.113] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:39.114] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 03:44:39.114] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 03:44:50.678] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2208, y=47, z=-4212} with deep BlockPos{x=-2208, y=-60, z=-4212}
+[21Aug2025 03:44:57.075] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1727, y=64, z=-4209} Block{productivebees:sugar_cane_nest}[facing=north]
