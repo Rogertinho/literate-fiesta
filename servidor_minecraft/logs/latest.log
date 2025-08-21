@@ -9340,3 +9340,24 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [21Aug2025 19:35:48.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3630ms or 72 ticks behind
 [21Aug2025 19:35:49.252] [Server thread/INFO] [fastsuite/]: Constructed recipe list for productivebees:centrifuge in 305.9 μs. 0/200 recipes are parallelized.
 [21Aug2025 19:35:49.258] [Server thread/INFO] [fastsuite/]: Constructed recipe list for silentgear:salvaging in 148.0 μs. 0/106 recipes are parallelized.
+[21Aug2025 19:37:42.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rogerto[/127.7.207.70:52447] logged in with entity id 8951 at (-211.6404224836173, 74.0, -2071.177571613226)
+[21Aug2025 19:37:42.206] [Server thread/INFO] [ars_unification/]: AE2CircuitPrintingProcesser processed recipes in 126.6 ms
+[21Aug2025 19:37:42.304] [Server thread/INFO] [ars_unification/]: IntegratedDynamicsSqueezerProcessor processed recipes in 93.54 ms
+[21Aug2025 19:37:42.363] [Server thread/INFO] [ars_unification/]: OccultismCrusherProcessor processed recipes in 59.31 ms
+[21Aug2025 19:37:42.423] [Server thread/INFO] [ars_unification/]: EnderIOSAGMillProcessor processed recipes in 58.89 ms
+[21Aug2025 19:37:42.486] [Server thread/INFO] [ars_unification/]: ModernIndustrializationCompressorProcessor processed recipes in 62.76 ms
+[21Aug2025 19:37:42.535] [Server thread/INFO] [ars_unification/]: MekanismSawmillProcessor processed recipes in 48.21 ms
+[21Aug2025 19:37:42.570] [Server thread/INFO] [ars_unification/]: MekanismCrusherProcessor processed recipes in 34.83 ms
+[21Aug2025 19:37:42.603] [Server thread/INFO] [ars_unification/]: ModernIndustrializationMaceratorProcessor processed recipes in 32.86 ms
+[21Aug2025 19:37:42.637] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringCrusherProcessor processed recipes in 33.40 ms
+[21Aug2025 19:37:42.670] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringSawmillProcessor processed recipes in 32.75 ms
+[21Aug2025 19:37:42.701] [Server thread/INFO] [ars_unification/]: ActuallyAdditionsCrusherProcessor processed recipes in 31.04 ms
+[21Aug2025 19:37:42.734] [Server thread/INFO] [ars_unification/]: FarmersDelightCuttingBoardProcessor processed recipes in 32.71 ms
+[21Aug2025 19:37:42.765] [Server thread/INFO] [ars_unification/]: AE2InscriberProcesser processed recipes in 30.51 ms
+[21Aug2025 19:37:42.765] [Server thread/INFO] [ars_unification/]: Finished processing recipes in 685.4 ms
+[21Aug2025 19:37:42.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto joined the game
+[21Aug2025 19:37:42.937] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[21Aug2025 19:37:42.938] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Rogerto} with UUID b544a06f-68b5-3fe8-9a0f-7fb32601617a.
+[21Aug2025 19:39:14.953] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 19.38 ms. 41811/43473 recipes are parallelized.
+[21Aug2025 19:42:27.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
+[21Aug2025 19:42:27.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game

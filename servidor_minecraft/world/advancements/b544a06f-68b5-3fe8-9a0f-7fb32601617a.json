@@ -1169,12 +1169,6 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-08-21 03:09:16 +0000"
-    },
-    "done": true
-  },
   "apothic_spawners:root": {
     "criteria": {
       "spawner": "2025-08-21 02:32:53 +0000"
@@ -1187,15 +1181,21 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-21 03:09:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-08-21 03:55:09 +0000"
     },
     "done": true
   },
-  "apothic_spawners:redstone": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "modifier": "2025-08-21 05:38:15 +0000"
+      "wither_skull": "2025-08-21 04:20:17 +0000"
     },
     "done": true
   },
@@ -1211,15 +1211,15 @@
     },
     "done": true
   },
-  "apothic_spawners:modifier": {
+  "apothic_spawners:redstone": {
     "criteria": {
       "modifier": "2025-08-21 05:38:15 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "apothic_spawners:modifier": {
     "criteria": {
-      "wither_skull": "2025-08-21 04:20:17 +0000"
+      "modifier": "2025-08-21 05:38:15 +0000"
     },
     "done": true
   },
