@@ -62283,3 +62283,48 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [21Aug2025 05:13:41.001] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [21Aug2025 05:17:42.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bogged['Kenar the Hungry'/1162153, l='ServerLevel[world]', x=-55.78, y=-24.52, z=-2165.00] died: Kenar the Hungry was killed by magic while trying to escape LuLo7
 [21Aug2025 05:17:46.944] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 05:18:09.393] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 05:18:41.006] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 05:18:41.377] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[21Aug2025 05:19:51.838] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:chicken" - querying recipes to get these
+[21Aug2025 05:19:52.523] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "occultism:datura_seeds" - querying recipes to get these
+[21Aug2025 05:20:37.335] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:feather" - querying recipes to get these
+[21Aug2025 05:21:37.686] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:white_wool" - querying recipes to get these
+[21Aug2025 05:21:37.689] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:stick" - querying recipes to get these
+[21Aug2025 05:22:15.387] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[21Aug2025 05:23:41.057] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 05:24:14.162] [Server thread/DEBUG] [mixin/]: Mixing ConnectivityHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.api.connectivity.ConnectivityHandler
+[21Aug2025 05:24:14.163] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21Aug2025 05:24:14.186] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidSingle(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[21Aug2025 05:24:14.187] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidMulti(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[21Aug2025 05:26:19.066] [Worker-Main-8/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-538, y=76, z=-1316} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 05:26:19.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 05:28:28.613] [Worker-Main-10/DEBUG] [minecolonies/]: New Empty colony atMutableBlockPos{x=-992, y=92, z=-1280}
+[21Aug2025 05:28:41.023] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 05:30:49.751] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[21Aug2025 05:32:24.395] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 05:33:41.032] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 05:34:07.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
+[21Aug2025 05:34:07.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
+[21Aug2025 05:34:32.431] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:dirt" - querying recipes to get these
+[21Aug2025 05:34:32.868] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "allthecompressed:dirt_1x" - querying recipes to get these
+[21Aug2025 05:34:33.580] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:egg" - querying recipes to get these
+[21Aug2025 05:34:34.494] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "pneumaticcraft:compressed_stone" - querying recipes to get these
+[21Aug2025 05:34:35.179] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:enchanted_book" - querying recipes to get these
+[21Aug2025 05:34:36.580] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "pneumaticcraft:ingot_iron_compressed" - querying recipes to get these
+[21Aug2025 05:34:37.029] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "irons_spellbooks:arcane_essence" - querying recipes to get these
+[21Aug2025 05:34:37.731] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:chicken" - querying recipes to get these
+[21Aug2025 05:34:38.430] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "waystones:waystone" - querying recipes to get these
+[21Aug2025 05:34:39.097] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:wheat_seeds" - querying recipes to get these
+[21Aug2025 05:34:39.317] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "relics:blazing_flask" - querying recipes to get these
+[21Aug2025 05:34:40.733] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[21Aug2025 05:34:54.481] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_bars" - querying recipes to get these
+[21Aug2025 05:34:54.489] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:oak_slab" - querying recipes to get these
+[21Aug2025 05:35:28.429] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone_block" - querying recipes to get these
+[21Aug2025 05:36:36.032] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:bucket" - querying recipes to get these
+[21Aug2025 05:36:56.579] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "immersiveengineering:seed" - querying recipes to get these
+[21Aug2025 05:37:45.281] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "xycraft_world:kivi_bricks" - querying recipes to get these
+[21Aug2025 05:38:06.029] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone_torch" - querying recipes to get these
+[21Aug2025 05:38:06.030] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:stone" - querying recipes to get these
+[21Aug2025 05:38:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Adding a Switch]
+[21Aug2025 05:38:15.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Just a Few Tweaks...]
