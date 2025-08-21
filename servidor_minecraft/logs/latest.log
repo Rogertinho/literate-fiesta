@@ -9363,3 +9363,10 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [21Aug2025 19:42:27.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
 [21Aug2025 19:51:34.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [21Aug2025 20:02:22.567] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 280.7 μs. 581/585 recipes are parallelized.
+[21Aug2025 20:18:07.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has completed the challenge [Almost Unkillable]
+[21Aug2025 20:18:07.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto was blown up by Creeper
+[21Aug2025 20:18:07.309] [Server thread/INFO] [tombstone/]: The player Rogerto has successfully been saved
+[21Aug2025 20:18:37.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Here They Come]
+[21Aug2025 20:19:14.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Chain Death]
+[21Aug2025 20:19:14.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto was slain by Zombie
+[21Aug2025 20:19:14.140] [Server thread/INFO] [tombstone/]: The player Rogerto has successfully been saved

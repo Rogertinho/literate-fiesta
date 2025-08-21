@@ -57661,3 +57661,41 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [21Aug2025 20:03:50.769] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
 [21Aug2025 20:03:57.118] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "sophisticatedstorage:stack_upgrade_tier_2" - querying recipes to get these
 [21Aug2025 20:04:57.605] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 20:09:57.608] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 20:09:57.668] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[21Aug2025 20:11:01.271] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond_block" - querying recipes to get these
+[21Aug2025 20:11:06.569] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:ender_pearl" - querying recipes to get these
+[21Aug2025 20:11:06.573] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:obsidian" - querying recipes to get these
+[21Aug2025 20:11:06.577] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "sophisticatedstorage:upgrade_base" - querying recipes to get these
+[21Aug2025 20:11:06.577] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[21Aug2025 20:13:16.372] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "ars_elemental:yellow_archwood_log" - querying recipes to get these
+[21Aug2025 20:13:18.918] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "itemcollectors:basic_collector" - querying recipes to get these
+[21Aug2025 20:14:07.118] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_ingot" - querying recipes to get these
+[21Aug2025 20:14:07.121] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_block" - querying recipes to get these
+[21Aug2025 20:14:20.471] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:glass" - querying recipes to get these
+[21Aug2025 20:14:57.603] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 20:18:07.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has completed the challenge [Almost Unkillable]
+[21Aug2025 20:18:07.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto was blown up by Creeper
+[21Aug2025 20:18:07.268] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rogerto was created at position [x:-218, y:73, z:-2061, dim:minecraft:overworld]
+[21Aug2025 20:18:07.309] [Server thread/INFO] [tombstone/]: The player Rogerto has successfully been saved
+[21Aug2025 20:18:19.728] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onPlayerCloned: copy data: client: false
+[21Aug2025 20:18:19.758] [Server thread/DEBUG] [twilightforest/]: Player Rogerto (b544a06f-68b5-3fe8-9a0f-7fb32601617a) respawned and received items held in storage
+[21Aug2025 20:18:37.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Here They Come]
+[21Aug2025 20:19:14.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Chain Death]
+[21Aug2025 20:19:14.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto was slain by Zombie
+[21Aug2025 20:19:14.120] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rogerto was created at position [x:-197, y:73, z:-2057, dim:minecraft:overworld]
+[21Aug2025 20:19:14.140] [Server thread/INFO] [tombstone/]: The player Rogerto has successfully been saved
+[21Aug2025 20:19:15.709] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onPlayerCloned: copy data: client: false
+[21Aug2025 20:19:15.725] [Server thread/DEBUG] [twilightforest/]: Player Rogerto (b544a06f-68b5-3fe8-9a0f-7fb32601617a) respawned and received items held in storage
+[21Aug2025 20:19:57.649] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 20:22:49.675] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:glowstone" - querying recipes to get these
+[21Aug2025 20:23:25.024] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:dirt" - querying recipes to get these
+[21Aug2025 20:24:21.218] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "xycraft_world:kivi_bricks" - querying recipes to get these
+[21Aug2025 20:24:27.669] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "chipped:curly_stone_pillar" - querying recipes to get these
+[21Aug2025 20:24:27.883] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:enchanted_book" - querying recipes to get these
+[21Aug2025 20:24:40.717] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "tombstone:grave_dust" - querying recipes to get these
+[21Aug2025 20:24:41.169] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "chipped:curly_stone_pillar" - querying recipes to get these
+[21Aug2025 20:24:41.868] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:carrot" - querying recipes to get these
+[21Aug2025 20:24:42.567] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "chipped:chisel" - querying recipes to get these
+[21Aug2025 20:24:43.268] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:rotten_flesh" - querying recipes to get these
+[21Aug2025 20:24:57.607] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
