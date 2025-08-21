@@ -61431,3 +61431,420 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [21Aug2025 03:44:39.114] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [21Aug2025 03:44:50.678] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2208, y=47, z=-4212} with deep BlockPos{x=-2208, y=-60, z=-4212}
 [21Aug2025 03:44:57.075] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1727, y=64, z=-4209} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:46:32.056] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2256, y=47, z=-4269} with deep BlockPos{x=-2256, y=-62, z=-4269}
+[21Aug2025 03:46:44.908] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1958, y=71, z=-4336} Block{productivebees:bumble_bee_nest}[facing=south]
+[21Aug2025 03:46:52.680] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2199, y=50, z=-4369} with deep BlockPos{x=-2199, y=-60, z=-4369}
+[21Aug2025 03:46:53.028] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1838, y=79, z=-4373} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:46:56.318] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1864, y=77, z=-4387} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:46:56.753] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1935, y=69, z=-4388} Block{productivebees:bumble_bee_nest}[facing=up]
+[21Aug2025 03:46:58.371] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1812, y=82, z=-4413} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:10.161] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1725, y=76, z=-4444} with deep BlockPos{x=-1725, y=-62, z=-4444}
+[21Aug2025 03:47:11.551] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1704, y=74, z=-4461} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:15.838] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1891, y=67, z=-4490} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:16.054] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1845, y=65, z=-4486} with deep BlockPos{x=-1845, y=-61, z=-4486}
+[21Aug2025 03:47:17.574] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1681, y=74, z=-4481} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:18.378] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1677, y=76, z=-4364} Block{productivebees:stone_nest}[facing=up]
+[21Aug2025 03:47:19.586] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1675, y=69, z=-4303} with deep BlockPos{x=-1675, y=-59, z=-4303}
+[21Aug2025 03:47:19.802] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1674, y=74, z=-4479} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:47:23.448] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1649, y=63, z=-4023} with deep BlockPos{x=-1649, y=-61, z=-4023}
+[21Aug2025 03:47:28.288] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1881, y=66, z=-4527} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:28.385] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1843, y=64, z=-4516} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:47:31.703] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1932, y=72, z=-4537} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:31.715] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1912, y=73, z=-4529} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:33.725] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1620, y=89, z=-4467} Block{productivebees:stone_nest}[facing=north]
+[21Aug2025 03:47:35.280] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1628, y=69, z=-4052} with deep BlockPos{x=-1628, y=-60, z=-4052}
+[21Aug2025 03:47:36.553] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1828, y=63, z=-4552} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:37.072] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1780, y=75, z=-4549} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:47:39.043] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1923, y=74, z=-4564} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:39.216] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1894, y=79, z=-4565} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:47:39.222] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1888, y=73, z=-4567} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:43.705] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1766, y=66, z=-4579} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:44.186] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1955, y=79, z=-4581} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:45.724] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1846, y=69, z=-4608} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:47.826] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1912, y=75, z=-4612} with deep BlockPos{x=-1912, y=-60, z=-4612}
+[21Aug2025 03:47:52.698] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1852, y=68, z=-4648} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:47:56.009] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1684, y=82, z=-4660} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:47:57.729] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2012, y=61, z=-4682} with deep BlockPos{x=-2012, y=-59, z=-4682}
+[21Aug2025 03:47:57.806] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1783, y=64, z=-4681} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:48:00.132] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1728, y=63, z=-4690} with deep BlockPos{x=-1728, y=-59, z=-4690}
+[21Aug2025 03:48:00.984] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1873, y=74, z=-4714} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:01.243] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1818, y=73, z=-4720} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:01.880] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1695, y=66, z=-4709} Block{productivebees:oak_wood_nest}[axis=y,facing=west]
+[21Aug2025 03:48:03.279] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1716, y=71, z=-4736} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:04.469] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2035, y=56, z=-4721} with deep BlockPos{x=-2035, y=-62, z=-4721}
+[21Aug2025 03:48:04.926] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1683, y=72, z=-4732} with deep BlockPos{x=-1683, y=-62, z=-4732}
+[21Aug2025 03:48:05.905] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1867, y=64, z=-4745} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:48:06.308] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1948, y=67, z=-4749} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:07.789] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1655, y=70, z=-4688} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:48:07.806] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1650, y=69, z=-4641} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:08.972] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1739, y=76, z=-4768} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:10.042] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1965, y=64, z=-4765} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:10.055] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1946, y=74, z=-4765} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:11.379] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1636, y=78, z=-4609} with deep BlockPos{x=-1636, y=-59, z=-4609}
+[21Aug2025 03:48:14.695] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1868, y=64, z=-4788} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:48:14.751] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1834, y=60, z=-4790} with deep BlockPos{x=-1834, y=-61, z=-4790}
+[21Aug2025 03:48:15.549] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1954, y=64, z=-4794} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:15.604] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2041, y=64, z=-4799} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:48:19.391] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1904, y=70, z=-4831} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:22.335] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1799, y=69, z=-4833} with deep BlockPos{x=-1799, y=-60, z=-4833}
+[21Aug2025 03:48:22.426] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1760, y=81, z=-4838} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:48:23.954] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1696, y=93, z=-4847} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:24.459] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2130, y=73, z=-4758} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:25.657] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1631, y=86, z=-4603} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:28.380] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1879, y=73, z=-4862} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:28.389] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1870, y=75, z=-4851} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:28.463] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1836, y=65, z=-4860} with deep BlockPos{x=-1836, y=-62, z=-4860}
+[21Aug2025 03:48:32.200] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1675, y=71, z=-4834} with deep BlockPos{x=-1675, y=-60, z=-4834}
+[21Aug2025 03:48:34.445] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1851, y=80, z=-4879} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:34.804] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1940, y=76, z=-4875} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:34.841] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1919, y=73, z=-4878} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:36.317] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1638, y=74, z=-4878} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:38.028] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 03:48:38.129] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1817, y=72, z=-4893} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:38.140] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1804, y=79, z=-4894} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:38.471] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1720, y=79, z=-4881} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:38.719] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1908, y=72, z=-4894} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:38.815] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1864, y=77, z=-4895} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:44.851] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1774, y=73, z=-4916} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:44.898] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1689, y=77, z=-4915} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:50.335] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1691, y=86, z=-4936} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:51.408] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1615, y=75, z=-4492} Block{productivebees:stone_nest}[facing=up]
+[21Aug2025 03:48:52.263] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1905, y=87, z=-4941} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:53.216] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1830, y=82, z=-4932} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:53.224] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1813, y=76, z=-4933} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:53.311] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1763, y=74, z=-4944} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:54.069] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2213, y=82, z=-4796} with deep BlockPos{x=-2213, y=-62, z=-4796}
+[21Aug2025 03:48:55.696] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-2428 | 27 | -5196).
+[21Aug2025 03:48:55.696] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[21Aug2025 03:48:55.696] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[21Aug2025 03:48:55.696] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[21Aug2025 03:48:55.696] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 4(0) Rooms
+[21Aug2025 03:48:55.696] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[21Aug2025 03:48:55.696] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 6(0) Rooms
+[21Aug2025 03:48:55.697] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[21Aug2025 03:48:55.697] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(2) Nodes and 4(0) Rooms
+[21Aug2025 03:48:55.697] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[21Aug2025 03:48:55.697] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 4(0) Rooms
+[21Aug2025 03:48:56.079] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2169, y=64, z=-4948} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:48:56.561] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1802, y=73, z=-4949} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:48:57.659] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1889, y=80, z=-4955} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:58.263] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1612, y=93, z=-4767} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:48:58.332] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1613, y=68, z=-4774} Block{productivebees:stone_nest}[facing=up]
+[21Aug2025 03:49:27.299] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1590, y=70, z=-4592} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:49:29.442] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1584, y=98, z=-4742} Block{productivebees:stone_nest}[facing=west]
+[21Aug2025 03:49:33.635] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1555, y=74, z=-4870} with deep BlockPos{x=-1555, y=-61, z=-4870}
+[21Aug2025 03:49:35.602] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1576, y=106, z=-4947} Block{productivebees:coarse_dirt_nest}[facing=north]
+[21Aug2025 03:49:38.222] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1548, y=86, z=-4901} Block{productivebees:oak_wood_nest}[axis=y,facing=down]
+[21Aug2025 03:49:43.172] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1524, y=60, z=-4683} with deep BlockPos{x=-1524, y=-61, z=-4683}
+[21Aug2025 03:49:48.234] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1517, y=67, z=-4847} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:49:53.949] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1476, y=64, z=-4868} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:49:55.178] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1483, y=65, z=-4709} Block{productivebees:sugar_cane_nest}[facing=south]
+[21Aug2025 03:49:55.193] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1480, y=64, z=-4704} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:49:55.273] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1481, y=72, z=-4744} Block{productivebees:slimy_nest}[facing=north]
+[21Aug2025 03:49:55.870] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1473, y=64, z=-4461} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:49:56.203] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1548, y=88, z=-4951} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:49:58.131] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1461, y=64, z=-4834} Block{productivebees:sugar_cane_nest}[facing=west]
+[21Aug2025 03:49:59.091] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1472, y=64, z=-4461} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:49:59.246] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1465, y=64, z=-4443} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:50:01.069] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1455, y=70, z=-4662} with deep BlockPos{x=-1455, y=-63, z=-4662}
+[21Aug2025 03:50:01.849] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1455, y=63, z=-4522} Block{productivebees:slimy_nest}[facing=east]
+[21Aug2025 03:50:02.859] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1790, y=74, z=-4973} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:50:02.914] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1770, y=75, z=-4976} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:50:03.144] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1702, y=76, z=-4974} with deep BlockPos{x=-1702, y=-62, z=-4974}
+[21Aug2025 03:50:03.415] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1621, y=75, z=-4963} with deep BlockPos{x=-1621, y=-62, z=-4963}
+[21Aug2025 03:50:03.519] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1571, y=72, z=-4974} Block{productivebees:coarse_dirt_nest}[facing=north]
+[21Aug2025 03:50:04.307] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1910, y=81, z=-4976} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:50:05.387] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1492, y=63, z=-4967} Block{productivebees:slimy_nest}[facing=west]
+[21Aug2025 03:50:05.838] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1441, y=65, z=-4961} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:50:07.278] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1437, y=70, z=-4504} Block{productivebees:slimy_nest}[facing=north]
+[21Aug2025 03:50:08.906] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1431, y=64, z=-4784} Block{productivebees:bumble_bee_nest}[facing=up]
+[21Aug2025 03:50:12.543] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1420, y=71, z=-4711} Block{productivebees:slimy_nest}[facing=east]
+[21Aug2025 03:50:13.666] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1413, y=68, z=-4769} with deep BlockPos{x=-1413, y=-60, z=-4769}
+[21Aug2025 03:50:13.994] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1412, y=69, z=-4488} Block{productivebees:slimy_nest}[facing=east]
+[21Aug2025 03:50:15.052] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1846, y=93, z=-4983} with deep BlockPos{x=-1846, y=-61, z=-4983}
+[21Aug2025 03:50:18.639] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1497, y=71, z=-4999} Block{productivebees:slimy_nest}[facing=up]
+[21Aug2025 03:50:20.160] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1399, y=67, z=-4472} Block{productivebees:slimy_nest}[facing=north]
+[21Aug2025 03:50:22.438] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1958, y=83, z=-4998} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:50:22.445] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1937, y=82, z=-4999} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:50:23.810] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1845, y=93, z=-5012} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:50:24.505] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1471, y=67, z=-5014} Block{productivebees:slimy_nest}[facing=north]
+[21Aug2025 03:50:25.130] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1630, y=71, z=-5009} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=west]
+[21Aug2025 03:50:26.045] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1790, y=80, z=-5022} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:50:26.198] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1805, y=79, z=-5017} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:50:44.989] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1380, y=74, z=-4732} Block{productivebees:bumble_bee_nest}[facing=west]
+[21Aug2025 03:50:45.985] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1390, y=62, z=-4451} with deep BlockPos{x=-1390, y=-60, z=-4451}
+[21Aug2025 03:50:48.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:50:54.581] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1382, y=62, z=-4390} with deep BlockPos{x=-1382, y=-61, z=-4390}
+[21Aug2025 03:51:09.692] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:52:06.390] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1732, y=79, z=-5038} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:52:06.481] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1702, y=75, z=-5032} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:52:06.938] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1801, y=84, z=-5032} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:52:07.484] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1626, y=69, z=-5026} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:52:07.807] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1521, y=76, z=-5025} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:53:01.520] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2024, y=74, z=-5036} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:53:01.533] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2010, y=72, z=-5036} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:53:05.806] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1663, y=68, z=-5055} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:53:06.146] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1711, y=74, z=-5041} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:53:06.154] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1695, y=74, z=-5051} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:53:07.004] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1961, y=74, z=-5056} Block{productivebees:birch_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:53:07.153] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1929, y=80, z=-5046} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:53:07.449] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1867, y=75, z=-5046} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:53:11.436] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1821, y=79, z=-5070} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:53:11.835] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1723, y=74, z=-5067} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:53:12.252] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1993, y=77, z=-5070} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:53:12.289] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1969, y=73, z=-5059} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:53:12.384] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1568, y=63, z=-5066} Block{productivebees:coarse_dirt_nest}[facing=up]
+[21Aug2025 03:53:12.461] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1550, y=72, z=-5065} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:53:38.018] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 03:55:09.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Fortuitous Militia]
+[21Aug2025 03:56:52.247] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1932, y=69, z=-5079} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:56:52.509] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1786, y=85, z=-5078} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:56:53.981] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1952, y=68, z=-5073} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:56:54.229] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2025, y=71, z=-5082} with deep BlockPos{x=-2025, y=-61, z=-5082}
+[21Aug2025 03:56:57.610] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1760, y=83, z=-5095} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:56:58.664] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2027, y=76, z=-5092} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:02.544] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2001, y=71, z=-5110} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:02.661] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1675, y=80, z=-5117} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=west]
+[21Aug2025 03:57:04.607] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1945, y=66, z=-5125} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:04.607] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1948, y=65, z=-5123} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:06.378] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1670, y=72, z=-5142} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:06.862] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1609, y=63, z=-5144} Block{productivebees:coarse_dirt_nest}[facing=up]
+[21Aug2025 03:57:07.113] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1907, y=74, z=-5143} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:09.200] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1590, y=71, z=-5158} Block{productivebees:coarse_dirt_nest}[facing=south]
+[21Aug2025 03:57:12.466] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1600, y=75, z=-5180} Block{productivebees:coarse_dirt_nest}[facing=east]
+[21Aug2025 03:57:12.895] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1870, y=86, z=-5169} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:57:16.000] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1706, y=76, z=-5192} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:17.933] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1655, y=73, z=-5191} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:57:18.296] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1539, y=75, z=-5195} Block{productivebees:coarse_dirt_nest}[facing=north]
+[21Aug2025 03:57:19.783] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2022, y=70, z=-5191} with deep BlockPos{x=-2022, y=-59, z=-5191}
+[21Aug2025 03:57:19.931] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2056, y=74, z=-5166} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:21.888] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1718, y=72, z=-5209} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:21.939] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1754, y=70, z=-5211} with deep BlockPos{x=-1754, y=-59, z=-5211}
+[21Aug2025 03:57:22.094] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1497, y=63, z=-5205} Block{productivebees:slimy_nest}[facing=south]
+[21Aug2025 03:57:22.244] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1643, y=69, z=-5213} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:57:23.882] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1597, y=72, z=-5218} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:29.259] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1465, y=61, z=-5223} with deep BlockPos{x=-1465, y=-59, z=-5223}
+[21Aug2025 03:57:31.652] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1514, y=73, z=-5245} Block{productivebees:slimy_nest}[facing=north]
+[21Aug2025 03:57:31.991] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1726, y=65, z=-5240} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:57:34.651] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1893, y=66, z=-5263} with deep BlockPos{x=-1893, y=-60, z=-5263}
+[21Aug2025 03:57:34.929] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1624, y=71, z=-5255} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:35.891] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2084, y=62, z=-5096} with deep BlockPos{x=-2084, y=-62, z=-5096}
+[21Aug2025 03:57:39.745] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2105, y=64, z=-5079} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:41.418] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2121, y=64, z=-5150} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:57:41.451] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2118, y=69, z=-5166} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 03:58:08.916] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2143, y=66, z=-5141} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:58:16.032] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1563, y=81, z=-5289} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:58:18.810] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1673, y=66, z=-5308} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:58:18.925] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1596, y=74, z=-5297} Block{productivebees:birch_wood_nest}[axis=y,facing=east]
+[21Aug2025 03:58:22.660] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1642, y=74, z=-5323} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:58:36.895] [Worker-Main-5/DEBUG] [minecolonies/]: New Empty colony atMutableBlockPos{x=-1504, y=93, z=-5520}
+[21Aug2025 03:58:38.021] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 03:58:38.192] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
+[21Aug2025 03:58:38.489] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1588, y=65, z=-5337} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:58:41.741] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1602, y=64, z=-5352} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:58:41.895] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2025, y=62, z=-5359} with deep BlockPos{x=-2025, y=-61, z=-5359}
+[21Aug2025 03:58:44.802] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1598, y=63, z=-5368} Block{productivebees:bumble_bee_nest}[facing=up]
+[21Aug2025 03:58:48.218] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21Aug2025 03:58:48.231] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21Aug2025 03:58:56.966] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21Aug2025 03:59:00.271] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1985, y=64, z=-5413} with deep BlockPos{x=-1985, y=-62, z=-5413}
+[21Aug2025 03:59:06.596] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1533, y=63, z=-5440} Block{productivebees:slimy_nest}[facing=north]
+[21Aug2025 03:59:09.954] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1496, y=64, z=-5445} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:59:21.208] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1868, y=62, z=-5496} with deep BlockPos{x=-1868, y=-60, z=-5496}
+[21Aug2025 03:59:23.316] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1446, y=89, z=-5464} with deep BlockPos{x=-1446, y=-61, z=-5464}
+[21Aug2025 03:59:23.403] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1441, y=71, z=-5411} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:59:28.142] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1436, y=65, z=-5395} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 03:59:34.699] [pool-11-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/forgotten], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle_tree]] from pos BlockPos{x=-1733, y=70, z=-5445}
+[21Aug2025 03:59:34.935] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1468, y=63, z=-5499} Block{productivebees:coarse_dirt_nest}[facing=up]
+[21Aug2025 03:59:34.945] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1455, y=64, z=-5503} Block{productivebees:coarse_dirt_nest}[facing=north]
+[21Aug2025 03:59:35.111] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/normal
+[21Aug2025 03:59:35.111] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/bounty/plains
+[21Aug2025 03:59:35.122] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[21Aug2025 03:59:37.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3024ms or 60 ticks behind
+[21Aug2025 03:59:39.675] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1406, y=63, z=-5144} Block{productivebees:slimy_nest}[facing=north]
+[21Aug2025 03:59:42.511] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1381, y=69, z=-5111} Block{productivebees:bumble_bee_nest}[facing=north]
+[21Aug2025 03:59:43.088] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1378, y=72, z=-5467} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:59:45.034] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1372, y=72, z=-5365} Block{productivebees:slimy_nest}[facing=north]
+[21Aug2025 03:59:45.056] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1365, y=66, z=-5331} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:59:46.332] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1373, y=66, z=-5325} with deep BlockPos{x=-1373, y=-61, z=-5325}
+[21Aug2025 03:59:50.936] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1355, y=64, z=-5320} Block{productivebees:slimy_nest}[facing=north]
+[21Aug2025 03:59:51.732] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1354, y=65, z=-5518} Block{productivebees:slimy_nest}[facing=west]
+[21Aug2025 03:59:54.932] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1342, y=73, z=-5354} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:59:54.949] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1342, y=71, z=-5339} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:59:57.110] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1343, y=89, z=-5406} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 03:59:59.067] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1318, y=70, z=-5499} Block{productivebees:bumble_bee_nest}[facing=north]
+[21Aug2025 04:00:03.323] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1325, y=71, z=-5322} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 04:00:04.423] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1326, y=84, z=-5440} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 04:00:18.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Onfrost the Morbius'/514877, l='ServerLevel[world]', x=-1843.76, y=66.00, z=-5311.64] died: Onfrost the Morbius was slain by Rogerto
+[21Aug2025 04:00:20.273] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1428, y=80, z=-5555} Block{productivebees:coarse_dirt_nest}[facing=up]
+[21Aug2025 04:00:23.888] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1422, y=64, z=-5584} with deep BlockPos{x=-1422, y=-60, z=-5584}
+[21Aug2025 04:00:26.756] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1537, y=62, z=-5600} with deep BlockPos{x=-1537, y=-62, z=-5600}
+[21Aug2025 04:00:29.404] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1583, y=62, z=-5614} Block{productivebees:sand_nest}[facing=up]
+[21Aug2025 04:00:30.303] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1428, y=65, z=-5613} Block{productivebees:coarse_dirt_nest}[facing=up]
+[21Aug2025 04:00:33.024] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2048, y=59, z=-5618} with deep BlockPos{x=-2048, y=-61, z=-5618}
+[21Aug2025 04:00:48.039] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1610, y=54, z=-5678} with deep BlockPos{x=-1610, y=-59, z=-5678}
+[21Aug2025 04:00:48.240] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1690, y=63, z=-5670} Block{productivebees:bumble_bee_nest}[facing=up]
+[21Aug2025 04:00:49.343] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21Aug2025 04:00:49.343] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21Aug2025 04:00:49.344] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21Aug2025 04:00:49.344] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21Aug2025 04:00:49.344] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21Aug2025 04:00:49.346] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:49.346] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:49.876] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:49.876] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:49.877] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:49.877] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:49.877] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:49.877] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:49.878] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:49.878] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:49.878] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:49.878] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:49.878] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:49.879] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:53.378] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1979, y=64, z=-5682} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Aug2025 04:00:56.845] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2159, y=74, z=-5172} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 04:00:58.603] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2149, y=66, z=-5140} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Aug2025 04:00:59.047] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.048] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.049] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.049] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.239] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.240] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.240] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.240] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.240] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.241] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.241] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.241] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.241] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.242] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.242] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.242] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.242] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.242] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.243] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.243] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.243] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.243] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.244] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.244] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.244] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.244] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.245] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.245] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:00:59.245] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Aug2025 04:00:59.245] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[21Aug2025 04:01:00.656] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2175, y=74, z=-5177} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 04:01:00.745] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2164, y=70, z=-5163} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 04:01:06.570] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2195, y=79, z=-5201} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 04:01:06.571] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2197, y=80, z=-5211} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Aug2025 04:01:08.177] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2159, y=64, z=-5112} Block{productivebees:birch_wood_nest}[axis=y,facing=east]
+[21Aug2025 04:01:09.377] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2215, y=63, z=-5369} with deep BlockPos{x=-2215, y=-62, z=-5369}
+[21Aug2025 04:01:10.328] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2211, y=66, z=-5162} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 04:01:14.876] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1980, y=65, z=-5725} Block{productivebees:sand_nest}[facing=west]
+[21Aug2025 04:01:15.623] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1753, y=65, z=-5718} with deep BlockPos{x=-1753, y=-60, z=-5718}
+[21Aug2025 04:01:16.752] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2048, y=47, z=-5715} with deep BlockPos{x=-2048, y=-62, z=-5715}
+[21Aug2025 04:01:20.055] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2248, y=50, z=-5641} with deep BlockPos{x=-2248, y=-59, z=-5641}
+[21Aug2025 04:01:24.060] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1933, y=64, z=-5737} Block{productivebees:bumble_bee_nest}[facing=up]
+[21Aug2025 04:01:24.703] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[21Aug2025 04:01:24.704] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[21Aug2025 04:01:25.449] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2265, y=73, z=-5244} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Aug2025 04:01:25.530] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2268, y=63, z=-5180} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=up]
+[21Aug2025 04:01:26.094] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2267, y=63, z=-5329} with deep BlockPos{x=-2267, y=-59, z=-5329}
+[21Aug2025 04:03:40.998] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 04:04:44.519] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:stone" - querying recipes to get these
+[21Aug2025 04:04:47.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gunpowder" - querying recipes to get these
+[21Aug2025 04:04:56.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "modern_industrialization:silver_ingot" - querying recipes to get these
+[21Aug2025 04:04:58.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "enderio:dark_steel_ingot" - querying recipes to get these
+[21Aug2025 04:04:59.518] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "trophymanager:trophy" - querying recipes to get these
+[21Aug2025 04:05:00.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[21Aug2025 04:05:01.517] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "silentgear:fine_silk" - querying recipes to get these
+[21Aug2025 04:05:01.533] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "silentgear:fine_silk_cloth" - querying recipes to get these
+[21Aug2025 04:05:02.517] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:spider_eye" - querying recipes to get these
+[21Aug2025 04:05:04.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[21Aug2025 04:05:05.518] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[21Aug2025 04:05:07.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "silentgems:ruby" - querying recipes to get these
+[21Aug2025 04:05:08.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:string" - querying recipes to get these
+[21Aug2025 04:05:09.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "pneumaticcraft:ingot_iron_compressed" - querying recipes to get these
+[21Aug2025 04:05:10.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "irons_spellbooks:arcane_essence" - querying recipes to get these
+[21Aug2025 04:05:12.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "supplementaries:ash" - querying recipes to get these
+[21Aug2025 04:05:13.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "irons_spellbooks:scroll" - querying recipes to get these
+[21Aug2025 04:05:14.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "evilcraft:box_of_eternal_closure" - querying recipes to get these
+[21Aug2025 04:05:15.517] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[21Aug2025 04:05:16.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[21Aug2025 04:05:17.520] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[21Aug2025 04:05:20.517] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond_axe" - querying recipes to get these
+[21Aug2025 04:05:21.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:ender_pearl" - querying recipes to get these
+[21Aug2025 04:05:22.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond_sword" - querying recipes to get these
+[21Aug2025 04:05:23.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "alltheores:invar_ingot" - querying recipes to get these
+[21Aug2025 04:05:24.519] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[21Aug2025 04:05:25.519] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "pneumaticcraft:micromissiles" - querying recipes to get these
+[21Aug2025 04:05:26.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "irons_jewelry:moonstone" - querying recipes to get these
+[21Aug2025 04:05:27.517] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "irons_jewelry:ring" - querying recipes to get these
+[21Aug2025 04:05:29.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "railcraft:overalls" - querying recipes to get these
+[21Aug2025 04:05:30.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "modern_industrialization:steel_ingot" - querying recipes to get these
+[21Aug2025 04:05:31.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "railcraft:steel_ingot" - querying recipes to get these
+[21Aug2025 04:05:33.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "irons_spellbooks:tarnished_helmet" - querying recipes to get these
+[21Aug2025 04:05:34.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "ars_nouveau:warp_scroll" - querying recipes to get these
+[21Aug2025 04:05:35.518] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:enchanted_book" - querying recipes to get these
+[21Aug2025 04:05:36.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[21Aug2025 04:05:37.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:golden_apple" - querying recipes to get these
+[21Aug2025 04:05:38.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "ars_nouveau:source_gem" - querying recipes to get these
+[21Aug2025 04:05:39.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:name_tag" - querying recipes to get these
+[21Aug2025 04:05:40.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "irons_jewelry:necklace" - querying recipes to get these
+[21Aug2025 04:05:43.519] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "tombstone:magic_scroll" - querying recipes to get these
+[21Aug2025 04:05:44.519] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[21Aug2025 04:05:45.517] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:experience_bottle" - querying recipes to get these
+[21Aug2025 04:05:46.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:carrot" - querying recipes to get these
+[21Aug2025 04:05:47.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[21Aug2025 04:05:48.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "pneumaticcraft:gun_ammo_freezing" - querying recipes to get these
+[21Aug2025 04:05:49.518] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "alltheores:peridot" - querying recipes to get these
+[21Aug2025 04:05:50.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "pneumaticcraft:compressed_stone" - querying recipes to get these
+[21Aug2025 04:05:52.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:spruce_planks" - querying recipes to get these
+[21Aug2025 04:05:53.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "artifacts:umbrella" - querying recipes to get these
+[21Aug2025 04:05:54.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "evilcraft:origins_of_darkness" - querying recipes to get these
+[21Aug2025 04:06:29.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "rootsclassic:elderberry" - querying recipes to get these
+[21Aug2025 04:06:39.521] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[21Aug2025 04:06:42.520] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[21Aug2025 04:07:43.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:stone_brick_stairs" - querying recipes to get these
+[21Aug2025 04:08:09.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:spruce_sapling" - querying recipes to get these
+[21Aug2025 04:08:10.974] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-13,-130), load=true, success=true
+[21Aug2025 04:08:10.975] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-13,-129), load=true, success=true
+[21Aug2025 04:08:12.519] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:cobbled_deepslate" - querying recipes to get these
+[21Aug2025 04:08:13.519] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:obsidian" - querying recipes to get these
+[21Aug2025 04:08:14.518] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "irons_spellbooks:teleportation_amulet" - querying recipes to get these
+[21Aug2025 04:08:15.514] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "pneumaticcraft:gun_ammo_explosive" - querying recipes to get these
+[21Aug2025 04:08:16.514] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:tnt_minecart" - querying recipes to get these
+[21Aug2025 04:08:17.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:skeleton_spawn_egg" - querying recipes to get these
+[21Aug2025 04:08:18.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:enchanted_book" - querying recipes to get these
+[21Aug2025 04:08:20.514] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:cracked_stone_bricks" - querying recipes to get these
+[21Aug2025 04:08:22.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:spawner" - querying recipes to get these
+[21Aug2025 04:08:24.514] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "trophymanager:trophy" - querying recipes to get these
+[21Aug2025 04:08:25.514] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "supplementaries:flax_seeds" - querying recipes to get these
+[21Aug2025 04:08:26.514] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "forbidden_arcanus:bat_wing" - querying recipes to get these
+[21Aug2025 04:08:28.516] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "forbidden_arcanus:ender_pearl_fragment" - querying recipes to get these
+[21Aug2025 04:08:29.514] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "bhc:red_heart" - querying recipes to get these
+[21Aug2025 04:08:30.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "alltheores:raw_zinc" - querying recipes to get these
+[21Aug2025 04:08:31.520] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "evilcraft:dark_gem_crushed" - querying recipes to get these
+[21Aug2025 04:08:32.515] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "evilcraft:dark_gem" - querying recipes to get these
+[21Aug2025 04:08:34.514] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:sigil_of_malice" - querying recipes to get these
+[21Aug2025 04:08:35.519] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_axe" - querying recipes to get these
+[21Aug2025 04:08:40.978] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 04:08:42.769] [Server thread/DEBUG] [FTB Chunks/]: Rogerto tried to load @ minecraft:overworld:-12:-129 but got result NOT_CLAIMED
+[21Aug2025 04:08:42.769] [Server thread/DEBUG] [FTB Chunks/]: Rogerto tried to load @ minecraft:overworld:-12:-130 but got result NOT_CLAIMED
+[21Aug2025 04:08:45.580] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-12,-129), load=true, success=true
+[21Aug2025 04:08:45.580] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-12,-130), load=true, success=true
+[21Aug2025 04:10:01.920] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[21Aug2025 04:10:10.185] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:birch_log" - querying recipes to get these
+[21Aug2025 04:10:16.000] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:oak_planks" - querying recipes to get these
+[21Aug2025 04:10:16.046] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "allthecompressed:oak_planks_1x" - querying recipes to get these
+[21Aug2025 04:10:20.768] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "ars_nouveau:green_archwood_log" - querying recipes to get these
+[21Aug2025 04:10:41.954] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_block" - querying recipes to get these
+[21Aug2025 04:10:56.217] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_ingot" - querying recipes to get these
+[21Aug2025 04:10:56.296] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "sophisticatedstorage:stack_upgrade_tier_1" - querying recipes to get these
+[21Aug2025 04:10:56.301] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_block" - querying recipes to get these
+[21Aug2025 04:12:56.254] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:stick" - querying recipes to get these
+[21Aug2025 04:12:56.261] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "allthecompressed:iron_block_1x" - querying recipes to get these
+[21Aug2025 04:13:40.979] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

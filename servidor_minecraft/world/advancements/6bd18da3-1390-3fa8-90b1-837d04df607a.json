@@ -285,6 +285,8 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:ironwood_gour": "2025-08-17 05:01:50 +0000",
+      "biomeswevegone:orchard": "2025-08-21 03:47:47 +0000",
+      "biomeswevegone:dacite_shore": "2025-08-21 03:44:35 +0000",
       "biomeswevegone:windswept_desert": "2025-08-17 03:39:56 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-08-18 04:33:58 +0000",
       "biomeswevegone:skyrise_vale": "2025-08-19 06:04:52 +0000",
@@ -296,6 +298,7 @@
       "biomeswevegone:prairie": "2025-08-18 03:27:32 +0000",
       "biomeswevegone:zelkova_forest": "2025-08-18 02:14:11 +0000",
       "biomeswevegone:forgotten_forest": "2025-08-21 02:53:57 +0000",
+      "biomeswevegone:aspen_boreal": "2025-08-21 03:48:17 +0000",
       "biomeswevegone:dacite_ridges": "2025-08-21 02:58:53 +0000"
     },
     "done": false
@@ -308,7 +311,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "temperate_grove": "2025-08-21 03:57:19 +0000",
       "frozen_tundra": "2025-08-21 02:32:32 +0000",
+      "shrubland": "2025-08-21 03:59:12 +0000",
       "baobab_savanna": "2025-08-17 03:25:19 +0000",
       "grassy_beach": "2025-08-17 05:05:17 +0000",
       "scorching_caves": "2025-08-18 04:19:08 +0000",
@@ -330,7 +335,9 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "temperate_grove": "2025-08-21 03:57:19 +0000",
       "frozen_tundra": "2025-08-21 02:32:32 +0000",
+      "shrubland": "2025-08-21 03:59:12 +0000",
       "baobab_savanna": "2025-08-17 03:25:19 +0000",
       "grassy_beach": "2025-08-17 05:05:17 +0000",
       "boreal_forest": "2025-08-18 01:46:35 +0000",
