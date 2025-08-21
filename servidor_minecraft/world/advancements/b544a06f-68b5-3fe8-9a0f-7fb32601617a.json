@@ -1193,6 +1193,12 @@
     },
     "done": true
   },
+  "apothic_spawners:redstone": {
+    "criteria": {
+      "modifier": "2025-08-21 05:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-21 04:30:37 +0000"
@@ -1202,6 +1208,12 @@
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2025-08-21 04:30:41 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:modifier": {
+    "criteria": {
+      "modifier": "2025-08-21 05:38:15 +0000"
     },
     "done": true
   },
