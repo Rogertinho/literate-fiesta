@@ -9362,3 +9362,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [21Aug2025 19:42:27.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
 [21Aug2025 19:42:27.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
 [21Aug2025 19:51:34.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[21Aug2025 20:02:22.567] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 280.7 μs. 581/585 recipes are parallelized.

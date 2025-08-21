@@ -57640,3 +57640,24 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [21Aug2025 19:56:13.319] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "supplementaries:cage" - querying recipes to get these
 [21Aug2025 19:56:34.821] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "ars_nouveau:dominion_wand" - querying recipes to get these
 [21Aug2025 19:56:54.769] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "sophisticatedstorage:gold_chest" - querying recipes to get these
+[21Aug2025 19:58:37.018] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:ender_pearl" - querying recipes to get these
+[21Aug2025 19:58:37.116] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:obsidian" - querying recipes to get these
+[21Aug2025 19:59:36.819] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[21Aug2025 19:59:36.893] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone_torch" - querying recipes to get these
+[21Aug2025 19:59:57.606] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 20:00:02.771] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:spruce_planks" - querying recipes to get these
+[21Aug2025 20:00:16.619] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "ars_nouveau:purple_archwood_wood" - querying recipes to get these
+[21Aug2025 20:00:16.628] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "sophisticatedstorage:upgrade_base" - querying recipes to get these
+[21Aug2025 20:00:21.069] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_ingot" - querying recipes to get these
+[21Aug2025 20:00:21.130] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "sophisticatedstorage:stack_upgrade_tier_1" - querying recipes to get these
+[21Aug2025 20:00:21.135] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_block" - querying recipes to get these
+[21Aug2025 20:01:07.022] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_block" - querying recipes to get these
+[21Aug2025 20:02:16.968] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:raw_copper" - querying recipes to get these
+[21Aug2025 20:02:22.567] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 280.7 μs. 581/585 recipes are parallelized.
+[21Aug2025 20:02:46.917] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:glass" - querying recipes to get these
+[21Aug2025 20:02:46.987] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "allthecompressed:glass_1x" - querying recipes to get these
+[21Aug2025 20:02:48.921] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_ore" - querying recipes to get these
+[21Aug2025 20:03:32.068] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "sophisticatedstorage:stack_upgrade_tier_1_plus" - querying recipes to get these
+[21Aug2025 20:03:50.769] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[21Aug2025 20:03:57.118] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "sophisticatedstorage:stack_upgrade_tier_2" - querying recipes to get these
+[21Aug2025 20:04:57.605] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
