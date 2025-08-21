@@ -57614,3 +57614,29 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [21Aug2025 19:47:01.223] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "chipped:bordered_stone" - querying recipes to get these
 [21Aug2025 19:47:02.171] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:phantom_membrane" - querying recipes to get these
 [21Aug2025 19:47:03.570] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "chipped:chisel" - querying recipes to get these
+[21Aug2025 19:49:34.007] [Server thread/DEBUG] [mixin/]: Mixing ConnectivityHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.api.connectivity.ConnectivityHandler
+[21Aug2025 19:49:34.008] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21Aug2025 19:49:34.045] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidSingle(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[21Aug2025 19:49:34.046] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidMulti(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[21Aug2025 19:49:55.645] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 19:49:55.673] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[21Aug2025 19:50:51.570] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:stick" - querying recipes to get these
+[21Aug2025 19:50:51.590] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:cobblestone" - querying recipes to get these
+[21Aug2025 19:50:54.719] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[21Aug2025 19:50:54.810] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_bars" - querying recipes to get these
+[21Aug2025 19:50:54.817] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:oak_slab" - querying recipes to get these
+[21Aug2025 19:51:33.284] [Server thread/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[21Aug2025 19:51:33.285] [Server thread/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[21Aug2025 19:51:34.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[21Aug2025 19:53:02.933] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:birch_planks" - querying recipes to get these
+[21Aug2025 19:53:04.669] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:birch_log" - querying recipes to get these
+[21Aug2025 19:54:57.643] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 19:55:25.566] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:birch_fence" - querying recipes to get these
+[21Aug2025 19:55:26.223] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:feather" - querying recipes to get these
+[21Aug2025 19:55:27.573] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:lever" - querying recipes to get these
+[21Aug2025 19:55:28.679] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:egg" - querying recipes to get these
+[21Aug2025 19:55:29.365] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:light_blue_wool" - querying recipes to get these
+[21Aug2025 19:55:30.474] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:spawner" - querying recipes to get these
+[21Aug2025 19:56:13.319] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "supplementaries:cage" - querying recipes to get these
+[21Aug2025 19:56:34.821] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "ars_nouveau:dominion_wand" - querying recipes to get these
+[21Aug2025 19:56:54.769] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "sophisticatedstorage:gold_chest" - querying recipes to get these

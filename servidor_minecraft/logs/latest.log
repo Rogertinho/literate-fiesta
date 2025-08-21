@@ -9361,3 +9361,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [21Aug2025 19:39:14.953] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 19.38 ms. 41811/43473 recipes are parallelized.
 [21Aug2025 19:42:27.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
 [21Aug2025 19:42:27.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
+[21Aug2025 19:51:34.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
