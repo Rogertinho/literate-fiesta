@@ -61347,3 +61347,16 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [21Aug2025 03:21:37.386] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1976, y=64, z=-3158} Block{productivebees:sugar_cane_nest}[facing=north]
 [21Aug2025 03:22:53.758] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2272, y=54, z=-3814} with deep BlockPos{x=-2272, y=-60, z=-3814}
 [21Aug2025 03:23:38.014] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 03:27:17.295] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2478, y=46, z=-3705} with deep BlockPos{x=-2478, y=-63, z=-3705}
+[21Aug2025 03:27:37.939] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2481, y=50, z=-3214} with deep BlockPos{x=-2481, y=-59, z=-3214}
+[21Aug2025 03:27:38.454] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2295, y=56, z=-3874} with deep BlockPos{x=-2295, y=-62, z=-3874}
+[21Aug2025 03:28:38.045] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 03:30:32.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has reached the goal [Fortuitous Militia]
+[21Aug2025 03:32:06.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Ericson the Pig Thief'/431768, l='ServerLevel[world]', x=-2189.32, y=73.00, z=-3564.67] died: 1$s has perished from holy damage
+[21Aug2025 03:33:09.508] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[21Aug2025 03:33:28.955] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[21Aug2025 03:33:38.038] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 03:33:49.398] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:33:52.351] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:35:01.107] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Aug2025 03:35:09.085] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
