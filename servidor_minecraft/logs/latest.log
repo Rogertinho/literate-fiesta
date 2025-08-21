@@ -9571,3 +9571,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [21Aug2025 04:30:41.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has completed the challenge [Premium!]
 [21Aug2025 04:40:27.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has completed the challenge [Premium!]
 [21Aug2025 04:50:18.718] [Server thread/INFO] [fastsuite/]: Constructed recipe list for silentgear:salvaging in 201.1 μs. 0/106 recipes are parallelized.
+[21Aug2025 05:02:25.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=-2, z=-2171} BlockPos{x=-203, y=73, z=-2067}
+[21Aug2025 05:17:42.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bogged['Kenar the Hungry'/1162153, l='ServerLevel[world]', x=-55.78, y=-24.52, z=-2165.00] died: Kenar the Hungry was killed by magic while trying to escape LuLo7

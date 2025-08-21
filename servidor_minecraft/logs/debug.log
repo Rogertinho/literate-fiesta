@@ -62256,3 +62256,30 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [21Aug2025 04:53:46.917] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond_pickaxe" - querying recipes to get these
 [21Aug2025 04:53:48.964] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_boots': 0.0
 [21Aug2025 04:54:05.296] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:glass_pane" - querying recipes to get these
+[21Aug2025 04:57:42.979] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:melon_seeds" - querying recipes to get these
+[21Aug2025 04:57:44.189] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:stick" - querying recipes to get these
+[21Aug2025 04:57:46.744] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:snow_block" - querying recipes to get these
+[21Aug2025 04:57:56.441] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "relics:infinity_ham" - querying recipes to get these
+[21Aug2025 04:58:23.551] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "easy_villagers:villager" - querying recipes to get these
+[21Aug2025 04:58:33.235] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:dirt" - querying recipes to get these
+[21Aug2025 04:58:40.986] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 04:58:41.336] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[21Aug2025 04:59:11.739] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:ender_pearl" - querying recipes to get these
+[21Aug2025 04:59:15.087] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:oak_log" - querying recipes to get these
+[21Aug2025 04:59:15.162] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "allthecompressed:oak_log_1x" - querying recipes to get these
+[21Aug2025 05:00:20.270] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal_block" - querying recipes to get these
+[21Aug2025 05:02:25.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=-2, z=-2171} BlockPos{x=-203, y=73, z=-2067}
+[21Aug2025 05:03:40.984] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 05:04:02.219] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:poppy" - querying recipes to get these
+[21Aug2025 05:04:31.685] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:glass_pane" - querying recipes to get these
+[21Aug2025 05:04:31.686] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:bucket" - querying recipes to get these
+[21Aug2025 05:04:31.686] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:stone" - querying recipes to get these
+[21Aug2025 05:08:03.685] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "ars_elemental:yellow_archwood_log" - querying recipes to get these
+[21Aug2025 05:08:40.992] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 05:09:17.771] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:enchanted_book" - querying recipes to get these
+[21Aug2025 05:12:50.837] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:prismarine_shard" - querying recipes to get these
+[21Aug2025 05:12:58.005] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal_block" - querying recipes to get these
+[21Aug2025 05:13:15.196] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[21Aug2025 05:13:41.001] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Aug2025 05:17:42.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bogged['Kenar the Hungry'/1162153, l='ServerLevel[world]', x=-55.78, y=-24.52, z=-2165.00] died: Kenar the Hungry was killed by magic while trying to escape LuLo7
+[21Aug2025 05:17:46.944] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
