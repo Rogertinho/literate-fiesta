@@ -9566,3 +9566,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [21Aug2025 04:00:59.245] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [21Aug2025 04:01:24.703] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
 [21Aug2025 04:01:24.704] [Worker-Main-5/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+[21Aug2025 04:20:17.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Spooky Scary Skeleton]

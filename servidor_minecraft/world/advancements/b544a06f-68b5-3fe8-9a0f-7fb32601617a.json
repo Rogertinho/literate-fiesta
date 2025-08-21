@@ -1190,5 +1190,11 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-21 04:20:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
