@@ -1119,87 +1119,9 @@
     },
     "done": true
   },
-  "the_bumblezone:tools/honey_compass_use": {
+  "create_enchantment_industry:spirit_taking": {
     "criteria": {
-      "honey_compass": "2025-08-20 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
-    "criteria": {
-      "strong_hidden": "2025-08-20 04:06:18 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:beehemoth/tamed_beehemoth": {
-    "criteria": {
-      "tamed_beehemoth": "2025-08-20 04:28:09 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:combs_and_wax/carve_ancient_wax": {
-    "criteria": {
-      "ancient_wax_slab": "2025-08-20 04:07:43 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
-    "criteria": {
-      "obtain_stinger_spear": "2025-08-20 04:16:47 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:crystalline_flower/grow_crystalline_flower": {
-    "criteria": {
-      "grow_crystalline_flower": "2025-08-20 05:30:34 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
-    "criteria": {
-      "bee_hit_wrath_of_the_hive": "2025-08-20 04:12:48 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:decor/obtain_all_string_curtains": {
-    "criteria": {
-      "yellow_string_curtain": "2025-08-20 04:11:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/honey_block_slide": {
-    "criteria": {
-      "honey_block_slide": "2025-08-20 03:43:16 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_garden": {
-    "criteria": {
-      "in_hanging_garden": "2025-08-20 03:55:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-08-20 04:28:09 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
-    "criteria": {
-      "obtain_honey_crystal_shield": "2025-08-20 04:16:54 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_piston": {
-    "criteria": {
-      "teleport_to_bumblezone_piston": "2025-08-20 03:39:38 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
-    "criteria": {
-      "anger_wizard": "2025-08-20 06:18:27 +0000"
+      "0": "2025-08-20 02:45:43 +0000"
     },
     "done": true
   },
@@ -1209,57 +1131,9 @@
     },
     "done": true
   },
-  "create_enchantment_industry:spirit_taking": {
+  "the_bumblezone:teleportation/teleport_to_bumblezone_piston": {
     "criteria": {
-      "0": "2025-08-20 02:45:43 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:beehemoth/queen_beehemoth": {
-    "criteria": {
-      "created_queen_beehemoth": "2025-08-20 04:53:47 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/getting_protection": {
-    "criteria": {
-      "getting_protection": "2025-08-20 04:28:34 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/consume_bee_soup": {
-    "criteria": {
-      "consume_bee_soup": "2025-08-20 04:11:39 +0000"
-    },
-    "done": true
-  },
-  "mekanism:fluid_transport": {
-    "criteria": {
-      "basic_mechanical_pipe": "2025-08-20 05:19:36 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:armor/warrior_bee": {
-    "criteria": {
-      "warrior_bee": "2025-08-20 04:16:47 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:crystalline_flower/enchant_crystalline_flower": {
-    "criteria": {
-      "enchant_crystalline_flower": "2025-08-20 05:31:05 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/craft_honey_compass": {
-    "criteria": {
-      "obtain_honey_compass": "2025-08-20 03:46:34 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
-    "criteria": {
-      "teleport_out_of_bumblezone": "2025-08-20 05:16:12 +0000"
+      "teleport_to_bumblezone_piston": "2025-08-20 03:39:38 +0000"
     },
     "done": true
   },
@@ -1271,6 +1145,132 @@
       "hive_pillar": "2025-08-20 03:39:39 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-08-20 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-08-20 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2025-08-20 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2025-08-20 03:55:17 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-08-20 04:06:18 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_ancient_wax": {
+    "criteria": {
+      "ancient_wax_slab": "2025-08-20 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/consume_bee_soup": {
+    "criteria": {
+      "consume_bee_soup": "2025-08-20 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:decor/obtain_all_string_curtains": {
+    "criteria": {
+      "yellow_string_curtain": "2025-08-20 04:11:59 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-08-20 04:12:48 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-08-20 04:16:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/warrior_bee": {
+    "criteria": {
+      "warrior_bee": "2025-08-20 04:16:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-08-20 04:16:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:beehemoth/tamed_beehemoth": {
+    "criteria": {
+      "tamed_beehemoth": "2025-08-20 04:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-20 04:28:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2025-08-20 04:28:34 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:beehemoth/queen_beehemoth": {
+    "criteria": {
+      "created_queen_beehemoth": "2025-08-20 04:53:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2025-08-20 05:16:12 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-08-20 05:19:36 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:crystalline_flower/grow_crystalline_flower": {
+    "criteria": {
+      "grow_crystalline_flower": "2025-08-20 05:30:34 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:crystalline_flower/enchant_crystalline_flower": {
+    "criteria": {
+      "enchant_crystalline_flower": "2025-08-20 05:31:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-08-20 06:18:27 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
