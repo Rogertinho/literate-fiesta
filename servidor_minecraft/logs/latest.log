@@ -9434,3 +9434,57 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [22Aug2025 06:32:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Hidden in the Depths]
 [22Aug2025 06:35:17.056] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [22Aug2025 06:36:25.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has completed the challenge [Arcane Engineer]
+[22Aug2025 06:39:13.919] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:universal_attractor' on spawned entity 'Piglin['Piglin'/1354553, l='ServerLevel[world]', x=33.50, y=59.00, z=-535.50]'
+[22Aug2025 06:43:24.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Who is Cutting Onions?]
+[22Aug2025 06:44:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [That Strong Enough For You?]
+[22Aug2025 06:47:10.567] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:obsidian_skull' on spawned entity 'ZombifiedPiglin['Zombified Piglin'/1362019, l='ServerLevel[world]', x=-94.50, y=102.00, z=-541.50]'
+[22Aug2025 06:54:51.706] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[22Aug2025 06:58:44.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Uma the Shimmering'/1372247, l='ServerLevel[world]', x=14.84, y=98.00, z=-441.46] died: 1$s has perished from holy damage
+[22Aug2025 06:59:18.108] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:diamond_horse_armor
+[22Aug2025 07:01:03.759] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[22Aug2025 07:01:31.410] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[22Aug2025 07:07:12.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rogerto lost connection: Disconnected
+[22Aug2025 07:07:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto left the game
+[22Aug2025 07:07:14.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
+[22Aug2025 07:07:14.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
+[22Aug2025 07:07:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Aug2025 07:07:28.685] [Server thread/INFO] [com.github.jarva.arsadditions.ArsAdditions/]: Shutting down locating executor service
+[22Aug2025 07:07:28.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Aug2025 07:07:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Aug2025 07:07:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Aug2025 07:07:28.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Aug2025 07:07:28.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[22Aug2025 07:07:28.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Aug2025 07:07:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[22Aug2025 07:07:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[22Aug2025 07:07:28.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[22Aug2025 07:07:28.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[22Aug2025 07:07:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[22Aug2025 07:07:28.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[22Aug2025 07:07:28.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[22Aug2025 07:07:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Aug2025 07:07:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[22Aug2025 07:07:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_starlight:starlight
+[22Aug2025 07:07:28.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[22Aug2025 07:07:28.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[22Aug2025 07:07:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Aug2025 07:07:29.049] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Aug2025 07:07:29.050] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Aug2025 07:07:29.053] [Server thread/INFO] [Framework/]: Finished unloading server configs

@@ -58167,3 +58167,177 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [22Aug2025 06:36:40.099] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [22Aug2025 06:37:44.034] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [22Aug2025 06:37:55.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:39:13.919] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:universal_attractor' on spawned entity 'Piglin['Piglin'/1354553, l='ServerLevel[world]', x=33.50, y=59.00, z=-535.50]'
+[22Aug2025 06:39:15.445] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:39:59.096] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:40:15.327] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:40:24.347] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:40:38.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:40:56.498] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:41:09.947] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:41:30.146] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:41:40.116] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 06:41:45.627] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:42:09.156] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:43:21.642] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:43:22.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:43:24.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Who is Cutting Onions?]
+[22Aug2025 06:43:28.049] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:43:32.327] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:43:55.499] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:43:58.096] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:43:58.797] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:44:24.550] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:44:24.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:44:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [That Strong Enough For You?]
+[22Aug2025 06:44:41.895] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:44:46.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:44:46.497] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:44:48.194] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:44:48.197] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:44:48.198] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:44:48.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:44:48.204] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:45:14.347] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:45:18.549] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:45:29.097] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:45:34.814] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:46:40.102] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 06:46:40.532] [Server thread/DEBUG] [pneumaticcraft/]: 28 active Amadron offers to sync to clients
+[22Aug2025 06:47:10.567] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:obsidian_skull' on spawned entity 'ZombifiedPiglin['Zombified Piglin'/1362019, l='ServerLevel[world]', x=-94.50, y=102.00, z=-541.50]'
+[22Aug2025 06:47:42.551] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:47:44.839] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:48:05.447] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:48:06.827] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:48:59.055] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:49:01.635] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:49:04.033] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:49:04.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:49:04.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:49:04.040] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:49:04.042] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:49:34.299] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:49:36.577] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:50:07.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:50:11.045] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:51:40.095] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 06:52:18.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:52:39.329] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-400, y=68, z=-804} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:52:57.050] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:54:51.706] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[22Aug2025 06:56:40.105] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 06:57:21.505] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:58:44.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Uma the Shimmering'/1372247, l='ServerLevel[world]', x=14.84, y=98.00, z=-441.46] died: 1$s has perished from holy damage
+[22Aug2025 06:59:18.108] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:diamond_horse_armor
+[22Aug2025 07:01:03.759] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[22Aug2025 07:01:31.410] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[22Aug2025 07:01:40.096] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 07:02:30.961] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 07:02:45.907] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 07:02:51.642] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 07:03:31.982] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 07:03:55.302] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 07:05:03.459] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 07:05:35.407] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 07:05:39.254] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 07:06:40.096] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 07:06:40.576] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[22Aug2025 07:07:12.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rogerto lost connection: Disconnected
+[22Aug2025 07:07:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto left the game
+[22Aug2025 07:07:14.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
+[22Aug2025 07:07:14.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-12,-132), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-13,-129), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-13,-132), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-12,-129), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-13,-133), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-13,-130), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-12,-133), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-14,-132), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-12,-130), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-14,-130), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-14,-133), load=false, success=true
+[22Aug2025 07:07:14.926] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-14,-129), load=false, success=true
+[22Aug2025 07:07:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Aug2025 07:07:28.685] [Server thread/INFO] [com.github.jarva.arsadditions.ArsAdditions/]: Shutting down locating executor service
+[22Aug2025 07:07:28.686] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[22Aug2025 07:07:28.686] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[22Aug2025 07:07:28.762] [Server thread/DEBUG] [lain.mods.cos.init.neoforge.NeoForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[22Aug2025 07:07:28.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Aug2025 07:07:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Aug2025 07:07:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Aug2025 07:07:28.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Aug2025 07:07:28.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[22Aug2025 07:07:28.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Aug2025 07:07:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[22Aug2025 07:07:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[22Aug2025 07:07:28.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[22Aug2025 07:07:28.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[22Aug2025 07:07:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[22Aug2025 07:07:28.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[22Aug2025 07:07:28.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[22Aug2025 07:07:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Aug2025 07:07:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[22Aug2025 07:07:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_starlight:starlight
+[22Aug2025 07:07:28.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[22Aug2025 07:07:28.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[22Aug2025 07:07:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[22Aug2025 07:07:28.974] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[22Aug2025 07:07:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[22Aug2025 07:07:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Aug2025 07:07:28.982] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[22Aug2025 07:07:28.982] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[22Aug2025 07:07:29.008] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for deeperdarker:otherside
+[22Aug2025 07:07:29.008] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for deeperdarker:otherside
+[22Aug2025 07:07:29.008] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[22Aug2025 07:07:29.008] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[22Aug2025 07:07:29.009] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_bumblezone:the_bumblezone
+[22Aug2025 07:07:29.009] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_bumblezone:the_bumblezone
+[22Aug2025 07:07:29.009] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[22Aug2025 07:07:29.009] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[22Aug2025 07:07:29.010] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for undergarden:undergarden
+[22Aug2025 07:07:29.010] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for undergarden:undergarden
+[22Aug2025 07:07:29.010] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for iceandfire:dread_land
+[22Aug2025 07:07:29.011] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for iceandfire:dread_land
+[22Aug2025 07:07:29.011] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for compactmachines:compact_world
+[22Aug2025 07:07:29.011] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for compactmachines:compact_world
+[22Aug2025 07:07:29.011] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for allthemodium:the_other
+[22Aug2025 07:07:29.011] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for allthemodium:the_other
+[22Aug2025 07:07:29.012] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for allthemodium:the_beyond
+[22Aug2025 07:07:29.012] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for allthemodium:the_beyond
+[22Aug2025 07:07:29.012] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[22Aug2025 07:07:29.012] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[22Aug2025 07:07:29.043] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for allthemodium:mining
+[22Aug2025 07:07:29.043] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for allthemodium:mining
+[22Aug2025 07:07:29.043] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for eternal_starlight:starlight
+[22Aug2025 07:07:29.044] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for eternal_starlight:starlight
+[22Aug2025 07:07:29.044] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for mahoutsukai:reality_marble
+[22Aug2025 07:07:29.044] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for mahoutsukai:reality_marble
+[22Aug2025 07:07:29.044] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for irons_spellbooks:pocket_dimension_type
+[22Aug2025 07:07:29.044] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for irons_spellbooks:pocket_dimension_type
+[22Aug2025 07:07:29.045] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ae2:spatial_storage
+[22Aug2025 07:07:29.045] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ae2:spatial_storage
+[22Aug2025 07:07:29.047] [Server thread/DEBUG] [com.refinedmods.refinedstorage.common.util.ServerListener/]: Stopping autocrafting pool
+[22Aug2025 07:07:29.049] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Aug2025 07:07:29.050] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/literate-fiesta/servidor_minecraft/config/refurbished_furniture.server.toml
+[22Aug2025 07:07:29.050] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Aug2025 07:07:29.053] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Aug2025 07:07:29.053] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[22Aug2025 07:07:29.055] [Server thread/DEBUG] [FluxNetworks/]: FluxNetworkData has been unloaded
+[22Aug2025 07:07:29.293] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[22Aug2025 07:07:29.299] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

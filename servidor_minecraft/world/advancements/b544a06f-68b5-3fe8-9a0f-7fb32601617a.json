@@ -1259,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-22 06:43:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-08-22 06:04:04 +0000"
@@ -1366,6 +1372,12 @@
   "silentgear:nether": {
     "criteria": {
       "entered_nether": "2025-08-22 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2025-08-22 06:44:27 +0000"
     },
     "done": true
   },
