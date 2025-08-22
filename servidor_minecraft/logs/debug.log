@@ -57851,3 +57851,19 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [22Aug2025 04:02:26.074] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "alltheores:ruby" - querying recipes to get these
 [22Aug2025 04:02:38.075] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "silentgems:turquoise" - querying recipes to get these
 [22Aug2025 04:03:49.522] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_chestplate': 0.0
+[22Aug2025 04:06:33.682] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 04:06:33.729] [Server thread/DEBUG] [pneumaticcraft/]: 32 active Amadron offers to sync to clients
+[22Aug2025 04:06:35.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Aththardawn the Shimmering'/351317, l='ServerLevel[world]', x=-213.29, y=73.00, z=-2063.77] died: Aththardawn the Shimmering was slain by Mob Masher
+[22Aug2025 04:09:37.077] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Pennie the Grand Magistrix'/384888, l='ServerLevel[world]', x=-214.34, y=73.00, z=-2064.60] died: Pennie the Grand Magistrix was slain by Mob Masher
+[22Aug2025 04:11:33.706] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 04:12:11.129] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:chest" - querying recipes to get these
+[22Aug2025 04:12:11.428] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_ingot" - querying recipes to get these
+[22Aug2025 04:12:11.928] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "functionalstorage:oak_1" - querying recipes to get these
+[22Aug2025 04:12:12.130] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:copper_block" - querying recipes to get these
+[22Aug2025 04:13:48.488] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "apotheosis:gem" - querying recipes to get these
+[22Aug2025 04:13:49.158] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "twilightforest:knightmetal_axe" - querying recipes to get these
+[22Aug2025 04:13:49.792] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "irons_jewelry:necklace" - querying recipes to get these
+[22Aug2025 04:13:50.408] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:arrow" - querying recipes to get these
+[22Aug2025 04:13:50.725] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "relics:roller_skates" - querying recipes to get these
+[22Aug2025 04:13:50.981] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "artifacts:whoopee_cushion" - querying recipes to get these
+[22Aug2025 04:13:51.286] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "relics:infinity_ham" - querying recipes to get these
