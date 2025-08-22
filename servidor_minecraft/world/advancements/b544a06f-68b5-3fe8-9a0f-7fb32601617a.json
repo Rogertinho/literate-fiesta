@@ -1250,6 +1250,12 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-08-22 05:06:49 +0000"
+    },
+    "done": true
+  },
   "actuallyadditions:root": {
     "criteria": {
       "right_click": "2025-08-22 04:15:55 +0000"
@@ -1271,6 +1277,12 @@
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2025-08-22 04:41:11 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-08-22 05:06:49 +0000"
     },
     "done": true
   },
