@@ -9382,3 +9382,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [22Aug2025 04:41:11.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Magic Siphoner]
 [22Aug2025 04:45:15.646] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
 [22Aug2025 04:45:15.691] [Server thread/INFO] [naturescompass/]: Search succeeded: 64 radius, 1 samples
+[22Aug2025 04:54:19.226] [Server thread/INFO] [fastsuite/]: Constructed recipe list for mysticalagriculture:infusion in 34.82 μs. 0/188 recipes are parallelized.
