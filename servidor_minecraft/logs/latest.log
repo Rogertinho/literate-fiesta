@@ -9386,3 +9386,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [22Aug2025 05:01:06.433] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Patti'/814214, l='ServerLevel[world]', x=-192.79, y=63.00, z=-1978.70] died: 1$s has perished from holy damage
 [22Aug2025 05:04:36.674] [Server thread/WARN] [Silent Gear/]: Item lost in salvager: 2 minecraft:stick
 [22Aug2025 05:20:29.373] [Server thread/WARN] [Silent Gear/]: Item lost in salvager: 1 minecraft:stick
+[22Aug2025 05:34:31.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=73, z=-2053} BlockPos{x=-212, y=73, z=-2061}

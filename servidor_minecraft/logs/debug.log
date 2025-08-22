@@ -57951,3 +57951,18 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [22Aug2025 05:26:33.715] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [22Aug2025 05:26:33.934] [Server thread/DEBUG] [pneumaticcraft/]: 28 active Amadron offers to sync to clients
 [22Aug2025 05:26:40.774] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_helmet': 0.0
+[22Aug2025 05:26:50.772] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_sword': 0.0
+[22Aug2025 05:27:00.772] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_sword': 0.23
+[22Aug2025 05:27:10.773] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_sword': 0.33
+[22Aug2025 05:28:02.824] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_shovel': 0.359375
+[22Aug2025 05:28:12.851] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_shovel': 0.5
+[22Aug2025 05:28:22.827] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:leather_helmet': 0.2636363636363636
+[22Aug2025 05:28:32.824] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:leather_helmet': 0.41818181818181815
+[22Aug2025 05:28:42.823] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:bow': 0.20572916666666666
+[22Aug2025 05:28:52.825] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_sword': 0.0
+[22Aug2025 05:29:02.823] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_axe': 0.0
+[22Aug2025 05:29:12.823] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_boots': 0.0
+[22Aug2025 05:29:22.823] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_helmet': 0.0
+[22Aug2025 05:31:33.690] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:34:31.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=73, z=-2053} BlockPos{x=-212, y=73, z=-2061}
+[22Aug2025 05:36:33.678] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
