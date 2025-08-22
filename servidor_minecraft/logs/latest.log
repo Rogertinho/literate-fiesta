@@ -9370,3 +9370,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [22Aug2025 03:38:12.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Major Donal the Cheese Sprayer'/82080, l='ServerLevel[world]', x=-213.37, y=73.00, z=-2063.76] died: Major Donal the Cheese Sprayer was slain by Mob Masher
 [22Aug2025 03:38:22.580] [Server thread/WARN] [Silent Gear/]: Item lost in salvager: 1 minecraft:stick
 [22Aug2025 03:51:11.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Mistcree the Crying'/214319, l='ServerLevel[world]', x=-213.37, y=73.00, z=-2063.70] died: Mistcree the Crying was slain by Mob Masher
+[22Aug2025 03:58:47.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Doctor Patricia the Ninja'/292893, l='ServerLevel[world]', x=-214.28, y=73.00, z=-2064.58] died: Doctor Patricia the Ninja was slain by Mob Masher
