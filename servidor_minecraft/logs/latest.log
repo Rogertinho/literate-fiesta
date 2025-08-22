@@ -9403,3 +9403,26 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [22Aug2025 06:04:04.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Not Today, Thank You]
 [22Aug2025 06:04:36.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Strong Undead]
 [22Aug2025 06:04:36.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [World Tier: Summit]
+[22Aug2025 06:07:39.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Eliza the Sage'/1306703, l='ServerLevel[world]', x=-213.29, y=73.94, z=-2064.71] died: Eliza the Sage was slain by Mob Masher
+[22Aug2025 06:10:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Strange Flora]
+[22Aug2025 06:12:14.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [A Terrible Fortress]
+[22Aug2025 06:12:25.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=73, z=-365} BlockPos{x=-6, y=72, z=-364}
+[22Aug2025 06:13:30.305] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.306] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:30.307] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.307] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:30.307] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.308] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:30.308] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.308] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:30.371] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.371] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:32.838] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:32.839] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:32.839] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:32.840] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:32.840] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:32.840] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:15:47.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Rendrunedire the Alien'/1335025, l='ServerLevel[world]', x=-29.65, y=61.00, z=-589.20] died: 1$s has perished from holy damage
+[22Aug2025 06:16:30.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [War Pigs]
+[22Aug2025 06:17:33.346] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1336279, l='ServerLevel[world]', x=304.90, y=31.00, z=-841.00] as it would cause deadlock

@@ -403,9 +403,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-17 04:07:48 +0000",
+      "minecraft:blaze": "2025-08-22 06:12:29 +0000",
       "minecraft:skeleton": "2025-08-17 05:32:34 +0000",
       "minecraft:phantom": "2025-08-21 19:45:15 +0000",
       "minecraft:witch": "2025-08-20 02:55:45 +0000",
+      "minecraft:wither_skeleton": "2025-08-22 06:12:42 +0000",
       "minecraft:husk": "2025-08-17 03:36:09 +0000",
       "minecraft:bogged": "2025-08-17 07:16:05 +0000",
       "minecraft:hoglin": "2025-08-22 05:53:59 +0000",
@@ -1260,6 +1262,20 @@
     },
     "done": true
   },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2025-08-22 06:09:58 +0000",
+      "sapling": "2025-08-22 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-22 06:14:07 +0000",
+      "minecraft:basalt_deltas": "2025-08-22 06:12:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-08-22 05:53:15 +0000"
@@ -1271,6 +1287,12 @@
       "armor": "2025-08-22 05:06:49 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2025-08-22 06:09:36 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
@@ -1329,6 +1351,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-08-22 06:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-08-22 06:12:14 +0000"
     },
     "done": true
   },

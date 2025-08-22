@@ -58040,3 +58040,70 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [22Aug2025 06:04:36.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [World Tier: Summit]
 [22Aug2025 06:06:40.099] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [22Aug2025 06:06:40.427] [Server thread/DEBUG] [pneumaticcraft/]: 28 active Amadron offers to sync to clients
+[22Aug2025 06:07:39.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Eliza the Sage'/1306703, l='ServerLevel[world]', x=-213.29, y=73.94, z=-2064.71] died: Eliza the Sage was slain by Mob Masher
+[22Aug2025 06:08:59.383] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[22Aug2025 06:08:59.384] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[22Aug2025 06:08:59.411] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-178, y=76, z=-2076} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[22Aug2025 06:08:59.488] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[22Aug2025 06:08:59.488] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[22Aug2025 06:08:59.502] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-178, y=76, z=-2077} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[22Aug2025 06:09:08.112] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 06:09:12.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 06:09:49.193] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:10:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Strange Flora]
+[22Aug2025 06:10:14.254] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:10:18.494] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 06:10:38.590] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 06:10:42.959] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:11:26.892] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 06:11:40.139] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 06:12:01.784] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:12:06.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:12:14.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [A Terrible Fortress]
+[22Aug2025 06:12:14.734] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:12:25.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=73, z=-365} BlockPos{x=-6, y=72, z=-364}
+[22Aug2025 06:12:29.695] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:12:48.145] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:12:59.017] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=122, y=74, z=-776} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:12:59.164] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=212, y=78, z=-784} Block{productivebees:nether_quartz_nest}[facing=west]
+[22Aug2025 06:13:03.344] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:13:05.996] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:13:26.935] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=22, y=60, z=-793} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:13:27.546] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=197, y=100, z=-789} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:13:27.573] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=209, y=58, z=-796} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:13:28.276] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1, y=98, z=-816} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:13:29.032] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=152, y=74, z=-814} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:13:29.123] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=197, y=70, z=-807} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:13:30.305] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.306] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:30.307] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.307] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:30.307] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.308] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:30.308] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.308] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:30.371] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:30.371] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:32.838] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:32.839] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:32.839] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:32.840] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:32.840] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Aug2025 06:13:32.840] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Aug2025 06:13:33.003] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=203, y=90, z=-841} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:13:56.343] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:14:19.803] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=187, y=48, z=-858} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:14:19.968] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-108, y=26, z=-864} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:14:24.318] [Worker-Main-5/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=226, y=30, z=-873} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:14:24.650] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=69, y=68, z=-875} Block{productivebees:nether_quartz_nest}[facing=north]
+[22Aug2025 06:15:47.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Rendrunedire the Alien'/1335025, l='ServerLevel[world]', x=-29.65, y=61.00, z=-589.20] died: 1$s has perished from holy damage
+[22Aug2025 06:15:47.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:15:47.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:15:47.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:15:57.640] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:16:03.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Aug2025 06:16:30.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [War Pigs]
+[22Aug2025 06:16:30.094] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Aug2025 06:16:40.163] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 06:17:17.984] [Worker-Main-6/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=307, y=70, z=-792} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 06:17:33.346] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1336279, l='ServerLevel[world]', x=304.90, y=31.00, z=-841.00] as it would cause deadlock

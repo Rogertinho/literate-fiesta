@@ -421,6 +421,7 @@
       "minecraft:bogged": "2025-08-18 04:54:34 +0000",
       "minecraft:hoglin": "2025-08-19 04:36:46 +0000",
       "minecraft:cave_spider": "2025-08-20 04:23:18 +0000",
+      "minecraft:piglin": "2025-08-22 06:14:58 +0000",
       "minecraft:vindicator": "2025-08-21 02:28:57 +0000",
       "minecraft:breeze": "2025-08-22 03:32:15 +0000",
       "minecraft:silverfish": "2025-08-18 01:32:40 +0000",
@@ -428,6 +429,7 @@
       "minecraft:enderman": "2025-08-19 04:37:04 +0000",
       "minecraft:magma_cube": "2025-08-18 01:34:18 +0000",
       "minecraft:spider": "2025-08-17 06:51:52 +0000",
+      "minecraft:piglin_brute": "2025-08-22 06:14:51 +0000",
       "minecraft:vex": "2025-08-21 03:33:34 +0000",
       "minecraft:zombie": "2025-08-17 04:54:30 +0000",
       "minecraft:drowned": "2025-08-18 01:43:10 +0000",
@@ -1353,6 +1355,12 @@
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-08-22 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-08-22 06:16:30 +0000"
     },
     "done": true
   },
