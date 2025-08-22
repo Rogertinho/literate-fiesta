@@ -57921,3 +57921,33 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [22Aug2025 05:09:34.774] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_helmet': 0.487012987012987
 [22Aug2025 05:09:44.782] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_shovel': 0.42
 [22Aug2025 05:11:33.699] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:16:33.724] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:17:29.775] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_shovel': 0.474
+[22Aug2025 05:17:39.773] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_sword': 0.0
+[22Aug2025 05:17:49.775] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_boots': 0.0
+[22Aug2025 05:18:49.374] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_sword': 0.0
+[22Aug2025 05:18:59.376] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:leather_leggings': 0.5
+[22Aug2025 05:19:09.374] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:leather_leggings': 0.4666666666666667
+[22Aug2025 05:19:19.381] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_chestplate': 0.0
+[22Aug2025 05:19:29.373] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_leggings': 0.0
+[22Aug2025 05:19:39.374] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_shovel': 0.0
+[22Aug2025 05:19:49.373] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_shovel': 0.0
+[22Aug2025 05:19:59.373] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_helmet': 0.0
+[22Aug2025 05:20:09.373] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_helmet': 0.0
+[22Aug2025 05:20:19.373] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_boots': 0.0
+[22Aug2025 05:20:29.373] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_sword': 0.0
+[22Aug2025 05:20:29.373] [Server thread/WARN] [Silent Gear/]: Item lost in salvager: 1 minecraft:stick
+[22Aug2025 05:21:33.690] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:25:00.774] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_axe': 0.5
+[22Aug2025 05:25:10.775] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.43956043956043955
+[22Aug2025 05:25:20.773] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.37362637362637363
+[22Aug2025 05:25:30.773] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.4945054945054945
+[22Aug2025 05:25:40.772] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.36813186813186816
+[22Aug2025 05:25:50.773] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.46875
+[22Aug2025 05:26:00.773] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.45982142857142855
+[22Aug2025 05:26:10.775] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_helmet': 0.45454545454545453
+[22Aug2025 05:26:20.773] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_helmet': 0.44155844155844154
+[22Aug2025 05:26:30.774] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_boots': 0.0
+[22Aug2025 05:26:33.715] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:26:33.934] [Server thread/DEBUG] [pneumaticcraft/]: 28 active Amadron offers to sync to clients
+[22Aug2025 05:26:40.774] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_helmet': 0.0
