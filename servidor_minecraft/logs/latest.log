@@ -9373,3 +9373,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [22Aug2025 03:58:47.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Doctor Patricia the Ninja'/292893, l='ServerLevel[world]', x=-214.28, y=73.00, z=-2064.58] died: Doctor Patricia the Ninja was slain by Mob Masher
 [22Aug2025 04:06:35.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Aththardawn the Shimmering'/351317, l='ServerLevel[world]', x=-213.29, y=73.00, z=-2063.77] died: Aththardawn the Shimmering was slain by Mob Masher
 [22Aug2025 04:09:37.077] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Pennie the Grand Magistrix'/384888, l='ServerLevel[world]', x=-214.34, y=73.00, z=-2064.60] died: Pennie the Grand Magistrix was slain by Mob Masher
+[22Aug2025 04:15:55.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Knowledge Bringer!]
+[22Aug2025 04:17:27.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Bzzzzrrrrt]
+[22Aug2025 04:18:03.872] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 196.1 μs. 581/585 recipes are parallelized.
+[22Aug2025 04:18:26.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Bone Crusher]

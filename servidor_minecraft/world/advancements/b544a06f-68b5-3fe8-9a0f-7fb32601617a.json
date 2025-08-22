@@ -1250,5 +1250,23 @@
     },
     "done": true
   },
+  "actuallyadditions:root": {
+    "criteria": {
+      "right_click": "2025-08-22 04:15:55 +0000"
+    },
+    "done": true
+  },
+  "actuallyadditions:craft_reconstructor": {
+    "criteria": {
+      "atomic_reconstructor": "2025-08-22 04:17:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-08-22 04:18:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
