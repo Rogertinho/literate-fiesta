@@ -9426,3 +9426,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [22Aug2025 06:15:47.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Rendrunedire the Alien'/1335025, l='ServerLevel[world]', x=-29.65, y=61.00, z=-589.20] died: 1$s has perished from holy damage
 [22Aug2025 06:16:30.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [War Pigs]
 [22Aug2025 06:17:33.346] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1336279, l='ServerLevel[world]', x=304.90, y=31.00, z=-841.00] as it would cause deadlock
+[22Aug2025 06:19:24.646] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[22Aug2025 06:19:32.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[22Aug2025 06:21:05.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [War Pigs]
+[22Aug2025 06:24:16.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Blaze Gold]

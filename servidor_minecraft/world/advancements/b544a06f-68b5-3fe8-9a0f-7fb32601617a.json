@@ -405,26 +405,29 @@
       "minecraft:pillager": "2025-08-17 04:07:48 +0000",
       "minecraft:blaze": "2025-08-22 06:12:29 +0000",
       "minecraft:skeleton": "2025-08-17 05:32:34 +0000",
+      "minecraft:bogged": "2025-08-17 07:16:05 +0000",
+      "minecraft:hoglin": "2025-08-22 05:53:59 +0000",
+      "minecraft:vindicator": "2025-08-21 03:31:25 +0000",
+      "minecraft:magma_cube": "2025-08-18 01:34:34 +0000",
+      "minecraft:spider": "2025-08-17 03:37:42 +0000",
+      "minecraft:piglin_brute": "2025-08-22 06:17:08 +0000",
+      "minecraft:creeper": "2025-08-21 03:11:30 +0000",
+      "minecraft:wither": "2025-08-22 06:04:36 +0000",
+      "minecraft:slime": "2025-08-21 02:32:33 +0000",
       "minecraft:phantom": "2025-08-21 19:45:15 +0000",
+      "minecraft:zombified_piglin": "2025-08-22 06:20:23 +0000",
       "minecraft:witch": "2025-08-20 02:55:45 +0000",
       "minecraft:wither_skeleton": "2025-08-22 06:12:42 +0000",
       "minecraft:husk": "2025-08-17 03:36:09 +0000",
-      "minecraft:bogged": "2025-08-17 07:16:05 +0000",
-      "minecraft:hoglin": "2025-08-22 05:53:59 +0000",
       "minecraft:cave_spider": "2025-08-21 02:58:44 +0000",
-      "minecraft:vindicator": "2025-08-21 03:31:25 +0000",
+      "minecraft:piglin": "2025-08-22 06:17:34 +0000",
       "minecraft:enderman": "2025-08-17 05:58:30 +0000",
       "minecraft:silverfish": "2025-08-18 01:32:49 +0000",
       "minecraft:stray": "2025-08-18 01:23:44 +0000",
-      "minecraft:magma_cube": "2025-08-18 01:34:34 +0000",
-      "minecraft:spider": "2025-08-17 03:37:42 +0000",
       "minecraft:vex": "2025-08-21 03:33:46 +0000",
       "minecraft:zombie": "2025-08-18 01:27:04 +0000",
-      "minecraft:creeper": "2025-08-21 03:11:30 +0000",
       "minecraft:drowned": "2025-08-18 03:07:35 +0000",
-      "minecraft:wither": "2025-08-22 06:04:36 +0000",
-      "minecraft:zombie_villager": "2025-08-17 07:13:09 +0000",
-      "minecraft:slime": "2025-08-21 02:32:33 +0000"
+      "minecraft:zombie_villager": "2025-08-17 07:13:09 +0000"
     },
     "done": false
   },
@@ -1318,6 +1321,12 @@
     },
     "done": true
   },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-08-22 06:24:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-08-22 05:53:15 +0000"
@@ -1333,6 +1342,12 @@
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2025-08-22 04:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-08-22 06:21:05 +0000"
     },
     "done": true
   },
