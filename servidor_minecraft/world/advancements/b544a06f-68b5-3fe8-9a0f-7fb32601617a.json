@@ -292,6 +292,7 @@
       "baobab_savanna": "2025-08-17 03:26:02 +0000",
       "grassy_beach": "2025-08-17 05:05:22 +0000",
       "boreal_forest": "2025-08-20 06:26:55 +0000",
+      "glistering_meadow": "2025-08-22 05:53:17 +0000",
       "rocky_meadow": "2025-08-17 05:00:09 +0000",
       "blackwood_taiga": "2025-08-18 02:19:59 +0000",
       "pine_taiga": "2025-08-18 02:19:57 +0000",
@@ -407,6 +408,7 @@
       "minecraft:witch": "2025-08-20 02:55:45 +0000",
       "minecraft:husk": "2025-08-17 03:36:09 +0000",
       "minecraft:bogged": "2025-08-17 07:16:05 +0000",
+      "minecraft:hoglin": "2025-08-22 05:53:59 +0000",
       "minecraft:cave_spider": "2025-08-21 02:58:44 +0000",
       "minecraft:vindicator": "2025-08-21 03:31:25 +0000",
       "minecraft:enderman": "2025-08-17 05:58:30 +0000",
@@ -418,6 +420,7 @@
       "minecraft:zombie": "2025-08-18 01:27:04 +0000",
       "minecraft:creeper": "2025-08-21 03:11:30 +0000",
       "minecraft:drowned": "2025-08-18 03:07:35 +0000",
+      "minecraft:wither": "2025-08-22 06:04:36 +0000",
       "minecraft:zombie_villager": "2025-08-17 07:13:09 +0000",
       "minecraft:slime": "2025-08-21 02:32:33 +0000"
     },
@@ -897,13 +900,14 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
+      "kill_wither": "2025-08-22 06:04:36 +0000",
       "rare_legs": "2025-08-18 05:04:54 +0000",
       "rare_hand": "2025-08-18 04:56:21 +0000",
       "rare_chest": "2025-08-19 05:52:02 +0000",
       "rare_helm": "2025-08-19 05:56:54 +0000",
       "rare_feet": "2025-08-19 04:38:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:main/root": {
     "criteria": {
@@ -1250,11 +1254,29 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-22 06:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-22 05:53:15 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2025-08-22 05:06:49 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "glistering_meadow": "2025-08-22 05:53:17 +0000"
+    },
+    "done": false
   },
   "actuallyadditions:root": {
     "criteria": {
@@ -1262,9 +1284,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-08-22 06:04:36 +0000"
+    },
+    "done": true
+  },
   "actuallyadditions:craft_reconstructor": {
     "criteria": {
       "atomic_reconstructor": "2025-08-22 04:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-22 05:53:15 +0000"
     },
     "done": true
   },
@@ -1283,6 +1317,18 @@
   "mekanismtools:better_than_netherite": {
     "criteria": {
       "armor": "2025-08-22 05:06:49 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-08-22 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-22 06:01:31 +0000"
     },
     "done": true
   },

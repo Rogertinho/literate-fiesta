@@ -57966,3 +57966,77 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [22Aug2025 05:31:33.690] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [22Aug2025 05:34:31.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=73, z=-2053} BlockPos{x=-212, y=73, z=-2061}
 [22Aug2025 05:36:33.678] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:41:33.686] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:44:00.501] [Server thread/DEBUG] [FTB Chunks/]: LuLo7 tried to unclaim @ minecraft:overworld:-12:-133 but got result NOT_CLAIMED
+[22Aug2025 05:44:02.326] [Server thread/DEBUG] [FTB Chunks/]: LuLo7 tried to claim @ minecraft:overworld:-12:-133 but got result ALREADY_CLAIMED
+[22Aug2025 05:44:12.737] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-12,-133), load=true, success=true
+[22Aug2025 05:44:12.738] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-14,-132), load=true, success=true
+[22Aug2025 05:44:12.739] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-14,-133), load=true, success=true
+[22Aug2025 05:44:12.740] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-13,-132), load=true, success=true
+[22Aug2025 05:44:12.740] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-13,-133), load=true, success=true
+[22Aug2025 05:44:12.741] [Server thread/DEBUG] [FTB Chunks/]: force chunk (neoforge): id=ftbchunks:default owner=eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a, c=(-12,-132), load=true, success=true
+[22Aug2025 05:46:21.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Slayver the Cracked'/1192354, l='ServerLevel[world]', x=-214.26, y=73.00, z=-2064.66] died: Slayver the Cracked was slain by Mob Masher
+[22Aug2025 05:46:33.697] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:46:33.977] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[22Aug2025 05:51:33.681] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:52:33.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Eddie the Cookie Enthusiast'/1226903, l='ServerLevel[world]', x=-213.46, y=73.94, z=-2064.47] died: Eddie the Cookie Enthusiast was slain by Mob Masher
+[22Aug2025 05:52:57.189] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Aug2025 05:52:57.523] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[22Aug2025 05:52:57.618] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-178, y=76, z=-2077} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[22Aug2025 05:52:59.036] [Worker-Main-5/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[22Aug2025 05:52:59.036] [Worker-Main-5/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[22Aug2025 05:53:00.387] [Worker-Main-4/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Aug2025 05:53:00.387] [Worker-Main-4/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[22Aug2025 05:53:00.394] [Worker-Main-4/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Aug2025 05:53:00.394] [Worker-Main-4/DEBUG] [mixin/]: yungsapi.mixins.json:accessor.BeardifierAccessor from mod yungsapi: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[22Aug2025 05:53:00.394] [Worker-Main-4/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Aug2025 05:53:00.395] [Worker-Main-4/DEBUG] [mixin/]: cataclysm.mixins.json:accessor.BeardifierAccessor from mod cataclysm: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[22Aug2025 05:53:00.395] [Worker-Main-4/DEBUG] [mixin/]: Mixing BeardifierMixin from irons_spellbooks.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Aug2025 05:53:00.398] [Worker-Main-4/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.neoforge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Aug2025 05:53:00.398] [Worker-Main-4/DEBUG] [mixin/]: lithostitched.neoforge.mixins.json:common.BeardifierMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[22Aug2025 05:53:00.414] [Worker-Main-4/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_supportCustomTerrainAdaptations(Lnet/minecraft/world/level/StructureManager;Lnet/minecraft/world/level/ChunkPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[22Aug2025 05:53:00.414] [Worker-Main-4/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_calculateDensity(Lnet/minecraft/world/level/levelgen/DensityFunction$FunctionContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[22Aug2025 05:53:00.414] [Worker-Main-4/DEBUG] [mixin/]: irons_spellbooks.mixins.json:BeardifierMixin from mod irons_spellbooks->@Inject::irons_spellbooks$injectCustomTerrainAdaptation(Lnet/minecraft/world/level/ChunkPos;Lit/unimi/dsi/fastutil/objects/ObjectList;IILit/unimi/dsi/fastutil/objects/ObjectList;Lnet/minecraft/world/level/levelgen/structure/StructureStart;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[22Aug2025 05:53:00.415] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[22Aug2025 05:53:00.415] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[22Aug2025 05:53:03.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6421ms or 128 ticks behind
+[22Aug2025 05:53:15.843] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Aug2025 05:53:15.844] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[22Aug2025 05:53:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [We Need to Go Deeper]
+[22Aug2025 05:53:15.877] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-178, y=76, z=-2077} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[22Aug2025 05:53:17.215] [Worker-Main-4/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=9, y=16, z=-1995} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Aug2025 05:53:44.212] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:53:45.177] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:53:51.516] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:53:59.499] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:54:01.832] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:54:07.562] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:54:59.697] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:55:06.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:55:56.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[22Aug2025 05:55:56.525] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rogerto was created at position [x:35, y:50, z:-308, dim:minecraft:the_nether]
+[22Aug2025 05:55:56.531] [Server thread/INFO] [tombstone/]: The player Rogerto has successfully been saved
+[22Aug2025 05:56:01.512] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onPlayerCloned: copy data: client: false
+[22Aug2025 05:56:01.525] [Server thread/DEBUG] [twilightforest/]: Player Rogerto (b544a06f-68b5-3fe8-9a0f-7fb32601617a) respawned and received items held in storage
+[22Aug2025 05:56:25.383] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Aug2025 05:56:25.384] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[22Aug2025 05:56:25.408] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-178, y=76, z=-2076} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[22Aug2025 05:56:40.121] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 05:58:22.183] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:58:26.680] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[22Aug2025 05:58:44.928] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[22Aug2025 05:58:44.928] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[22Aug2025 05:58:44.958] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-27, y=70, z=-262} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[22Aug2025 05:58:46.808] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[22Aug2025 05:58:46.808] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[22Aug2025 05:58:46.826] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-27, y=70, z=-262} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[22Aug2025 06:01:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Withering Heights]
+[22Aug2025 06:01:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Withering Heights]
+[22Aug2025 06:01:40.120] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 06:02:10.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has reached the goal [Strong Undead]
+[22Aug2025 06:02:10.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has reached the goal [World Tier: Summit]
+[22Aug2025 06:04:04.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Not Today, Thank You]
+[22Aug2025 06:04:36.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Strong Undead]
+[22Aug2025 06:04:36.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [World Tier: Summit]
+[22Aug2025 06:06:40.099] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 06:06:40.427] [Server thread/DEBUG] [pneumaticcraft/]: 28 active Amadron offers to sync to clients

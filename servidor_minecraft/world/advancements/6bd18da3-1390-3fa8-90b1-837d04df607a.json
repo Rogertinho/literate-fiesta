@@ -431,6 +431,7 @@
       "minecraft:vex": "2025-08-21 03:33:34 +0000",
       "minecraft:zombie": "2025-08-17 04:54:30 +0000",
       "minecraft:drowned": "2025-08-18 01:43:10 +0000",
+      "minecraft:wither": "2025-08-22 06:02:10 +0000",
       "minecraft:zombie_villager": "2025-08-18 03:24:11 +0000",
       "minecraft:evoker": "2025-08-21 03:33:09 +0000"
     },
@@ -664,13 +665,14 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
+      "kill_wither": "2025-08-22 06:02:10 +0000",
       "rare_hand": "2025-08-18 01:31:14 +0000",
       "rare_chest": "2025-08-19 05:51:19 +0000",
       "rare_legs": "2025-08-19 05:51:20 +0000",
       "rare_helm": "2025-08-17 05:34:35 +0000",
       "rare_feet": "2025-08-19 05:51:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "evilcraft:evil_source": {
     "criteria": {
@@ -1345,6 +1347,18 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-08-22 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-08-22 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-22 06:01:31 +0000"
     },
     "done": true
   },

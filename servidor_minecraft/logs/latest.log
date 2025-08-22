@@ -9387,3 +9387,19 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [22Aug2025 05:04:36.674] [Server thread/WARN] [Silent Gear/]: Item lost in salvager: 2 minecraft:stick
 [22Aug2025 05:20:29.373] [Server thread/WARN] [Silent Gear/]: Item lost in salvager: 1 minecraft:stick
 [22Aug2025 05:34:31.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=73, z=-2053} BlockPos{x=-212, y=73, z=-2061}
+[22Aug2025 05:46:21.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Slayver the Cracked'/1192354, l='ServerLevel[world]', x=-214.26, y=73.00, z=-2064.66] died: Slayver the Cracked was slain by Mob Masher
+[22Aug2025 05:52:33.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Eddie the Cookie Enthusiast'/1226903, l='ServerLevel[world]', x=-213.46, y=73.94, z=-2064.47] died: Eddie the Cookie Enthusiast was slain by Mob Masher
+[22Aug2025 05:52:57.189] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Aug2025 05:53:03.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6421ms or 128 ticks behind
+[22Aug2025 05:53:15.843] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Aug2025 05:53:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [We Need to Go Deeper]
+[22Aug2025 05:55:56.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[22Aug2025 05:55:56.531] [Server thread/INFO] [tombstone/]: The player Rogerto has successfully been saved
+[22Aug2025 05:56:25.383] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Aug2025 06:01:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Withering Heights]
+[22Aug2025 06:01:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Withering Heights]
+[22Aug2025 06:02:10.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has reached the goal [Strong Undead]
+[22Aug2025 06:02:10.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has reached the goal [World Tier: Summit]
+[22Aug2025 06:04:04.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Not Today, Thank You]
+[22Aug2025 06:04:36.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Strong Undead]
+[22Aug2025 06:04:36.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [World Tier: Summit]
