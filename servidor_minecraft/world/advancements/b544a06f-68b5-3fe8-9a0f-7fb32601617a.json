@@ -1309,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-22 06:32:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-08-22 06:04:36 +0000"
@@ -1366,6 +1372,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-08-22 06:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/overenchanted": {
+    "criteria": {
+      "got_overenchanted": "2025-08-22 06:36:25 +0000"
     },
     "done": true
   },

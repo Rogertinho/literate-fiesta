@@ -9430,3 +9430,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [22Aug2025 06:19:32.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [22Aug2025 06:21:05.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [War Pigs]
 [22Aug2025 06:24:16.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Blaze Gold]
+[22Aug2025 06:30:38.119] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:obsidian_skull' on spawned entity 'ZombifiedPiglin['Zombified Piglin'/1349186, l='ServerLevel[world]', x=-3.50, y=94.00, z=-601.50]'
+[22Aug2025 06:32:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Hidden in the Depths]
+[22Aug2025 06:35:17.056] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[22Aug2025 06:36:25.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has completed the challenge [Arcane Engineer]
