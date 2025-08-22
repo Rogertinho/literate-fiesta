@@ -57875,3 +57875,13 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [22Aug2025 04:21:33.699] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [22Aug2025 04:22:29.686] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph-compatibility.neoforge.mixins.json into dev.shadowsoffire.fastbench.util.FastBenchUtil
 [22Aug2025 04:22:29.686] [Server thread/DEBUG] [mixin/]: polymorph-compatibility.neoforge.mixins.json:fastbench.MixinFastBenchUtil from mod polymorph: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[22Aug2025 04:26:17.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Madam Gina the Happiness Advocate'/515275, l='ServerLevel[world]', x=-214.33, y=73.00, z=-2064.61] died: Madam Gina the Happiness Advocate was slain by Mob Masher
+[22Aug2025 04:26:33.694] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 04:26:33.780] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
+[22Aug2025 04:31:33.706] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 04:36:33.695] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 04:40:07.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Paul the Ninja'/637253, l='ServerLevel[world]', x=-213.26, y=73.00, z=-2063.80] died: Paul the Ninja was slain by Mob Masher
+[22Aug2025 04:41:11.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has reached the goal [Magic Siphoner]
+[22Aug2025 04:41:33.699] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Aug2025 04:45:15.646] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[22Aug2025 04:45:15.691] [Server thread/INFO] [naturescompass/]: Search succeeded: 64 radius, 1 samples
