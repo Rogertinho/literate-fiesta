@@ -1388,6 +1388,12 @@
     },
     "done": true
   },
+  "naturesaura:wood_stand": {
+    "criteria": {
+      "stand": "2025-08-24 04:37:48 +0000"
+    },
+    "done": true
+  },
   "naturesaura:root": {
     "criteria": {
       "book": "2025-08-24 04:22:33 +0000"
@@ -1397,6 +1403,12 @@
   "mekanismgenerators:wind_generator": {
     "criteria": {
       "wind_generator": "2025-08-24 03:40:27 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:gold_leaf": {
+    "criteria": {
+      "leaf": "2025-08-24 04:36:13 +0000"
     },
     "done": true
   },

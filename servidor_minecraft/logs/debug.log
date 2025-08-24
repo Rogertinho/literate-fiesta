@@ -57727,3 +57727,9 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [24Aug2025 04:26:48.593] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidSingle(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
 [24Aug2025 04:26:48.594] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidMulti(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
 [24Aug2025 04:30:05.697] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:35:05.689] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:35:05.892] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
+[24Aug2025 04:36:13.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Time = Brilliance]
+[24Aug2025 04:37:48.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Powers of the Forest]
+[24Aug2025 04:40:05.706] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:40:53.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Squidsondire the Lame'/763334, l='ServerLevel[world]', x=-213.33, y=73.00, z=-2063.73] died: Squidsondire the Lame was slain by Mob Masher

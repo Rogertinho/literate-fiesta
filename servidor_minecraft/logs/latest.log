@@ -9373,3 +9373,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [24Aug2025 03:52:54.235] [Server thread/INFO] [fastsuite/]: Constructed recipe list for silentgear:salvaging in 61.26 μs. 0/106 recipes are parallelized.
 [24Aug2025 04:12:07.937] [Server thread/INFO] [fastsuite/]: Constructed recipe list for productivebees:centrifuge in 52.06 μs. 0/200 recipes are parallelized.
 [24Aug2025 04:22:33.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Pages of Discovery]
+[24Aug2025 04:36:13.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Time = Brilliance]
+[24Aug2025 04:37:48.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Powers of the Forest]
+[24Aug2025 04:40:53.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Squidsondire the Lame'/763334, l='ServerLevel[world]', x=-213.33, y=73.00, z=-2063.73] died: Squidsondire the Lame was slain by Mob Masher
