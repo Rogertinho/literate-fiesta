@@ -57762,3 +57762,63 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [24Aug2025 04:58:31.426] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
 [24Aug2025 05:00:11.593] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [24Aug2025 05:05:11.606] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 05:07:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Time = Brilliance]
+[24Aug2025 05:07:31.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Pages of Discovery]
+[24Aug2025 05:10:11.618] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 05:12:21.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
+[24Aug2025 05:15:17.030] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 05:15:17.292] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[24Aug2025 05:16:57.236] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:diamond_leggings': 0.0
+[24Aug2025 05:17:57.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [The Chaos of Hell]
+[24Aug2025 05:18:28.240] [Worker-Main-15/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=634, y=108, z=-1758} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[24Aug2025 05:18:31.267] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=570, y=94, z=-1677} Block{productivebees:bumble_bee_nest}[facing=up]
+[24Aug2025 05:18:34.754] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=654, y=68, z=-1777} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[24Aug2025 05:18:34.754] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=653, y=68, z=-1792} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[24Aug2025 05:18:45.679] [Worker-Main-15/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=524, y=110, z=-1623} Block{productivebees:bumble_bee_nest}[facing=up]
+[24Aug2025 05:19:08.136] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=545, y=68, z=-1541} Block{productivebees:bumble_bee_nest}[facing=south]
+[24Aug2025 05:19:08.137] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=554, y=73, z=-1543} Block{productivebees:stone_nest}[facing=up]
+[24Aug2025 05:19:10.994] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=619, y=65, z=-1527} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[24Aug2025 05:19:14.898] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=613, y=66, z=-1484} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[24Aug2025 05:19:24.423] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:19:24.425] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:19:24.425] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:20:17.145] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 05:21:14.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Local Brewery]
+[24Aug2025 05:21:29.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Breeze['Pigvan the Coffee Addict'/1149921, l='ServerLevel[world]', x=-213.60, y=73.00, z=-2063.46] died: Pigvan the Coffee Addict was slain by Mob Masher
+[24Aug2025 05:25:04.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Darko the Gorilla Slaughterer'/1173929, l='ServerLevel[world]', x=-214.20, y=73.00, z=-2064.65] died: Darko the Gorilla Slaughterer was slain by Mob Masher
+[24Aug2025 05:25:17.014] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 05:25:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Chaos of Hell]
+[24Aug2025 05:26:21.757] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Aug2025 05:26:21.757] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[24Aug2025 05:26:21.797] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-178, y=76, z=-2076} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Aug2025 05:27:54.110] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1193359, l='ServerLevel[world]', x=264.00, y=31.00, z=101.00] as it would cause deadlock
+[24Aug2025 05:28:02.901] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=321, y=14, z=145} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 05:28:32.334] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Habswift the Burger Chef'/1197857, l='ServerLevel[world]', x=-214.20, y=73.00, z=-2064.73] died: Habswift the Burger Chef was slain by Mob Masher
+[24Aug2025 05:29:08.868] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=424, y=44, z=-606} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 05:29:09.231] [Worker-Main-15/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=429, y=36, z=-233} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 05:29:31.773] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=452, y=40, z=-599} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 05:29:39.244] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:29:39.245] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:29:40.099] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=467, y=74, z=-351} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 05:30:17.038] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 05:30:54.626] [Worker-Main-15/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=419, y=80, z=-831} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 05:31:24.599] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[24Aug2025 05:31:53.024] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=483, y=73, z=-389} Block{productivebees:nether_brick_nest}[facing=north]
+[24Aug2025 05:31:53.381] [Worker-Main-15/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=493, y=72, z=-534} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 05:32:00.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Captain Apha the Grand Magistrix'/1222719, l='ServerLevel[world]', x=-213.35, y=73.00, z=-2063.63] died: Captain Apha the Grand Magistrix was slain by Mob Masher
+[24Aug2025 05:32:05.997] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[24Aug2025 05:32:48.062] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=503, y=57, z=-443} Block{productivebees:nether_brick_nest}[facing=north]
+[24Aug2025 05:33:02.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Richard the Hungry'/1212216, l='ServerLevel[world]', x=196.00, y=102.00, z=-521.46] died: Richard the Hungry was killed by magic while trying to escape Rogerto
+[24Aug2025 05:33:23.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=97, z=-544} BlockPos{x=190, y=102, z=-526}
+[24Aug2025 05:35:02.660] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:02.662] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:02.671] [Worker-Main-15/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=512, y=55, z=-410} Block{productivebees:nether_brick_nest}[facing=south]
+[24Aug2025 05:35:02.686] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:02.997] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:02.997] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:03.113] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=510, y=68, z=-308} Block{productivebees:nether_brick_nest}[facing=north]
+[24Aug2025 05:35:03.311] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=525, y=82, z=-570} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 05:35:03.586] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=513, y=46, z=-276} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 05:35:09.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Thomas the Knight'/1244553, l='ServerLevel[world]', x=-213.32, y=73.94, z=-2064.68] died: Thomas the Knight was slain by Mob Masher
+[24Aug2025 05:35:17.023] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 05:35:17.429] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients

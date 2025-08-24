@@ -295,6 +295,7 @@
       "glistering_meadow": "2025-08-22 05:53:17 +0000",
       "rocky_meadow": "2025-08-17 05:00:09 +0000",
       "blackwood_taiga": "2025-08-18 02:19:59 +0000",
+      "mycotoxic_undergrowth": "2025-08-24 05:35:01 +0000",
       "pine_taiga": "2025-08-18 02:19:57 +0000",
       "flower_fields": "2025-08-21 05:24:08 +0000",
       "highland_fields": "2025-08-18 02:19:39 +0000",
@@ -406,6 +407,7 @@
       "minecraft:blaze": "2025-08-22 06:12:29 +0000",
       "minecraft:skeleton": "2025-08-17 05:32:34 +0000",
       "minecraft:bogged": "2025-08-17 07:16:05 +0000",
+      "minecraft:ghast": "2025-08-24 05:27:33 +0000",
       "minecraft:hoglin": "2025-08-22 05:53:59 +0000",
       "minecraft:vindicator": "2025-08-21 03:31:25 +0000",
       "minecraft:magma_cube": "2025-08-18 01:34:34 +0000",
@@ -1316,6 +1318,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2025-08-24 05:35:01 +0000",
       "glistering_meadow": "2025-08-22 05:53:17 +0000"
     },
     "done": false
@@ -1400,9 +1403,39 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-24 05:21:14 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:get_book": {
+    "criteria": {
+      "book": "2025-08-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-08-24 05:17:57 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:loved_by_piglins": {
     "criteria": {
       "armor": "2025-08-24 03:53:34 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:root": {
+    "criteria": {
+      "book": "2025-08-24 05:07:31 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:gold_leaf": {
+    "criteria": {
+      "leaf": "2025-08-24 05:07:28 +0000"
     },
     "done": true
   },

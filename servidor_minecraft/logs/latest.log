@@ -9381,3 +9381,27 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [24Aug2025 04:48:35.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
 [24Aug2025 04:52:11.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
 [24Aug2025 04:57:34.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Grabor'/899202, l='ServerLevel[world]', x=-213.39, y=73.00, z=-2063.66] died: Grabor was slain by Mob Masher
+[24Aug2025 05:07:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Time = Brilliance]
+[24Aug2025 05:07:31.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Pages of Discovery]
+[24Aug2025 05:12:21.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
+[24Aug2025 05:17:57.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [The Chaos of Hell]
+[24Aug2025 05:19:24.423] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:19:24.425] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:19:24.425] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:21:14.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Local Brewery]
+[24Aug2025 05:21:29.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Breeze['Pigvan the Coffee Addict'/1149921, l='ServerLevel[world]', x=-213.60, y=73.00, z=-2063.46] died: Pigvan the Coffee Addict was slain by Mob Masher
+[24Aug2025 05:25:04.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Darko the Gorilla Slaughterer'/1173929, l='ServerLevel[world]', x=-214.20, y=73.00, z=-2064.65] died: Darko the Gorilla Slaughterer was slain by Mob Masher
+[24Aug2025 05:25:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [The Chaos of Hell]
+[24Aug2025 05:27:54.110] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1193359, l='ServerLevel[world]', x=264.00, y=31.00, z=101.00] as it would cause deadlock
+[24Aug2025 05:28:32.334] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Habswift the Burger Chef'/1197857, l='ServerLevel[world]', x=-214.20, y=73.00, z=-2064.73] died: Habswift the Burger Chef was slain by Mob Masher
+[24Aug2025 05:29:39.244] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:29:39.245] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:32:00.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Captain Apha the Grand Magistrix'/1222719, l='ServerLevel[world]', x=-213.35, y=73.00, z=-2063.63] died: Captain Apha the Grand Magistrix was slain by Mob Masher
+[24Aug2025 05:33:02.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Richard the Hungry'/1212216, l='ServerLevel[world]', x=196.00, y=102.00, z=-521.46] died: Richard the Hungry was killed by magic while trying to escape Rogerto
+[24Aug2025 05:33:23.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=97, z=-544} BlockPos{x=190, y=102, z=-526}
+[24Aug2025 05:35:02.660] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:02.662] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:02.686] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:02.997] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:02.997] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 05:35:09.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Thomas the Knight'/1244553, l='ServerLevel[world]', x=-213.32, y=73.94, z=-2064.68] died: Thomas the Knight was slain by Mob Masher
