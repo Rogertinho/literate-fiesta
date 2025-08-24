@@ -9463,3 +9463,14 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [24Aug2025 06:44:55.121] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [24Aug2025 06:46:31.671] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [24Aug2025 06:46:32.219] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:49:35.868] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:50:58.084] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:obsidian_skull' on spawned entity 'ZombifiedPiglin['Zombified Piglin'/1373570, l='ServerLevel[world]', x=-459.50, y=46.00, z=-621.50]'
+[24Aug2025 06:51:33.243] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Ostograb the Grand Magistrix'/1373532, l='ServerLevel[world]', x=-526.79, y=71.00, z=-542.95] died: Ostograb the Grand Magistrix was killed by magic while trying to escape Rogerto
+[24Aug2025 06:55:11.758] [Worker-Main-18/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1376777, l='ServerLevel[world]', x=-853.00, y=99.00, z=-695.00] as it would cause deadlock
+[24Aug2025 06:55:14.083] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1376791, l='ServerLevel[world]', x=-873.00, y=31.00, z=-279.00] as it would cause deadlock
+[24Aug2025 06:57:01.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-549, y=52, z=-500} BlockPos{x=-548, y=50, z=-500}
+[24Aug2025 06:58:26.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3693ms or 73 ticks behind
+[24Aug2025 07:01:44.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
+[24Aug2025 07:01:44.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
+[24Aug2025 07:03:43.484] [Server thread/WARN] [Silent Gear/]: Item lost in salvager: 1 minecraft:stick
+[24Aug2025 07:05:39.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Breeze['Duchess Iushellver the Alien'/1446552, l='ServerLevel[world]', x=-213.60, y=73.00, z=-2063.46] died: Duchess Iushellver the Alien was slain by Mob Masher

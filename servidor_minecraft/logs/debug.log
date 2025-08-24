@@ -58035,3 +58035,69 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [24Aug2025 06:46:32.218] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [24Aug2025 06:46:32.219] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [24Aug2025 06:47:17.316] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[24Aug2025 06:47:52.969] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:47:57.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:48:02.312] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:48:47.720] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:49:01.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:49:24.669] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:49:35.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:49:35.868] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:49:52.271] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:49:58.318] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:50:22.118] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:50:22.268] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 06:50:58.084] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:obsidian_skull' on spawned entity 'ZombifiedPiglin['Zombified Piglin'/1373570, l='ServerLevel[world]', x=-459.50, y=46.00, z=-621.50]'
+[24Aug2025 06:51:33.243] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Ostograb the Grand Magistrix'/1373532, l='ServerLevel[world]', x=-526.79, y=71.00, z=-542.95] died: Ostograb the Grand Magistrix was killed by magic while trying to escape Rogerto
+[24Aug2025 06:51:37.777] [Worker-Main-18/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-843, y=12, z=-560} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 06:51:41.239] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-859, y=84, z=-667} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 06:51:41.424] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-857, y=12, z=-356} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 06:51:41.939] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-861, y=94, z=-303} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 06:52:56.172] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:52:58.727] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:53:11.972] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:53:13.074] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:53:46.674] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:53:48.628] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:54:17.067] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:54:50.570] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:55:11.635] [Worker-Main-17/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-868, y=70, z=-726} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 06:55:11.758] [Worker-Main-18/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1376777, l='ServerLevel[world]', x=-853.00, y=99.00, z=-695.00] as it would cause deadlock
+[24Aug2025 06:55:13.612] [Worker-Main-18/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-884, y=62, z=-494} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 06:55:13.891] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-895, y=72, z=-538} Block{productivebees:nether_quartz_nest}[facing=up]
+[24Aug2025 06:55:14.083] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1376791, l='ServerLevel[world]', x=-873.00, y=31.00, z=-279.00] as it would cause deadlock
+[24Aug2025 06:55:22.278] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 06:55:22.792] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[24Aug2025 06:55:50.840] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[24Aug2025 06:56:25.371] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:56:29.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:56:44.272] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[24Aug2025 06:56:44.921] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[24Aug2025 06:56:45.720] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[24Aug2025 06:57:01.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-549, y=52, z=-500} BlockPos{x=-548, y=50, z=-500}
+[24Aug2025 06:57:18.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:57:20.826] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 06:58:22.942] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[24Aug2025 06:58:22.969] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[24Aug2025 06:58:26.615] [Worker-Main-11/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-538, y=67, z=-507} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[24Aug2025 06:58:26.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3693ms or 73 ticks behind
+[24Aug2025 06:58:29.702] [Server thread/DEBUG] [compactmachines/]: Resetting player Rogerto's room history due to dimension change.
+[24Aug2025 06:58:29.740] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[24Aug2025 07:00:25.921] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 07:00:47.386] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_axe': 0.484375
+[24Aug2025 07:00:57.387] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_sword': 0.4375
+[24Aug2025 07:01:07.386] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_sword': 0.0
+[24Aug2025 07:01:17.389] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_sword': 0.0
+[24Aug2025 07:01:27.385] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_sword': 0.0
+[24Aug2025 07:01:44.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuLo7 lost connection: Disconnected
+[24Aug2025 07:01:44.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 left the game
+[24Aug2025 07:02:43.484] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_sword': 0.5
+[24Aug2025 07:02:53.483] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_sword': 0.484375
+[24Aug2025 07:03:03.484] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_sword': 0.5
+[24Aug2025 07:03:13.484] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_sword': 0.296875
+[24Aug2025 07:03:23.490] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_axe': 0.46875
+[24Aug2025 07:03:33.485] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_axe': 0.5
+[24Aug2025 07:03:43.484] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_axe': 0.4375
+[24Aug2025 07:03:43.484] [Server thread/WARN] [Silent Gear/]: Item lost in salvager: 1 minecraft:stick
+[24Aug2025 07:05:25.878] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 07:05:39.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Breeze['Duchess Iushellver the Alien'/1446552, l='ServerLevel[world]', x=-213.60, y=73.00, z=-2063.46] died: Duchess Iushellver the Alien was slain by Mob Masher
