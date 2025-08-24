@@ -57714,3 +57714,16 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [24Aug2025 04:10:05.711] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [24Aug2025 04:12:07.937] [Server thread/INFO] [fastsuite/]: Constructed recipe list for productivebees:centrifuge in 52.06 μs. 0/200 recipes are parallelized.
 [24Aug2025 04:12:30.384] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.20089285714285715
+[24Aug2025 04:15:05.696] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:15:05.842] [Server thread/DEBUG] [pneumaticcraft/]: 31 active Amadron offers to sync to clients
+[24Aug2025 04:17:46.535] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.4175824175824176
+[24Aug2025 04:20:05.695] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:21:05.138] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_axe': 0.0
+[24Aug2025 04:21:29.735] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_axe': 0.0
+[24Aug2025 04:22:33.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Pages of Discovery]
+[24Aug2025 04:25:05.717] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:26:48.575] [Server thread/DEBUG] [mixin/]: Mixing ConnectivityHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.api.connectivity.ConnectivityHandler
+[24Aug2025 04:26:48.575] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[24Aug2025 04:26:48.593] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidSingle(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[24Aug2025 04:26:48.594] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:ConnectivityHandlerMixin from mod create_enchantment_industry->@Inject::splitMulti$dropExperienceFluidMulti(Lnet/minecraft/world/level/block/entity/BlockEntity;Ljava/lang/Object;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[24Aug2025 04:30:05.697] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
