@@ -9413,3 +9413,12 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [24Aug2025 05:42:43.769] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1284807, l='ServerLevel[world]', x=-747.00, y=31.00, z=-566.00] as it would cause deadlock
 [24Aug2025 05:42:54.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bogged['Kenmist the Not Very Nice'/1285419, l='ServerLevel[world]', x=-213.39, y=73.00, z=-2063.68] died: Kenmist the Not Very Nice was slain by Mob Masher
 [24Aug2025 05:45:42.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-458, y=47, z=-483} BlockPos{x=-429, y=49, z=-493}
+[24Aug2025 05:48:33.705] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:diamond_horse_armor
+[24Aug2025 05:49:31.446] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:diamond_horse_armor
+[24Aug2025 05:49:31.446] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[24Aug2025 05:49:45.268] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[24Aug2025 05:49:51.119] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[24Aug2025 05:50:40.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[24Aug2025 05:50:58.172] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[24Aug2025 05:51:31.821] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[24Aug2025 05:52:36.894] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
