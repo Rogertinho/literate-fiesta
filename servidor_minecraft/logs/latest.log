@@ -9364,3 +9364,25 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [24Aug2025 02:24:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto left the game
 [24Aug2025 02:24:35.972] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [24Aug2025 02:29:20.413] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:antidote_vessel' on spawned entity 'WitherSkeleton['Wither Skeleton'/11630, l='ServerLevel[world]', x=19.50, y=83.00, z=-519.50]'
+[24Aug2025 02:31:07.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
+[24Aug2025 02:31:10.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rogerto[/127.236.71.96:38699] logged in with entity id 11897 at (11.657058558647229, 10.0, -385.59312635848244)
+[24Aug2025 02:31:10.533] [Server thread/INFO] [ars_unification/]: AE2CircuitPrintingProcesser processed recipes in 76.25 ms
+[24Aug2025 02:31:10.616] [Server thread/INFO] [ars_unification/]: IntegratedDynamicsSqueezerProcessor processed recipes in 82.85 ms
+[24Aug2025 02:31:10.683] [Server thread/INFO] [ars_unification/]: OccultismCrusherProcessor processed recipes in 66.28 ms
+[24Aug2025 02:31:10.748] [Server thread/INFO] [ars_unification/]: EnderIOSAGMillProcessor processed recipes in 64.47 ms
+[24Aug2025 02:31:10.819] [Server thread/INFO] [ars_unification/]: ModernIndustrializationCompressorProcessor processed recipes in 70.02 ms
+[24Aug2025 02:31:10.889] [Server thread/INFO] [ars_unification/]: MekanismSawmillProcessor processed recipes in 69.94 ms
+[24Aug2025 02:31:10.985] [Server thread/INFO] [ars_unification/]: MekanismCrusherProcessor processed recipes in 93.76 ms
+[24Aug2025 02:31:11.072] [Server thread/INFO] [ars_unification/]: ModernIndustrializationMaceratorProcessor processed recipes in 86.63 ms
+[24Aug2025 02:31:11.146] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringCrusherProcessor processed recipes in 70.81 ms
+[24Aug2025 02:31:11.195] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringSawmillProcessor processed recipes in 48.56 ms
+[24Aug2025 02:31:11.248] [Server thread/INFO] [ars_unification/]: ActuallyAdditionsCrusherProcessor processed recipes in 52.32 ms
+[24Aug2025 02:31:11.290] [Server thread/INFO] [ars_unification/]: FarmersDelightCuttingBoardProcessor processed recipes in 41.33 ms
+[24Aug2025 02:31:11.330] [Server thread/INFO] [ars_unification/]: AE2InscriberProcesser processed recipes in 40.54 ms
+[24Aug2025 02:31:11.331] [Server thread/INFO] [ars_unification/]: Finished processing recipes in 874.4 ms
+[24Aug2025 02:31:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto joined the game
+[24Aug2025 02:31:11.698] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[24Aug2025 02:31:11.722] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Rogerto} with UUID b544a06f-68b5-3fe8-9a0f-7fb32601617a.
+[24Aug2025 02:33:27.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[24Aug2025 02:35:38.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[24Aug2025 02:36:14.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Oh Shiny]

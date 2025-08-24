@@ -57624,3 +57624,238 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [24Aug2025 02:24:35.972] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [24Aug2025 02:27:44.668] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [24Aug2025 02:29:20.413] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:antidote_vessel' on spawned entity 'WitherSkeleton['Wither Skeleton'/11630, l='ServerLevel[world]', x=19.50, y=83.00, z=-519.50]'
+[24Aug2025 02:31:00.939] [Netty Epoll Server IO #1/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@afcd6f7 into net.minecraft.network.Connection@33006c4e
+[24Aug2025 02:31:07.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
+[24Aug2025 02:31:08.322] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/config_data'
+[24Aug2025 02:31:08.423] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/synced_entity_data'
+[24Aug2025 02:31:10.149] [Netty Epoll Server IO #1/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@25dba077 into net.minecraft.network.Connection@33006c4e
+[24Aug2025 02:31:10.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rogerto[/127.236.71.96:38699] logged in with entity id 11897 at (11.657058558647229, 10.0, -385.59312635848244)
+[24Aug2025 02:31:10.533] [Server thread/INFO] [ars_unification/]: AE2CircuitPrintingProcesser processed recipes in 76.25 ms
+[24Aug2025 02:31:10.557] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cure_poison
+[24Aug2025 02:31:10.557] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:organic
+[24Aug2025 02:31:10.557] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:dulling
+[24Aug2025 02:31:10.557] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:neptunes_blessing
+[24Aug2025 02:31:10.557] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:holy
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:enderbane
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:leaping
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:confetti
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:aquatic
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:barrier_jacket
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:critical_strike
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:chilled
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:indestructible
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:mighty
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:stellar
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:void_ward
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:widen
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:bending
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:adamant
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:venom
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:bulky
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:chipping
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:crackler
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:synergistic
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:cloaking
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:flexible
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:fractal
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:malleable
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:floatstoner
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:advanced_aquatic
+[24Aug2025 02:31:10.558] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:silky
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:kitty_vision
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cure_nausea
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:sting_resist
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:ancient
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:flame_ward
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:freeze_resistant
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:road_maker
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:greedy
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:lustrous
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:racker
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:hearty
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:bastion
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:turtle
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:fireproof
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:flutter
+[24Aug2025 02:31:10.559] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:swift_swim
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:twinkletoes
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:fortunate
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:imperial
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:soft
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:flammable
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:magnetic
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:refractive
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:sturdy
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:reach
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cursed
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:advanced_flame_ward
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:hasty
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:heavy
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:sharp
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:brittle
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:step_up
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:light
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:multi_break
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:rustic
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:eroded
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:jabberwocky
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:gold_digger
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:jagged
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:power
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cure_levitation
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:renew
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:terminus
+[24Aug2025 02:31:10.560] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:accelerate
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:red_card
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:lucky
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:crushing
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:ignite
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:yummy
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:brilliant
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:moonwalker
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cure_wither
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:vulcan
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:snow_walker
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:crude
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:heat_resistant
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:spoon
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:magmatic
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:hard
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:booster
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:bounce
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:fiery
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cure_poison
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:organic
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:dulling
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:neptunes_blessing
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:holy
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:enderbane
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:leaping
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:confetti
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:aquatic
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:barrier_jacket
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:critical_strike
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:chilled
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:indestructible
+[24Aug2025 02:31:10.561] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:mighty
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:stellar
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:void_ward
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:widen
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:bending
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:adamant
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:venom
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:bulky
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:chipping
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:crackler
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:synergistic
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:cloaking
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:flexible
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:fractal
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:malleable
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:floatstoner
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:advanced_aquatic
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:silky
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:kitty_vision
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cure_nausea
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:sting_resist
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:ancient
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:flame_ward
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:freeze_resistant
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:road_maker
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:greedy
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:lustrous
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:racker
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:hearty
+[24Aug2025 02:31:10.562] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:bastion
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:turtle
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:fireproof
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:flutter
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:swift_swim
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:twinkletoes
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:fortunate
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:imperial
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:soft
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:flammable
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:magnetic
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:refractive
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:sturdy
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:reach
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cursed
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:advanced_flame_ward
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:hasty
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:heavy
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:sharp
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:brittle
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:step_up
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:light
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:multi_break
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:rustic
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:eroded
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:jabberwocky
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:gold_digger
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:jagged
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:power
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cure_levitation
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:renew
+[24Aug2025 02:31:10.563] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:terminus
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:accelerate
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:red_card
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:lucky
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:crushing
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:ignite
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:yummy
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:brilliant
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:moonwalker
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:cure_wither
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:vulcan
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:snow_walker
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:crude
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:heat_resistant
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:spoon
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:magmatic
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:hard
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgems:booster
+[24Aug2025 02:31:10.564] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:bounce
+[24Aug2025 02:31:10.565] [Netty Epoll Server IO #1/DEBUG] [Silent Gear/]: trait encode silentgear:fiery
+[24Aug2025 02:31:10.616] [Server thread/INFO] [ars_unification/]: IntegratedDynamicsSqueezerProcessor processed recipes in 82.85 ms
+[24Aug2025 02:31:10.683] [Server thread/INFO] [ars_unification/]: OccultismCrusherProcessor processed recipes in 66.28 ms
+[24Aug2025 02:31:10.748] [Server thread/INFO] [ars_unification/]: EnderIOSAGMillProcessor processed recipes in 64.47 ms
+[24Aug2025 02:31:10.819] [Server thread/INFO] [ars_unification/]: ModernIndustrializationCompressorProcessor processed recipes in 70.02 ms
+[24Aug2025 02:31:10.889] [Server thread/INFO] [ars_unification/]: MekanismSawmillProcessor processed recipes in 69.94 ms
+[24Aug2025 02:31:10.985] [Server thread/INFO] [ars_unification/]: MekanismCrusherProcessor processed recipes in 93.76 ms
+[24Aug2025 02:31:11.072] [Server thread/INFO] [ars_unification/]: ModernIndustrializationMaceratorProcessor processed recipes in 86.63 ms
+[24Aug2025 02:31:11.146] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringCrusherProcessor processed recipes in 70.81 ms
+[24Aug2025 02:31:11.195] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringSawmillProcessor processed recipes in 48.56 ms
+[24Aug2025 02:31:11.248] [Server thread/INFO] [ars_unification/]: ActuallyAdditionsCrusherProcessor processed recipes in 52.32 ms
+[24Aug2025 02:31:11.290] [Server thread/INFO] [ars_unification/]: FarmersDelightCuttingBoardProcessor processed recipes in 41.33 ms
+[24Aug2025 02:31:11.330] [Server thread/INFO] [ars_unification/]: AE2InscriberProcesser processed recipes in 40.54 ms
+[24Aug2025 02:31:11.331] [Server thread/INFO] [ars_unification/]: Finished processing recipes in 874.4 ms
+[24Aug2025 02:31:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto joined the game
+[24Aug2025 02:31:11.390] [Server thread/DEBUG] [FTB Teams/]: player b544a06f-68b5-3fe8-9a0f-7fb32601617a logged in, player team = Rogerto#b544a06f
+[24Aug2025 02:31:11.391] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[24Aug2025 02:31:11.413] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[24Aug2025 02:31:11.414] [Server thread/DEBUG] [FTB Teams/]: sending team login event for b544a06f-68b5-3fe8-9a0f-7fb32601617a...
+[24Aug2025 02:31:11.414] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = b544a06f-68b5-3fe8-9a0f-7fb32601617a, team = eeb7859e-93d9-4fdd-b1d7-1aca3e6f186a
+[24Aug2025 02:31:11.414] [Server thread/DEBUG] [FTB Chunks/]: team data sent to b544a06f-68b5-3fe8-9a0f-7fb32601617a
+[24Aug2025 02:31:11.414] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to b544a06f-68b5-3fe8-9a0f-7fb32601617a
+[24Aug2025 02:31:11.414] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to b544a06f-68b5-3fe8-9a0f-7fb32601617a
+[24Aug2025 02:31:11.454] [Server thread/DEBUG] [FTB Quests/]: Wrote 702303 bytes, 16296 objects
+[24Aug2025 02:31:11.523] [Server thread/DEBUG] [FTB Teams/]: team login event for b544a06f-68b5-3fe8-9a0f-7fb32601617a sent
+[24Aug2025 02:31:11.698] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[24Aug2025 02:31:11.722] [Server thread/DEBUG] [actuallyadditions/]: Sending data {BatWingsFlyTime:0,BookGotten:0b,HasBatWings:0b,ShouldDisableWings:0b}
+[24Aug2025 02:31:11.722] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Rogerto} with UUID b544a06f-68b5-3fe8-9a0f-7fb32601617a.
+[24Aug2025 02:31:11.728] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to Rogerto (b544a06f-68b5-3fe8-9a0f-7fb32601617a)
+[24Aug2025 02:32:47.399] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 02:32:47.607] [Server thread/DEBUG] [pneumaticcraft/]: 30 active Amadron offers to sync to clients
+[24Aug2025 02:33:27.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[24Aug2025 02:33:27.097] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 02:33:27.286] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 02:35:35.745] [Server thread/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[24Aug2025 02:35:35.764] [Server thread/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[24Aug2025 02:35:38.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[24Aug2025 02:36:14.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Oh Shiny]
+[24Aug2025 02:37:52.601] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 02:39:10.295] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[24Aug2025 02:40:39.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 02:40:48.171] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[24Aug2025 02:40:48.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
