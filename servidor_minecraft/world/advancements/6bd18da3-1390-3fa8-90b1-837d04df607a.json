@@ -323,6 +323,7 @@
       "glistering_meadow": "2025-08-19 04:28:18 +0000",
       "rocky_meadow": "2025-08-17 05:00:40 +0000",
       "mycotoxic_undergrowth": "2025-08-24 05:44:48 +0000",
+      "blackstone_basin": "2025-08-24 06:40:56 +0000",
       "flower_fields": "2025-08-19 04:57:10 +0000",
       "gravel_beach": "2025-08-18 02:02:05 +0000",
       "highland_fields": "2025-08-19 04:57:59 +0000",
@@ -1079,6 +1080,7 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-08-24 05:44:48 +0000",
+      "blackstone_basin": "2025-08-24 06:40:56 +0000",
       "infernal_holt": "2025-08-24 05:45:21 +0000",
       "glistering_meadow": "2025-08-19 04:28:18 +0000"
     },
@@ -1413,6 +1415,12 @@
       "hellshelf": "2025-08-24 05:25:29 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-08-24 06:43:46 +0000"
+    },
+    "done": false
   },
   "naturesaura:root": {
     "criteria": {

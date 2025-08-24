@@ -9430,3 +9430,36 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [24Aug2025 06:21:55.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [24Aug2025 06:21:56.253] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [24Aug2025 06:24:50.297] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:27:56.086] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:27:56.086] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[24Aug2025 06:27:56.087] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:27:56.087] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[24Aug2025 06:27:56.087] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:27:56.088] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[24Aug2025 06:27:56.088] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:27:56.088] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[24Aug2025 06:28:00.544] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:28:00.578] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:29:07.180] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:obsidian_skull' on spawned entity 'ZombifiedPiglin['Zombified Piglin'/1332297, l='ServerLevel[world]', x=-502.50, y=52.00, z=-541.50]'
+[24Aug2025 06:30:54.996] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:30:54.996] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:30:55.154] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:30:55.156] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:30:55.182] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:30:55.182] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[24Aug2025 06:31:18.359] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:31:46.268] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:31:53.752] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:32:12.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:33:07.005] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:33:10.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:36:44.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5258ms or 105 ticks behind
+[24Aug2025 06:37:00.789] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:universal_attractor' on spawned entity 'Piglin['Piglin'/1340476, l='ServerLevel[world]', x=-502.50, y=47.00, z=-545.50]'
+[24Aug2025 06:39:27.090] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Viscount Imkenrune the Legendary'/1352132, l='ServerLevel[world]', x=-213.37, y=73.00, z=-2063.69] died: Viscount Imkenrune the Legendary was slain by Mob Masher
+[24Aug2025 06:42:03.166] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:42:18.165] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:42:45.663] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:44:33.570] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:44:55.121] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:46:31.671] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:46:32.219] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container

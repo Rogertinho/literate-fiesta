@@ -297,6 +297,7 @@
       "blackwood_taiga": "2025-08-18 02:19:59 +0000",
       "mycotoxic_undergrowth": "2025-08-24 05:35:01 +0000",
       "pine_taiga": "2025-08-18 02:19:57 +0000",
+      "blackstone_basin": "2025-08-24 06:36:51 +0000",
       "flower_fields": "2025-08-21 05:24:08 +0000",
       "highland_fields": "2025-08-18 02:19:39 +0000",
       "maple_forest": "2025-08-18 02:14:54 +0000",
@@ -1320,6 +1321,7 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-08-24 05:35:01 +0000",
+      "blackstone_basin": "2025-08-24 06:36:51 +0000",
       "infernal_holt": "2025-08-24 05:39:30 +0000",
       "glistering_meadow": "2025-08-22 05:53:17 +0000"
     },
@@ -1431,6 +1433,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-08-24 06:43:45 +0000"
+    },
+    "done": false
+  },
   "naturesaura:root": {
     "criteria": {
       "book": "2025-08-24 05:07:31 +0000"
@@ -1442,6 +1450,12 @@
       "leaf": "2025-08-24 05:07:28 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2025-08-24 06:36:08 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
