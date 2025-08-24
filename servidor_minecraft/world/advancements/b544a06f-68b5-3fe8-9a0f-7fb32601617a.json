@@ -1399,5 +1399,11 @@
     },
     "done": true
   },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2025-08-24 03:53:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

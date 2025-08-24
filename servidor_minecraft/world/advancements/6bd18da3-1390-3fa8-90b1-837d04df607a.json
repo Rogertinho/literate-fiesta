@@ -1380,5 +1380,11 @@
     },
     "done": true
   },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-08-24 03:40:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

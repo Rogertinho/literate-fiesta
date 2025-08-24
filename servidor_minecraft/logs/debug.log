@@ -57662,3 +57662,48 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [24Aug2025 03:36:13.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Stephanie the Bishop'/255706, l='ServerLevel[world]', x=-214.30, y=73.00, z=-2064.62] died: Stephanie the Bishop was slain by Mob Masher
 [24Aug2025 03:39:58.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bogged['Grabedit'/282947, l='ServerLevel[world]', x=-214.30, y=73.00, z=-2064.62] died: Grabedit was slain by Mob Masher
 [24Aug2025 03:40:05.704] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 03:44:12.540] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Wolffae the Super'/304143, l='ServerLevel[world]', x=-213.32, y=73.00, z=-2063.74] died: Wolffae the Super was slain by Mob Masher
+[24Aug2025 03:44:12.541] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[24Aug2025 03:44:12.541] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[24Aug2025 03:45:05.777] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 03:48:48.288] [Server thread/INFO] [fastsuite/]: Constructed recipe list for mysticalagriculture:infusion in 243.8 μs. 0/188 recipes are parallelized.
+[24Aug2025 03:50:05.719] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 03:52:13.527] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph-compatibility.neoforge.mixins.json into dev.shadowsoffire.fastbench.util.FastBenchUtil
+[24Aug2025 03:52:13.528] [Server thread/DEBUG] [mixin/]: polymorph-compatibility.neoforge.mixins.json:fastbench.MixinFastBenchUtil from mod polymorph: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[24Aug2025 03:52:54.235] [Server thread/INFO] [fastsuite/]: Constructed recipe list for silentgear:salvaging in 61.26 μs. 0/106 recipes are parallelized.
+[24Aug2025 03:53:04.192] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_helmet': 0.4805194805194805
+[24Aug2025 03:53:14.204] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_helmet': 0.487012987012987
+[24Aug2025 03:53:24.187] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.38461538461538464
+[24Aug2025 03:53:34.185] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.47802197802197804
+[24Aug2025 03:53:44.185] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.38461538461538464
+[24Aug2025 03:53:54.185] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.39732142857142855
+[24Aug2025 03:54:04.186] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.20535714285714285
+[24Aug2025 03:54:14.186] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.3791208791208791
+[24Aug2025 03:54:24.188] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.4340659340659341
+[24Aug2025 03:54:34.186] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.0
+[24Aug2025 03:54:44.186] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_leggings': 0.21904761904761905
+[24Aug2025 03:54:54.186] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:iron_boots': 0.4461538461538462
+[24Aug2025 03:55:04.184] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.4340659340659341
+[24Aug2025 03:55:05.710] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 03:55:05.791] [Server thread/DEBUG] [pneumaticcraft/]: 27 active Amadron offers to sync to clients
+[24Aug2025 03:55:14.187] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.0
+[24Aug2025 03:55:24.187] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_helmet': 0.4935064935064935
+[24Aug2025 03:55:34.186] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_helmet': 0.3116883116883117
+[24Aug2025 03:55:44.186] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_leggings': 0.4857142857142857
+[24Aug2025 03:55:54.185] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.049107142857142856
+[24Aug2025 03:56:17.041] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.27232142857142855
+[24Aug2025 03:56:27.040] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.4375
+[24Aug2025 03:56:37.037] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.3626373626373626
+[24Aug2025 03:56:47.036] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.4835164835164835
+[24Aug2025 03:56:57.040] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.3956043956043956
+[24Aug2025 03:57:07.035] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.34065934065934067
+[24Aug2025 03:57:17.035] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.4955357142857143
+[24Aug2025 03:57:27.036] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.4955357142857143
+[24Aug2025 03:57:37.035] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_leggings': 0.49047619047619045
+[24Aug2025 03:57:47.035] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_helmet': 0.461038961038961
+[24Aug2025 03:57:57.035] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:chainmail_chestplate': 0.15833333333333333
+[24Aug2025 03:58:07.036] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:chainmail_chestplate': 0.38125
+[24Aug2025 03:58:17.037] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:chainmail_chestplate': 0.46875
+[24Aug2025 03:58:27.035] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.29120879120879123
+[24Aug2025 03:58:37.035] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.47767857142857145
+[24Aug2025 04:00:05.709] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
