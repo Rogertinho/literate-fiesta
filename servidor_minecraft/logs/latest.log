@@ -9380,3 +9380,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [24Aug2025 04:47:37.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Mother Anne the Head of Potatoes'/831387, l='ServerLevel[world]', x=-214.32, y=73.00, z=-2064.56] died: Mother Anne the Head of Potatoes was slain by Mob Masher
 [24Aug2025 04:48:35.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
 [24Aug2025 04:52:11.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
+[24Aug2025 04:57:34.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Grabor'/899202, l='ServerLevel[world]', x=-213.39, y=73.00, z=-2063.66] died: Grabor was slain by Mob Masher

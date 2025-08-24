@@ -57754,3 +57754,11 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [24Aug2025 04:52:09.828] [Server thread/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
 [24Aug2025 04:52:09.828] [Server thread/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
 [24Aug2025 04:52:11.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
+[24Aug2025 04:55:11.952] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:55:12.286] [Server thread/DEBUG] [pneumaticcraft/]: 29 active Amadron offers to sync to clients
+[24Aug2025 04:57:34.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Grabor'/899202, l='ServerLevel[world]', x=-213.39, y=73.00, z=-2063.66] died: Grabor was slain by Mob Masher
+[24Aug2025 04:58:31.387] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[24Aug2025 04:58:31.390] [Server thread/DEBUG] [compactmachines/]: Resetting player LuLo7's room history due to dimension change.
+[24Aug2025 04:58:31.426] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Aug2025 05:00:11.593] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 05:05:11.606] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
