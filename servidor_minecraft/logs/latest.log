@@ -9376,3 +9376,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [24Aug2025 04:36:13.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Time = Brilliance]
 [24Aug2025 04:37:48.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Powers of the Forest]
 [24Aug2025 04:40:53.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Squidsondire the Lame'/763334, l='ServerLevel[world]', x=-213.33, y=73.00, z=-2063.73] died: Squidsondire the Lame was slain by Mob Masher
+[24Aug2025 04:45:42.038] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Duke Young the Extra-Fishy'/792339, l='ServerLevel[world]', x=-214.28, y=73.00, z=-2064.66] died: Duke Young the Extra-Fishy was slain by Mob Masher
+[24Aug2025 04:47:37.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Mother Anne the Head of Potatoes'/831387, l='ServerLevel[world]', x=-214.32, y=73.00, z=-2064.56] died: Mother Anne the Head of Potatoes was slain by Mob Masher
+[24Aug2025 04:48:35.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
+[24Aug2025 04:52:11.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
