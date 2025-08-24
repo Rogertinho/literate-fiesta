@@ -57656,3 +57656,9 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [24Aug2025 03:21:07.044] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [24Aug2025 03:25:05.698] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [24Aug2025 03:30:05.696] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 03:33:34.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Vanbrightbor the Errant'/235667, l='ServerLevel[world]', x=-213.40, y=73.00, z=-2063.66] died: Vanbrightbor the Errant was slain by Mob Masher
+[24Aug2025 03:35:05.714] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 03:35:05.767] [Server thread/DEBUG] [pneumaticcraft/]: 28 active Amadron offers to sync to clients
+[24Aug2025 03:36:13.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Stephanie the Bishop'/255706, l='ServerLevel[world]', x=-214.30, y=73.00, z=-2064.62] died: Stephanie the Bishop was slain by Mob Masher
+[24Aug2025 03:39:58.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bogged['Grabedit'/282947, l='ServerLevel[world]', x=-214.30, y=73.00, z=-2064.62] died: Grabedit was slain by Mob Masher
+[24Aug2025 03:40:05.704] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
