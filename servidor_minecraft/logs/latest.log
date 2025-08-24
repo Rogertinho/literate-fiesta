@@ -9422,3 +9422,11 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [24Aug2025 05:50:58.172] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
 [24Aug2025 05:51:31.821] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
 [24Aug2025 05:52:36.894] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[24Aug2025 06:04:24.529] [Server thread/WARN] [artifacts.Artifacts/]: Could not equip item '1 artifacts:obsidian_skull' on spawned entity 'ZombifiedPiglin['Zombified Piglin'/1314918, l='ServerLevel[world]', x=-289.50, y=98.00, z=-468.50]'
+[24Aug2025 06:11:04.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Gleamrage the Odd-Smelling'/1322769, l='ServerLevel[world]', x=-477.63, y=65.00, z=-575.63] died: Gleamrage the Odd-Smelling was slain by Piglin Brute
+[24Aug2025 06:13:23.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuLo7 has made the advancement [Downer]
+[24Aug2025 06:13:33.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Drew the Grand Magistrix'/1327139, l='ServerLevel[world]', x=-384.35, y=89.00, z=-532.09] died: 1$s has perished from holy damage
+[24Aug2025 06:21:08.146] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:21:55.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:21:56.253] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[24Aug2025 06:24:50.297] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container

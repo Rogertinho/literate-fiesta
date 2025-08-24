@@ -1092,6 +1092,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-24 05:57:32 +0000",
       "minecraft:nether_wastes": "2025-08-19 04:32:22 +0000",
       "minecraft:soul_sand_valley": "2025-08-24 05:45:34 +0000",
       "minecraft:basalt_deltas": "2025-08-19 04:31:07 +0000"
@@ -1392,6 +1393,12 @@
   "naturesaura:get_book": {
     "criteria": {
       "book": "2025-08-24 04:22:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-08-24 06:13:23 +0000"
     },
     "done": true
   },
