@@ -57707,3 +57707,10 @@ java.lang.IllegalStateException: Missing element ResourceKey[minecraft:loot_tabl
 [24Aug2025 03:58:27.035] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_boots': 0.29120879120879123
 [24Aug2025 03:58:37.035] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.47767857142857145
 [24Aug2025 04:00:05.709] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:05:05.716] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:07:15.684] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_helmet': 0.19480519480519481
+[24Aug2025 04:07:25.685] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:netherite_chestplate': 0.032939189189189186
+[24Aug2025 04:07:35.684] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.40625
+[24Aug2025 04:10:05.711] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[24Aug2025 04:12:07.937] [Server thread/INFO] [fastsuite/]: Constructed recipe list for productivebees:centrifuge in 52.06 μs. 0/200 recipes are parallelized.
+[24Aug2025 04:12:30.384] [Server thread/DEBUG] [Silent Gear/]: Loss rate for '1 minecraft:golden_chestplate': 0.20089285714285715
